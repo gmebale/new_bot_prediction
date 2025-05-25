@@ -1,0 +1,21 @@
+position,team_id,team_name,played_games,won,draw,lost,points,goals_for,goals_against,goal_difference
+1,64,Liverpool FC,36,25,8,3,83,83,37,46
+2,57,Arsenal FC,36,18,14,4,68,66,33,33
+3,67,Newcastle United FC,36,20,6,10,66,68,45,23
+4,61,Chelsea FC,37,19,9,9,66,63,43,20
+5,58,Aston Villa FC,37,19,9,9,66,58,49,9
+6,65,Manchester City FC,36,19,8,9,65,67,43,24
+7,351,Nottingham Forest FC,36,18,8,10,62,56,44,12
+8,402,Brentford FC,36,16,7,13,55,63,53,10
+9,397,Brighton & Hove Albion FC,36,14,13,9,55,59,56,3
+10,1044,AFC Bournemouth,36,14,11,11,53,55,43,12
+11,63,Fulham FC,36,14,9,13,51,51,50,1
+12,354,Crystal Palace FC,36,12,13,11,49,46,48,-2
+13,62,Everton FC,37,10,15,12,45,41,44,-3
+14,76,Wolverhampton Wanderers FC,36,12,5,19,41,51,64,-13
+15,563,West Ham United FC,36,10,10,16,40,42,59,-17
+16,66,Manchester United FC,37,10,9,18,39,42,54,-12
+17,73,Tottenham Hotspur FC,37,11,5,21,38,63,61,2
+18,349,Ipswich Town FC,36,4,10,22,22,35,77,-42
+19,338,Leicester City FC,36,5,7,24,22,31,78,-47
+20,340,Southampton FC,37,2,6,29,12,25,84,-59

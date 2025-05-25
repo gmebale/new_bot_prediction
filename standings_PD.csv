@@ -1,0 +1,21 @@
+position,team_id,team_name,played_games,won,draw,lost,points,goals_for,goals_against,goal_difference
+1,81,FC Barcelona,37,27,4,6,85,99,39,60
+2,86,Real Madrid CF,37,25,6,6,81,76,38,38
+3,78,Club Atlético de Madrid,37,21,10,6,73,64,30,34
+4,77,Athletic Club,37,19,13,5,70,54,26,28
+5,94,Villarreal CF,37,19,10,8,67,67,49,18
+6,90,Real Betis Balompié,37,16,11,10,59,56,49,7
+7,558,RC Celta de Vigo,37,15,7,15,52,57,56,1
+8,87,Rayo Vallecano de Madrid,37,13,12,12,51,41,45,-4
+9,79,CA Osasuna,37,12,15,10,51,47,51,-4
+10,89,RCD Mallorca,37,13,8,16,47,35,44,-9
+11,92,Real Sociedad de Fútbol,37,13,7,17,46,35,44,-9
+12,95,Valencia CF,37,11,12,14,45,43,53,-10
+13,82,Getafe CF,37,11,9,17,42,33,37,-4
+14,263,Deportivo Alavés,37,10,11,16,41,37,47,-10
+15,298,Girona FC,37,11,8,18,41,44,56,-12
+16,559,Sevilla FC,37,10,11,16,41,40,51,-11
+17,80,RCD Espanyol de Barcelona,37,10,9,18,39,38,51,-13
+18,745,CD Leganés,37,8,13,16,37,36,56,-20
+19,275,UD Las Palmas,37,8,8,21,32,40,59,-19
+20,250,Real Valladolid CF,37,4,4,29,16,26,87,-61

@@ -1,0 +1,2333 @@
+date,competition,home_team,away_team,home_score,away_score
+2024-08-16T19:00:00Z,PL,Manchester United FC,Fulham FC,1,0
+2024-08-17T11:30:00Z,PL,Ipswich Town FC,Liverpool FC,0,2
+2024-08-17T14:00:00Z,PL,Arsenal FC,Wolverhampton Wanderers FC,2,0
+2024-08-17T14:00:00Z,PL,Everton FC,Brighton & Hove Albion FC,0,3
+2024-08-17T14:00:00Z,PL,Newcastle United FC,Southampton FC,1,0
+2024-08-17T14:00:00Z,PL,Nottingham Forest FC,AFC Bournemouth,1,1
+2024-08-17T16:30:00Z,PL,West Ham United FC,Aston Villa FC,1,2
+2024-08-18T13:00:00Z,PL,Brentford FC,Crystal Palace FC,2,1
+2024-08-18T15:30:00Z,PL,Chelsea FC,Manchester City FC,0,2
+2024-08-19T19:00:00Z,PL,Leicester City FC,Tottenham Hotspur FC,1,1
+2024-08-24T11:30:00Z,PL,Brighton & Hove Albion FC,Manchester United FC,2,1
+2024-08-24T14:00:00Z,PL,Crystal Palace FC,West Ham United FC,0,2
+2024-08-24T14:00:00Z,PL,Fulham FC,Leicester City FC,2,1
+2024-08-24T14:00:00Z,PL,Manchester City FC,Ipswich Town FC,4,1
+2024-08-24T14:00:00Z,PL,Southampton FC,Nottingham Forest FC,0,1
+2024-08-24T14:00:00Z,PL,Tottenham Hotspur FC,Everton FC,4,0
+2024-08-24T16:30:00Z,PL,Aston Villa FC,Arsenal FC,0,2
+2024-08-25T13:00:00Z,PL,AFC Bournemouth,Newcastle United FC,1,1
+2024-08-25T13:00:00Z,PL,Wolverhampton Wanderers FC,Chelsea FC,2,6
+2024-08-25T15:30:00Z,PL,Liverpool FC,Brentford FC,2,0
+2024-08-31T11:30:00Z,PL,Arsenal FC,Brighton & Hove Albion FC,1,1
+2024-08-31T14:00:00Z,PL,Brentford FC,Southampton FC,3,1
+2024-08-31T14:00:00Z,PL,Everton FC,AFC Bournemouth,2,3
+2024-08-31T14:00:00Z,PL,Ipswich Town FC,Fulham FC,1,1
+2024-08-31T14:00:00Z,PL,Leicester City FC,Aston Villa FC,1,2
+2024-08-31T14:00:00Z,PL,Nottingham Forest FC,Wolverhampton Wanderers FC,1,1
+2024-08-31T16:30:00Z,PL,West Ham United FC,Manchester City FC,1,3
+2024-09-01T12:30:00Z,PL,Chelsea FC,Crystal Palace FC,1,1
+2024-09-01T12:30:00Z,PL,Newcastle United FC,Tottenham Hotspur FC,2,1
+2024-09-01T15:00:00Z,PL,Manchester United FC,Liverpool FC,0,3
+2024-09-14T11:30:00Z,PL,Southampton FC,Manchester United FC,0,3
+2024-09-14T14:00:00Z,PL,Brighton & Hove Albion FC,Ipswich Town FC,0,0
+2024-09-14T14:00:00Z,PL,Crystal Palace FC,Leicester City FC,2,2
+2024-09-14T14:00:00Z,PL,Fulham FC,West Ham United FC,1,1
+2024-09-14T14:00:00Z,PL,Liverpool FC,Nottingham Forest FC,0,1
+2024-09-14T14:00:00Z,PL,Manchester City FC,Brentford FC,2,1
+2024-09-14T16:30:00Z,PL,Aston Villa FC,Everton FC,3,2
+2024-09-14T19:00:00Z,PL,AFC Bournemouth,Chelsea FC,0,1
+2024-09-15T13:00:00Z,PL,Tottenham Hotspur FC,Arsenal FC,0,1
+2024-09-15T15:30:00Z,PL,Wolverhampton Wanderers FC,Newcastle United FC,1,2
+2024-09-21T11:30:00Z,PL,West Ham United FC,Chelsea FC,0,3
+2024-09-21T14:00:00Z,PL,Aston Villa FC,Wolverhampton Wanderers FC,3,1
+2024-09-21T14:00:00Z,PL,Fulham FC,Newcastle United FC,3,1
+2024-09-21T14:00:00Z,PL,Leicester City FC,Everton FC,1,1
+2024-09-21T14:00:00Z,PL,Liverpool FC,AFC Bournemouth,3,0
+2024-09-21T14:00:00Z,PL,Southampton FC,Ipswich Town FC,1,1
+2024-09-21T14:00:00Z,PL,Tottenham Hotspur FC,Brentford FC,3,1
+2024-09-21T16:30:00Z,PL,Crystal Palace FC,Manchester United FC,0,0
+2024-09-22T13:00:00Z,PL,Brighton & Hove Albion FC,Nottingham Forest FC,2,2
+2024-09-22T15:30:00Z,PL,Manchester City FC,Arsenal FC,2,2
+2024-09-28T11:30:00Z,PL,Newcastle United FC,Manchester City FC,1,1
+2024-09-28T14:00:00Z,PL,Arsenal FC,Leicester City FC,4,2
+2024-09-28T14:00:00Z,PL,Brentford FC,West Ham United FC,1,1
+2024-09-28T14:00:00Z,PL,Chelsea FC,Brighton & Hove Albion FC,4,2
+2024-09-28T14:00:00Z,PL,Everton FC,Crystal Palace FC,2,1
+2024-09-28T14:00:00Z,PL,Nottingham Forest FC,Fulham FC,0,1
+2024-09-28T16:30:00Z,PL,Wolverhampton Wanderers FC,Liverpool FC,1,2
+2024-09-29T13:00:00Z,PL,Ipswich Town FC,Aston Villa FC,2,2
+2024-09-29T15:30:00Z,PL,Manchester United FC,Tottenham Hotspur FC,0,3
+2024-09-30T19:00:00Z,PL,AFC Bournemouth,Southampton FC,3,1
+2024-10-05T11:30:00Z,PL,Crystal Palace FC,Liverpool FC,0,1
+2024-10-05T14:00:00Z,PL,Arsenal FC,Southampton FC,3,1
+2024-10-05T14:00:00Z,PL,Brentford FC,Wolverhampton Wanderers FC,5,3
+2024-10-05T14:00:00Z,PL,Leicester City FC,AFC Bournemouth,1,0
+2024-10-05T14:00:00Z,PL,Manchester City FC,Fulham FC,3,2
+2024-10-05T14:00:00Z,PL,West Ham United FC,Ipswich Town FC,4,1
+2024-10-05T16:30:00Z,PL,Everton FC,Newcastle United FC,0,0
+2024-10-06T13:00:00Z,PL,Aston Villa FC,Manchester United FC,0,0
+2024-10-06T13:00:00Z,PL,Chelsea FC,Nottingham Forest FC,1,1
+2024-10-06T15:30:00Z,PL,Brighton & Hove Albion FC,Tottenham Hotspur FC,3,2
+2024-10-19T11:30:00Z,PL,Tottenham Hotspur FC,West Ham United FC,4,1
+2024-10-19T14:00:00Z,PL,Fulham FC,Aston Villa FC,1,3
+2024-10-19T14:00:00Z,PL,Ipswich Town FC,Everton FC,0,2
+2024-10-19T14:00:00Z,PL,Manchester United FC,Brentford FC,2,1
+2024-10-19T14:00:00Z,PL,Newcastle United FC,Brighton & Hove Albion FC,0,1
+2024-10-19T14:00:00Z,PL,Southampton FC,Leicester City FC,2,3
+2024-10-19T16:30:00Z,PL,AFC Bournemouth,Arsenal FC,2,0
+2024-10-20T13:00:00Z,PL,Wolverhampton Wanderers FC,Manchester City FC,1,2
+2024-10-20T15:30:00Z,PL,Liverpool FC,Chelsea FC,2,1
+2024-10-21T19:00:00Z,PL,Nottingham Forest FC,Crystal Palace FC,1,0
+2024-10-25T19:00:00Z,PL,Leicester City FC,Nottingham Forest FC,1,3
+2024-10-26T14:00:00Z,PL,Aston Villa FC,AFC Bournemouth,1,1
+2024-10-26T14:00:00Z,PL,Brentford FC,Ipswich Town FC,4,3
+2024-10-26T14:00:00Z,PL,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,2,2
+2024-10-26T14:00:00Z,PL,Manchester City FC,Southampton FC,1,0
+2024-10-26T16:30:00Z,PL,Everton FC,Fulham FC,1,1
+2024-10-27T14:00:00Z,PL,Chelsea FC,Newcastle United FC,2,1
+2024-10-27T14:00:00Z,PL,Crystal Palace FC,Tottenham Hotspur FC,1,0
+2024-10-27T14:00:00Z,PL,West Ham United FC,Manchester United FC,2,1
+2024-10-27T16:30:00Z,PL,Arsenal FC,Liverpool FC,2,2
+2024-11-02T12:30:00Z,PL,Newcastle United FC,Arsenal FC,1,0
+2024-11-02T15:00:00Z,PL,AFC Bournemouth,Manchester City FC,2,1
+2024-11-02T15:00:00Z,PL,Ipswich Town FC,Leicester City FC,1,1
+2024-11-02T15:00:00Z,PL,Liverpool FC,Brighton & Hove Albion FC,2,1
+2024-11-02T15:00:00Z,PL,Nottingham Forest FC,West Ham United FC,3,0
+2024-11-02T15:00:00Z,PL,Southampton FC,Everton FC,1,0
+2024-11-02T17:30:00Z,PL,Wolverhampton Wanderers FC,Crystal Palace FC,2,2
+2024-11-03T14:00:00Z,PL,Tottenham Hotspur FC,Aston Villa FC,4,1
+2024-11-03T16:30:00Z,PL,Manchester United FC,Chelsea FC,1,1
+2024-11-04T20:00:00Z,PL,Fulham FC,Brentford FC,2,1
+2024-11-09T15:00:00Z,PL,Brentford FC,AFC Bournemouth,3,2
+2024-11-09T15:00:00Z,PL,Crystal Palace FC,Fulham FC,0,2
+2024-11-09T15:00:00Z,PL,West Ham United FC,Everton FC,0,0
+2024-11-09T15:00:00Z,PL,Wolverhampton Wanderers FC,Southampton FC,2,0
+2024-11-09T17:30:00Z,PL,Brighton & Hove Albion FC,Manchester City FC,2,1
+2024-11-09T20:00:00Z,PL,Liverpool FC,Aston Villa FC,2,0
+2024-11-10T14:00:00Z,PL,Manchester United FC,Leicester City FC,3,0
+2024-11-10T14:00:00Z,PL,Nottingham Forest FC,Newcastle United FC,1,3
+2024-11-10T14:00:00Z,PL,Tottenham Hotspur FC,Ipswich Town FC,1,2
+2024-11-10T16:30:00Z,PL,Chelsea FC,Arsenal FC,1,1
+2024-11-23T12:30:00Z,PL,Leicester City FC,Chelsea FC,1,2
+2024-11-23T15:00:00Z,PL,AFC Bournemouth,Brighton & Hove Albion FC,1,2
+2024-11-23T15:00:00Z,PL,Arsenal FC,Nottingham Forest FC,3,0
+2024-11-23T15:00:00Z,PL,Aston Villa FC,Crystal Palace FC,2,2
+2024-11-23T15:00:00Z,PL,Everton FC,Brentford FC,0,0
+2024-11-23T15:00:00Z,PL,Fulham FC,Wolverhampton Wanderers FC,1,4
+2024-11-23T17:30:00Z,PL,Manchester City FC,Tottenham Hotspur FC,0,4
+2024-11-24T14:00:00Z,PL,Southampton FC,Liverpool FC,2,3
+2024-11-24T16:30:00Z,PL,Ipswich Town FC,Manchester United FC,1,1
+2024-11-25T20:00:00Z,PL,Newcastle United FC,West Ham United FC,0,2
+2024-11-29T20:00:00Z,PL,Brighton & Hove Albion FC,Southampton FC,1,1
+2024-11-30T15:00:00Z,PL,Brentford FC,Leicester City FC,4,1
+2024-11-30T15:00:00Z,PL,Crystal Palace FC,Newcastle United FC,1,1
+2024-11-30T15:00:00Z,PL,Nottingham Forest FC,Ipswich Town FC,1,0
+2024-11-30T15:00:00Z,PL,Wolverhampton Wanderers FC,AFC Bournemouth,2,4
+2024-11-30T17:30:00Z,PL,West Ham United FC,Arsenal FC,2,5
+2024-12-01T13:30:00Z,PL,Chelsea FC,Aston Villa FC,3,0
+2024-12-01T13:30:00Z,PL,Manchester United FC,Everton FC,4,0
+2024-12-01T13:30:00Z,PL,Tottenham Hotspur FC,Fulham FC,1,1
+2024-12-01T16:00:00Z,PL,Liverpool FC,Manchester City FC,2,0
+2024-12-03T19:30:00Z,PL,Ipswich Town FC,Crystal Palace FC,0,1
+2024-12-03T20:15:00Z,PL,Leicester City FC,West Ham United FC,3,1
+2024-12-04T19:30:00Z,PL,Everton FC,Wolverhampton Wanderers FC,4,0
+2024-12-04T19:30:00Z,PL,Manchester City FC,Nottingham Forest FC,3,0
+2024-12-04T19:30:00Z,PL,Newcastle United FC,Liverpool FC,3,3
+2024-12-04T19:30:00Z,PL,Southampton FC,Chelsea FC,1,5
+2024-12-04T20:15:00Z,PL,Arsenal FC,Manchester United FC,2,0
+2024-12-04T20:15:00Z,PL,Aston Villa FC,Brentford FC,3,1
+2024-12-05T19:30:00Z,PL,Fulham FC,Brighton & Hove Albion FC,3,1
+2024-12-05T20:15:00Z,PL,AFC Bournemouth,Tottenham Hotspur FC,1,0
+2024-12-07T15:00:00Z,PL,Aston Villa FC,Southampton FC,1,0
+2024-12-07T15:00:00Z,PL,Brentford FC,Newcastle United FC,4,2
+2024-12-07T15:00:00Z,PL,Crystal Palace FC,Manchester City FC,2,2
+2024-12-07T17:30:00Z,PL,Manchester United FC,Nottingham Forest FC,2,3
+2024-12-08T14:00:00Z,PL,Fulham FC,Arsenal FC,1,1
+2024-12-08T14:00:00Z,PL,Ipswich Town FC,AFC Bournemouth,1,2
+2024-12-08T14:00:00Z,PL,Leicester City FC,Brighton & Hove Albion FC,2,2
+2024-12-08T16:30:00Z,PL,Tottenham Hotspur FC,Chelsea FC,3,4
+2024-12-09T20:00:00Z,PL,West Ham United FC,Wolverhampton Wanderers FC,2,1
+2024-12-14T15:00:00Z,PL,Arsenal FC,Everton FC,0,0
+2024-12-14T15:00:00Z,PL,Liverpool FC,Fulham FC,2,2
+2024-12-14T15:00:00Z,PL,Newcastle United FC,Leicester City FC,4,0
+2024-12-14T15:00:00Z,PL,Wolverhampton Wanderers FC,Ipswich Town FC,1,2
+2024-12-14T17:30:00Z,PL,Nottingham Forest FC,Aston Villa FC,2,1
+2024-12-15T14:00:00Z,PL,Brighton & Hove Albion FC,Crystal Palace FC,1,3
+2024-12-15T16:30:00Z,PL,Manchester City FC,Manchester United FC,1,2
+2024-12-15T19:00:00Z,PL,Chelsea FC,Brentford FC,2,1
+2024-12-15T19:00:00Z,PL,Southampton FC,Tottenham Hotspur FC,0,5
+2024-12-16T20:00:00Z,PL,AFC Bournemouth,West Ham United FC,1,1
+2024-12-21T12:30:00Z,PL,Aston Villa FC,Manchester City FC,2,1
+2024-12-21T15:00:00Z,PL,Brentford FC,Nottingham Forest FC,0,2
+2024-12-21T15:00:00Z,PL,Ipswich Town FC,Newcastle United FC,0,4
+2024-12-21T15:00:00Z,PL,West Ham United FC,Brighton & Hove Albion FC,1,1
+2024-12-21T17:30:00Z,PL,Crystal Palace FC,Arsenal FC,1,5
+2024-12-22T14:00:00Z,PL,Everton FC,Chelsea FC,0,0
+2024-12-22T14:00:00Z,PL,Fulham FC,Southampton FC,0,0
+2024-12-22T14:00:00Z,PL,Leicester City FC,Wolverhampton Wanderers FC,0,3
+2024-12-22T14:00:00Z,PL,Manchester United FC,AFC Bournemouth,0,3
+2024-12-22T16:30:00Z,PL,Tottenham Hotspur FC,Liverpool FC,3,6
+2024-12-26T12:30:00Z,PL,Manchester City FC,Everton FC,1,1
+2024-12-26T15:00:00Z,PL,AFC Bournemouth,Crystal Palace FC,0,0
+2024-12-26T15:00:00Z,PL,Chelsea FC,Fulham FC,1,2
+2024-12-26T15:00:00Z,PL,Newcastle United FC,Aston Villa FC,3,0
+2024-12-26T15:00:00Z,PL,Nottingham Forest FC,Tottenham Hotspur FC,1,0
+2024-12-26T15:00:00Z,PL,Southampton FC,West Ham United FC,0,1
+2024-12-26T17:30:00Z,PL,Wolverhampton Wanderers FC,Manchester United FC,2,0
+2024-12-26T20:00:00Z,PL,Liverpool FC,Leicester City FC,3,1
+2024-12-27T19:30:00Z,PL,Brighton & Hove Albion FC,Brentford FC,0,0
+2024-12-27T20:15:00Z,PL,Arsenal FC,Ipswich Town FC,1,0
+2024-12-29T14:30:00Z,PL,Leicester City FC,Manchester City FC,0,2
+2024-12-29T15:00:00Z,PL,Crystal Palace FC,Southampton FC,2,1
+2024-12-29T15:00:00Z,PL,Everton FC,Nottingham Forest FC,0,2
+2024-12-29T15:00:00Z,PL,Fulham FC,AFC Bournemouth,2,2
+2024-12-29T15:00:00Z,PL,Tottenham Hotspur FC,Wolverhampton Wanderers FC,2,2
+2024-12-29T17:15:00Z,PL,West Ham United FC,Liverpool FC,0,5
+2024-12-30T19:45:00Z,PL,Aston Villa FC,Brighton & Hove Albion FC,2,2
+2024-12-30T19:45:00Z,PL,Ipswich Town FC,Chelsea FC,2,0
+2024-12-30T20:00:00Z,PL,Manchester United FC,Newcastle United FC,0,2
+2025-01-01T17:30:00Z,PL,Brentford FC,Arsenal FC,1,3
+2025-01-04T12:30:00Z,PL,Tottenham Hotspur FC,Newcastle United FC,1,2
+2025-01-04T15:00:00Z,PL,Southampton FC,Brentford FC,0,5
+2025-01-04T15:00:00Z,PL,Crystal Palace FC,Chelsea FC,1,1
+2025-01-04T15:00:00Z,PL,AFC Bournemouth,Everton FC,1,0
+2025-01-04T15:00:00Z,PL,Aston Villa FC,Leicester City FC,2,1
+2025-01-04T15:00:00Z,PL,Manchester City FC,West Ham United FC,4,1
+2025-01-04T17:30:00Z,PL,Brighton & Hove Albion FC,Arsenal FC,1,1
+2025-01-05T14:00:00Z,PL,Fulham FC,Ipswich Town FC,2,2
+2025-01-05T16:30:00Z,PL,Liverpool FC,Manchester United FC,2,2
+2025-01-06T20:00:00Z,PL,Wolverhampton Wanderers FC,Nottingham Forest FC,0,3
+2025-01-14T19:30:00Z,PL,West Ham United FC,Fulham FC,3,2
+2025-01-14T19:30:00Z,PL,Brentford FC,Manchester City FC,2,2
+2025-01-14T19:30:00Z,PL,Chelsea FC,AFC Bournemouth,2,2
+2025-01-14T20:00:00Z,PL,Nottingham Forest FC,Liverpool FC,1,1
+2025-01-15T19:30:00Z,PL,Everton FC,Aston Villa FC,0,1
+2025-01-15T19:30:00Z,PL,Leicester City FC,Crystal Palace FC,0,2
+2025-01-15T19:30:00Z,PL,Newcastle United FC,Wolverhampton Wanderers FC,3,0
+2025-01-15T20:00:00Z,PL,Arsenal FC,Tottenham Hotspur FC,2,1
+2025-01-16T19:30:00Z,PL,Ipswich Town FC,Brighton & Hove Albion FC,0,2
+2025-01-16T20:00:00Z,PL,Manchester United FC,Southampton FC,3,1
+2025-01-18T12:30:00Z,PL,Newcastle United FC,AFC Bournemouth,1,4
+2025-01-18T15:00:00Z,PL,West Ham United FC,Crystal Palace FC,0,2
+2025-01-18T15:00:00Z,PL,Leicester City FC,Fulham FC,0,2
+2025-01-18T15:00:00Z,PL,Brentford FC,Liverpool FC,0,2
+2025-01-18T17:30:00Z,PL,Arsenal FC,Aston Villa FC,2,2
+2025-01-19T14:00:00Z,PL,Manchester United FC,Brighton & Hove Albion FC,1,3
+2025-01-19T14:00:00Z,PL,Nottingham Forest FC,Southampton FC,3,2
+2025-01-19T14:00:00Z,PL,Everton FC,Tottenham Hotspur FC,3,2
+2025-01-19T16:30:00Z,PL,Ipswich Town FC,Manchester City FC,0,6
+2025-01-20T20:00:00Z,PL,Chelsea FC,Wolverhampton Wanderers FC,3,1
+2025-01-25T15:00:00Z,PL,Liverpool FC,Ipswich Town FC,4,1
+2025-01-25T15:00:00Z,PL,Wolverhampton Wanderers FC,Arsenal FC,0,1
+2025-01-25T15:00:00Z,PL,Brighton & Hove Albion FC,Everton FC,0,1
+2025-01-25T15:00:00Z,PL,Southampton FC,Newcastle United FC,1,3
+2025-01-25T15:00:00Z,PL,AFC Bournemouth,Nottingham Forest FC,5,0
+2025-01-25T17:30:00Z,PL,Manchester City FC,Chelsea FC,3,1
+2025-01-26T14:00:00Z,PL,Crystal Palace FC,Brentford FC,1,2
+2025-01-26T14:00:00Z,PL,Tottenham Hotspur FC,Leicester City FC,1,2
+2025-01-26T16:30:00Z,PL,Aston Villa FC,West Ham United FC,1,1
+2025-01-26T19:00:00Z,PL,Fulham FC,Manchester United FC,0,1
+2025-02-01T12:30:00Z,PL,Nottingham Forest FC,Brighton & Hove Albion FC,7,0
+2025-02-01T15:00:00Z,PL,Newcastle United FC,Fulham FC,1,2
+2025-02-01T15:00:00Z,PL,Everton FC,Leicester City FC,4,0
+2025-02-01T15:00:00Z,PL,AFC Bournemouth,Liverpool FC,0,2
+2025-02-01T15:00:00Z,PL,Ipswich Town FC,Southampton FC,1,2
+2025-02-01T17:30:00Z,PL,Wolverhampton Wanderers FC,Aston Villa FC,2,0
+2025-02-02T14:00:00Z,PL,Manchester United FC,Crystal Palace FC,0,2
+2025-02-02T14:00:00Z,PL,Brentford FC,Tottenham Hotspur FC,0,2
+2025-02-02T16:30:00Z,PL,Arsenal FC,Manchester City FC,5,1
+2025-02-03T20:00:00Z,PL,Chelsea FC,West Ham United FC,2,1
+2025-02-12T19:30:00Z,PL,Everton FC,Liverpool FC,2,2
+2025-02-14T20:00:00Z,PL,Brighton & Hove Albion FC,Chelsea FC,3,0
+2025-02-15T12:30:00Z,PL,Leicester City FC,Arsenal FC,0,2
+2025-02-15T15:00:00Z,PL,Southampton FC,AFC Bournemouth,1,3
+2025-02-15T15:00:00Z,PL,West Ham United FC,Brentford FC,0,1
+2025-02-15T15:00:00Z,PL,Aston Villa FC,Ipswich Town FC,1,1
+2025-02-15T15:00:00Z,PL,Manchester City FC,Newcastle United FC,4,0
+2025-02-15T15:00:00Z,PL,Fulham FC,Nottingham Forest FC,2,1
+2025-02-15T17:30:00Z,PL,Crystal Palace FC,Everton FC,1,2
+2025-02-16T14:00:00Z,PL,Liverpool FC,Wolverhampton Wanderers FC,2,1
+2025-02-16T16:30:00Z,PL,Tottenham Hotspur FC,Manchester United FC,1,0
+2025-02-19T19:30:00Z,PL,Aston Villa FC,Liverpool FC,2,2
+2025-02-21T20:00:00Z,PL,Leicester City FC,Brentford FC,0,4
+2025-02-22T12:30:00Z,PL,Everton FC,Manchester United FC,2,2
+2025-02-22T15:00:00Z,PL,Ipswich Town FC,Tottenham Hotspur FC,1,4
+2025-02-22T15:00:00Z,PL,Fulham FC,Crystal Palace FC,0,2
+2025-02-22T15:00:00Z,PL,Arsenal FC,West Ham United FC,0,1
+2025-02-22T15:00:00Z,PL,AFC Bournemouth,Wolverhampton Wanderers FC,0,1
+2025-02-22T15:00:00Z,PL,Southampton FC,Brighton & Hove Albion FC,0,4
+2025-02-22T17:30:00Z,PL,Aston Villa FC,Chelsea FC,2,1
+2025-02-23T14:00:00Z,PL,Newcastle United FC,Nottingham Forest FC,4,3
+2025-02-23T16:30:00Z,PL,Manchester City FC,Liverpool FC,0,2
+2025-02-25T19:30:00Z,PL,Brighton & Hove Albion FC,AFC Bournemouth,2,1
+2025-02-25T19:30:00Z,PL,Crystal Palace FC,Aston Villa FC,4,1
+2025-02-25T19:30:00Z,PL,Wolverhampton Wanderers FC,Fulham FC,1,2
+2025-02-25T20:15:00Z,PL,Chelsea FC,Southampton FC,4,0
+2025-02-26T19:30:00Z,PL,Nottingham Forest FC,Arsenal FC,0,0
+2025-02-26T19:30:00Z,PL,Brentford FC,Everton FC,1,1
+2025-02-26T19:30:00Z,PL,Tottenham Hotspur FC,Manchester City FC,0,1
+2025-02-26T19:30:00Z,PL,Manchester United FC,Ipswich Town FC,3,2
+2025-02-26T20:15:00Z,PL,Liverpool FC,Newcastle United FC,2,0
+2025-02-27T20:00:00Z,PL,West Ham United FC,Leicester City FC,2,0
+2025-03-08T12:30:00Z,PL,Nottingham Forest FC,Manchester City FC,1,0
+2025-03-08T15:00:00Z,PL,Brighton & Hove Albion FC,Fulham FC,2,1
+2025-03-08T15:00:00Z,PL,Crystal Palace FC,Ipswich Town FC,1,0
+2025-03-08T15:00:00Z,PL,Liverpool FC,Southampton FC,3,1
+2025-03-08T17:30:00Z,PL,Brentford FC,Aston Villa FC,0,1
+2025-03-08T20:00:00Z,PL,Wolverhampton Wanderers FC,Everton FC,1,1
+2025-03-09T14:00:00Z,PL,Tottenham Hotspur FC,AFC Bournemouth,2,2
+2025-03-09T14:00:00Z,PL,Chelsea FC,Leicester City FC,1,0
+2025-03-09T16:30:00Z,PL,Manchester United FC,Arsenal FC,1,1
+2025-03-10T20:00:00Z,PL,West Ham United FC,Newcastle United FC,0,1
+2025-03-15T15:00:00Z,PL,Everton FC,West Ham United FC,1,1
+2025-03-15T15:00:00Z,PL,Ipswich Town FC,Nottingham Forest FC,2,4
+2025-03-15T15:00:00Z,PL,Manchester City FC,Brighton & Hove Albion FC,2,2
+2025-03-15T15:00:00Z,PL,Southampton FC,Wolverhampton Wanderers FC,1,2
+2025-03-15T17:30:00Z,PL,AFC Bournemouth,Brentford FC,1,2
+2025-03-16T13:30:00Z,PL,Arsenal FC,Chelsea FC,1,0
+2025-03-16T13:30:00Z,PL,Fulham FC,Tottenham Hotspur FC,2,0
+2025-03-16T19:00:00Z,PL,Leicester City FC,Manchester United FC,0,3
+2025-04-01T18:45:00Z,PL,Arsenal FC,Fulham FC,2,1
+2025-04-01T18:45:00Z,PL,Wolverhampton Wanderers FC,West Ham United FC,1,0
+2025-04-01T19:00:00Z,PL,Nottingham Forest FC,Manchester United FC,1,0
+2025-04-02T18:45:00Z,PL,AFC Bournemouth,Ipswich Town FC,1,2
+2025-04-02T18:45:00Z,PL,Brighton & Hove Albion FC,Aston Villa FC,0,3
+2025-04-02T18:45:00Z,PL,Manchester City FC,Leicester City FC,2,0
+2025-04-02T18:45:00Z,PL,Newcastle United FC,Brentford FC,2,1
+2025-04-02T18:45:00Z,PL,Southampton FC,Crystal Palace FC,1,1
+2025-04-02T19:00:00Z,PL,Liverpool FC,Everton FC,1,0
+2025-04-03T19:00:00Z,PL,Chelsea FC,Tottenham Hotspur FC,1,0
+2025-04-05T11:30:00Z,PL,Everton FC,Arsenal FC,1,1
+2025-04-05T14:00:00Z,PL,Crystal Palace FC,Brighton & Hove Albion FC,2,1
+2025-04-05T14:00:00Z,PL,Ipswich Town FC,Wolverhampton Wanderers FC,1,2
+2025-04-05T14:00:00Z,PL,West Ham United FC,AFC Bournemouth,2,2
+2025-04-05T16:30:00Z,PL,Aston Villa FC,Nottingham Forest FC,2,1
+2025-04-06T13:00:00Z,PL,Brentford FC,Chelsea FC,0,0
+2025-04-06T13:00:00Z,PL,Fulham FC,Liverpool FC,3,2
+2025-04-06T13:00:00Z,PL,Tottenham Hotspur FC,Southampton FC,3,1
+2025-04-06T15:30:00Z,PL,Manchester United FC,Manchester City FC,0,0
+2025-04-07T19:00:00Z,PL,Leicester City FC,Newcastle United FC,0,3
+2025-04-12T11:30:00Z,PL,Manchester City FC,Crystal Palace FC,5,2
+2025-04-12T14:00:00Z,PL,Brighton & Hove Albion FC,Leicester City FC,2,2
+2025-04-12T14:00:00Z,PL,Nottingham Forest FC,Everton FC,0,1
+2025-04-12T14:00:00Z,PL,Southampton FC,Aston Villa FC,0,3
+2025-04-12T16:30:00Z,PL,Arsenal FC,Brentford FC,1,1
+2025-04-13T13:00:00Z,PL,Chelsea FC,Ipswich Town FC,2,2
+2025-04-13T13:00:00Z,PL,Liverpool FC,West Ham United FC,2,1
+2025-04-13T13:00:00Z,PL,Wolverhampton Wanderers FC,Tottenham Hotspur FC,4,2
+2025-04-13T15:30:00Z,PL,Newcastle United FC,Manchester United FC,4,1
+2025-04-14T19:00:00Z,PL,AFC Bournemouth,Fulham FC,1,0
+2025-04-16T18:30:00Z,PL,Newcastle United FC,Crystal Palace FC,5,0
+2025-04-19T14:00:00Z,PL,Brentford FC,Brighton & Hove Albion FC,4,2
+2025-04-19T14:00:00Z,PL,Crystal Palace FC,AFC Bournemouth,0,0
+2025-04-19T14:00:00Z,PL,Everton FC,Manchester City FC,0,2
+2025-04-19T14:00:00Z,PL,West Ham United FC,Southampton FC,1,1
+2025-04-19T16:30:00Z,PL,Aston Villa FC,Newcastle United FC,4,1
+2025-04-20T13:00:00Z,PL,Fulham FC,Chelsea FC,1,2
+2025-04-20T13:00:00Z,PL,Ipswich Town FC,Arsenal FC,0,4
+2025-04-20T13:00:00Z,PL,Manchester United FC,Wolverhampton Wanderers FC,0,1
+2025-04-20T15:30:00Z,PL,Leicester City FC,Liverpool FC,0,1
+2025-04-21T19:00:00Z,PL,Tottenham Hotspur FC,Nottingham Forest FC,1,2
+2025-04-22T19:00:00Z,PL,Manchester City FC,Aston Villa FC,2,1
+2025-04-23T19:00:00Z,PL,Arsenal FC,Crystal Palace FC,2,2
+2025-04-26T11:30:00Z,PL,Chelsea FC,Everton FC,1,0
+2025-04-26T14:00:00Z,PL,Brighton & Hove Albion FC,West Ham United FC,3,2
+2025-04-26T14:00:00Z,PL,Newcastle United FC,Ipswich Town FC,3,0
+2025-04-26T14:00:00Z,PL,Southampton FC,Fulham FC,1,2
+2025-04-26T14:00:00Z,PL,Wolverhampton Wanderers FC,Leicester City FC,3,0
+2025-04-27T13:00:00Z,PL,AFC Bournemouth,Manchester United FC,1,1
+2025-04-27T15:30:00Z,PL,Liverpool FC,Tottenham Hotspur FC,5,1
+2025-05-01T18:30:00Z,PL,Nottingham Forest FC,Brentford FC,0,2
+2025-05-02T19:00:00Z,PL,Manchester City FC,Wolverhampton Wanderers FC,1,0
+2025-05-03T11:30:00Z,PL,Aston Villa FC,Fulham FC,1,0
+2025-05-03T14:00:00Z,PL,Everton FC,Ipswich Town FC,2,2
+2025-05-03T14:00:00Z,PL,Leicester City FC,Southampton FC,2,0
+2025-05-03T16:30:00Z,PL,Arsenal FC,AFC Bournemouth,1,2
+2025-05-04T13:00:00Z,PL,Brentford FC,Manchester United FC,4,3
+2025-05-04T13:00:00Z,PL,Brighton & Hove Albion FC,Newcastle United FC,1,1
+2025-05-04T13:00:00Z,PL,West Ham United FC,Tottenham Hotspur FC,1,1
+2025-05-04T15:30:00Z,PL,Chelsea FC,Liverpool FC,3,1
+2025-05-05T19:00:00Z,PL,Crystal Palace FC,Nottingham Forest FC,1,1
+2025-05-10T14:00:00Z,PL,Fulham FC,Everton FC,1,3
+2025-05-10T14:00:00Z,PL,Ipswich Town FC,Brentford FC,0,1
+2025-05-10T14:00:00Z,PL,Southampton FC,Manchester City FC,0,0
+2025-05-10T14:00:00Z,PL,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,0,2
+2025-05-10T16:30:00Z,PL,AFC Bournemouth,Aston Villa FC,0,1
+2025-05-11T11:00:00Z,PL,Newcastle United FC,Chelsea FC,2,0
+2025-05-11T13:15:00Z,PL,Manchester United FC,West Ham United FC,0,2
+2025-05-11T13:15:00Z,PL,Nottingham Forest FC,Leicester City FC,2,2
+2025-05-11T13:15:00Z,PL,Tottenham Hotspur FC,Crystal Palace FC,0,2
+2025-05-11T15:30:00Z,PL,Liverpool FC,Arsenal FC,2,2
+2025-05-16T18:30:00Z,PL,Aston Villa FC,Tottenham Hotspur FC,2,0
+2025-05-16T19:15:00Z,PL,Chelsea FC,Manchester United FC,1,0
+2025-05-18T11:00:00Z,PL,Everton FC,Southampton FC,2,0
+2025-05-18T13:15:00Z,PL,West Ham United FC,Nottingham Forest FC,1,2
+2025-05-18T14:00:00Z,PL,Brentford FC,Fulham FC,2,3
+2025-05-18T14:00:00Z,PL,Leicester City FC,Ipswich Town FC,2,0
+2025-05-18T15:30:00Z,PL,Arsenal FC,Newcastle United FC,1,0
+2025-05-19T19:00:00Z,PL,Brighton & Hove Albion FC,Liverpool FC,3,2
+2025-05-20T19:00:00Z,PL,Crystal Palace FC,Wolverhampton Wanderers FC,4,2
+2025-05-20T19:00:00Z,PL,Manchester City FC,AFC Bournemouth,3,1
+2024-08-16T18:45:00Z,FL1,Le Havre AC,Paris Saint-Germain FC,1,4
+2024-08-17T15:00:00Z,FL1,Stade Brestois 29,Olympique de Marseille,1,5
+2024-08-17T17:00:00Z,FL1,Stade de Reims,Lille OSC,0,2
+2024-08-17T19:00:00Z,FL1,AS Monaco FC,AS Saint-Étienne,1,0
+2024-08-18T13:00:00Z,FL1,AJ Auxerre,OGC Nice,2,1
+2024-08-18T15:00:00Z,FL1,Montpellier HSC,RC Strasbourg Alsace,1,1
+2024-08-18T15:00:00Z,FL1,Toulouse FC,FC Nantes,0,0
+2024-08-18T15:00:00Z,FL1,Angers SCO,Racing Club de Lens,0,1
+2024-08-18T18:45:00Z,FL1,Stade Rennais FC 1901,Olympique Lyonnais,3,0
+2024-08-23T18:45:00Z,FL1,Paris Saint-Germain FC,Montpellier HSC,6,0
+2024-08-24T15:00:00Z,FL1,Olympique Lyonnais,AS Monaco FC,0,2
+2024-08-24T17:00:00Z,FL1,Lille OSC,Angers SCO,2,0
+2024-08-24T19:00:00Z,FL1,AS Saint-Étienne,Le Havre AC,0,2
+2024-08-25T13:00:00Z,FL1,Racing Club de Lens,Stade Brestois 29,2,0
+2024-08-25T15:00:00Z,FL1,RC Strasbourg Alsace,Stade Rennais FC 1901,3,1
+2024-08-25T15:00:00Z,FL1,FC Nantes,AJ Auxerre,2,0
+2024-08-25T15:00:00Z,FL1,OGC Nice,Toulouse FC,1,1
+2024-08-25T18:45:00Z,FL1,Olympique de Marseille,Stade de Reims,2,2
+2024-08-30T18:45:00Z,FL1,Olympique Lyonnais,RC Strasbourg Alsace,4,3
+2024-08-31T15:00:00Z,FL1,Stade Brestois 29,AS Saint-Étienne,4,0
+2024-08-31T17:00:00Z,FL1,Montpellier HSC,FC Nantes,1,3
+2024-08-31T19:00:00Z,FL1,Toulouse FC,Olympique de Marseille,1,3
+2024-09-01T13:00:00Z,FL1,AS Monaco FC,Racing Club de Lens,1,1
+2024-09-01T15:00:00Z,FL1,Angers SCO,OGC Nice,1,4
+2024-09-01T15:00:00Z,FL1,Le Havre AC,AJ Auxerre,3,1
+2024-09-01T15:00:00Z,FL1,Stade de Reims,Stade Rennais FC 1901,2,1
+2024-09-01T18:45:00Z,FL1,Lille OSC,Paris Saint-Germain FC,1,3
+2024-09-13T18:45:00Z,FL1,AS Saint-Étienne,Lille OSC,1,0
+2024-09-14T15:00:00Z,FL1,Olympique de Marseille,OGC Nice,2,0
+2024-09-14T17:00:00Z,FL1,AJ Auxerre,AS Monaco FC,0,3
+2024-09-14T19:00:00Z,FL1,Paris Saint-Germain FC,Stade Brestois 29,3,1
+2024-09-15T13:00:00Z,FL1,Stade Rennais FC 1901,Montpellier HSC,3,0
+2024-09-15T15:00:00Z,FL1,FC Nantes,Stade de Reims,1,2
+2024-09-15T15:00:00Z,FL1,Toulouse FC,Le Havre AC,2,0
+2024-09-15T15:00:00Z,FL1,RC Strasbourg Alsace,Angers SCO,1,1
+2024-09-15T18:45:00Z,FL1,Racing Club de Lens,Olympique Lyonnais,0,0
+2024-09-20T18:45:00Z,FL1,OGC Nice,AS Saint-Étienne,8,0
+2024-09-21T15:00:00Z,FL1,Lille OSC,RC Strasbourg Alsace,3,3
+2024-09-21T17:00:00Z,FL1,Stade Rennais FC 1901,Racing Club de Lens,1,1
+2024-09-21T19:00:00Z,FL1,Stade de Reims,Paris Saint-Germain FC,1,1
+2024-09-22T13:00:00Z,FL1,AS Monaco FC,Le Havre AC,3,1
+2024-09-22T15:00:00Z,FL1,Stade Brestois 29,Toulouse FC,2,0
+2024-09-22T15:00:00Z,FL1,Angers SCO,FC Nantes,1,1
+2024-09-22T15:00:00Z,FL1,Montpellier HSC,AJ Auxerre,3,2
+2024-09-22T18:45:00Z,FL1,Olympique Lyonnais,Olympique de Marseille,2,3
+2024-09-27T17:00:00Z,FL1,AJ Auxerre,Stade Brestois 29,3,0
+2024-09-27T19:00:00Z,FL1,Paris Saint-Germain FC,Stade Rennais FC 1901,3,1
+2024-09-28T15:00:00Z,FL1,Racing Club de Lens,OGC Nice,0,0
+2024-09-28T17:00:00Z,FL1,Le Havre AC,Lille OSC,0,3
+2024-09-28T19:00:00Z,FL1,AS Monaco FC,Montpellier HSC,2,1
+2024-09-29T13:00:00Z,FL1,Toulouse FC,Olympique Lyonnais,1,2
+2024-09-29T15:00:00Z,FL1,FC Nantes,AS Saint-Étienne,2,2
+2024-09-29T15:00:00Z,FL1,Angers SCO,Stade de Reims,1,3
+2024-09-29T18:45:00Z,FL1,RC Strasbourg Alsace,Olympique de Marseille,1,0
+2024-10-04T18:45:00Z,FL1,Olympique de Marseille,Angers SCO,1,1
+2024-10-05T15:00:00Z,FL1,AS Saint-Étienne,AJ Auxerre,3,1
+2024-10-05T17:00:00Z,FL1,Lille OSC,Toulouse FC,2,1
+2024-10-05T19:00:00Z,FL1,Stade Rennais FC 1901,AS Monaco FC,1,2
+2024-10-06T13:00:00Z,FL1,Olympique Lyonnais,FC Nantes,2,0
+2024-10-06T15:00:00Z,FL1,Stade Brestois 29,Le Havre AC,2,0
+2024-10-06T15:00:00Z,FL1,RC Strasbourg Alsace,Racing Club de Lens,2,2
+2024-10-06T15:00:00Z,FL1,Stade de Reims,Montpellier HSC,4,2
+2024-10-06T18:45:00Z,FL1,OGC Nice,Paris Saint-Germain FC,1,1
+2024-10-18T18:45:00Z,FL1,AS Monaco FC,Lille OSC,0,0
+2024-10-19T15:00:00Z,FL1,Stade Brestois 29,Stade Rennais FC 1901,1,1
+2024-10-19T17:00:00Z,FL1,AS Saint-Étienne,Racing Club de Lens,0,2
+2024-10-19T19:00:00Z,FL1,Paris Saint-Germain FC,RC Strasbourg Alsace,4,2
+2024-10-20T13:00:00Z,FL1,Le Havre AC,Olympique Lyonnais,0,4
+2024-10-20T15:00:00Z,FL1,AJ Auxerre,Stade de Reims,2,1
+2024-10-20T15:00:00Z,FL1,Toulouse FC,Angers SCO,1,1
+2024-10-20T15:00:00Z,FL1,FC Nantes,OGC Nice,1,1
+2024-10-20T18:45:00Z,FL1,Montpellier HSC,Olympique de Marseille,0,5
+2024-10-25T18:45:00Z,FL1,Stade Rennais FC 1901,Le Havre AC,1,0
+2024-10-26T15:00:00Z,FL1,Angers SCO,AS Saint-Étienne,4,2
+2024-10-26T17:00:00Z,FL1,Stade de Reims,Stade Brestois 29,1,2
+2024-10-26T19:00:00Z,FL1,Racing Club de Lens,Lille OSC,0,2
+2024-10-27T14:00:00Z,FL1,Olympique Lyonnais,AJ Auxerre,2,2
+2024-10-27T16:00:00Z,FL1,OGC Nice,AS Monaco FC,2,1
+2024-10-27T16:00:00Z,FL1,Montpellier HSC,Toulouse FC,0,3
+2024-10-27T16:00:00Z,FL1,RC Strasbourg Alsace,FC Nantes,3,1
+2024-10-27T19:45:00Z,FL1,Olympique de Marseille,Paris Saint-Germain FC,0,3
+2024-11-01T18:00:00Z,FL1,AS Monaco FC,Angers SCO,0,1
+2024-11-01T20:00:00Z,FL1,Lille OSC,Olympique Lyonnais,1,1
+2024-11-02T16:00:00Z,FL1,Paris Saint-Germain FC,Racing Club de Lens,1,0
+2024-11-02T18:00:00Z,FL1,Stade Brestois 29,OGC Nice,0,1
+2024-11-02T20:00:00Z,FL1,AS Saint-Étienne,RC Strasbourg Alsace,2,0
+2024-11-03T14:00:00Z,FL1,Toulouse FC,Stade de Reims,1,0
+2024-11-03T16:00:00Z,FL1,AJ Auxerre,Stade Rennais FC 1901,4,0
+2024-11-03T16:00:00Z,FL1,Le Havre AC,Montpellier HSC,1,0
+2024-11-03T19:45:00Z,FL1,FC Nantes,Olympique de Marseille,1,2
+2024-11-08T19:45:00Z,FL1,Olympique de Marseille,AJ Auxerre,1,3
+2024-11-09T16:00:00Z,FL1,RC Strasbourg Alsace,AS Monaco FC,1,3
+2024-11-09T18:00:00Z,FL1,Racing Club de Lens,FC Nantes,3,2
+2024-11-09T20:00:00Z,FL1,Angers SCO,Paris Saint-Germain FC,2,4
+2024-11-10T14:00:00Z,FL1,OGC Nice,Lille OSC,2,2
+2024-11-10T16:00:00Z,FL1,Montpellier HSC,Stade Brestois 29,3,1
+2024-11-10T16:00:00Z,FL1,Le Havre AC,Stade de Reims,0,3
+2024-11-10T16:00:00Z,FL1,Stade Rennais FC 1901,Toulouse FC,0,2
+2024-11-10T19:45:00Z,FL1,Olympique Lyonnais,AS Saint-Étienne,1,0
+2024-11-22T18:00:00Z,FL1,AS Monaco FC,Stade Brestois 29,3,2
+2024-11-22T20:00:00Z,FL1,Paris Saint-Germain FC,Toulouse FC,3,0
+2024-11-23T16:00:00Z,FL1,Racing Club de Lens,Olympique de Marseille,1,3
+2024-11-23T18:00:00Z,FL1,AS Saint-Étienne,Montpellier HSC,1,0
+2024-11-23T20:00:00Z,FL1,Stade de Reims,Olympique Lyonnais,1,1
+2024-11-24T14:00:00Z,FL1,Lille OSC,Stade Rennais FC 1901,1,0
+2024-11-24T16:00:00Z,FL1,FC Nantes,Le Havre AC,0,2
+2024-11-24T16:00:00Z,FL1,AJ Auxerre,Angers SCO,1,0
+2024-11-24T19:45:00Z,FL1,OGC Nice,RC Strasbourg Alsace,2,1
+2024-11-29T19:45:00Z,FL1,Stade de Reims,Racing Club de Lens,0,2
+2024-11-30T16:00:00Z,FL1,Stade Rennais FC 1901,AS Saint-Étienne,5,0
+2024-11-30T18:00:00Z,FL1,Stade Brestois 29,RC Strasbourg Alsace,3,1
+2024-11-30T20:00:00Z,FL1,Paris Saint-Germain FC,FC Nantes,1,1
+2024-12-01T14:00:00Z,FL1,Montpellier HSC,Lille OSC,2,2
+2024-12-01T16:00:00Z,FL1,Le Havre AC,Angers SCO,0,1
+2024-12-01T16:00:00Z,FL1,Toulouse FC,AJ Auxerre,2,0
+2024-12-01T16:00:00Z,FL1,Olympique Lyonnais,OGC Nice,4,1
+2024-12-01T19:45:00Z,FL1,Olympique de Marseille,AS Monaco FC,2,1
+2024-12-06T18:00:00Z,FL1,Lille OSC,Stade Brestois 29,3,1
+2024-12-06T20:00:00Z,FL1,AJ Auxerre,Paris Saint-Germain FC,0,0
+2024-12-07T16:00:00Z,FL1,AS Monaco FC,Toulouse FC,2,0
+2024-12-07T18:00:00Z,FL1,OGC Nice,Le Havre AC,2,1
+2024-12-07T20:00:00Z,FL1,Angers SCO,Olympique Lyonnais,0,3
+2024-12-08T14:00:00Z,FL1,Racing Club de Lens,Montpellier HSC,2,0
+2024-12-08T16:00:00Z,FL1,RC Strasbourg Alsace,Stade de Reims,0,0
+2024-12-08T16:00:00Z,FL1,FC Nantes,Stade Rennais FC 1901,1,0
+2024-12-08T19:45:00Z,FL1,AS Saint-Étienne,Olympique de Marseille,0,2
+2024-12-13T19:45:00Z,FL1,Toulouse FC,AS Saint-Étienne,2,1
+2024-12-14T16:00:00Z,FL1,Olympique de Marseille,Lille OSC,1,1
+2024-12-14T18:00:00Z,FL1,AJ Auxerre,Racing Club de Lens,2,2
+2024-12-14T20:00:00Z,FL1,Stade de Reims,AS Monaco FC,0,0
+2024-12-15T14:00:00Z,FL1,Montpellier HSC,OGC Nice,2,2
+2024-12-15T16:00:00Z,FL1,Stade Rennais FC 1901,Angers SCO,2,0
+2024-12-15T16:00:00Z,FL1,Le Havre AC,RC Strasbourg Alsace,0,3
+2024-12-15T16:00:00Z,FL1,Stade Brestois 29,FC Nantes,4,1
+2024-12-15T19:45:00Z,FL1,Paris Saint-Germain FC,Olympique Lyonnais,3,1
+2024-12-18T20:00:00Z,FL1,AS Monaco FC,Paris Saint-Germain FC,2,4
+2025-01-03T20:00:00Z,FL1,OGC Nice,Stade Rennais FC 1901,3,2
+2025-01-04T16:00:00Z,FL1,AS Saint-Étienne,Stade de Reims,3,1
+2025-01-04T18:00:00Z,FL1,Lille OSC,FC Nantes,1,1
+2025-01-04T20:00:00Z,FL1,Olympique Lyonnais,Montpellier HSC,1,0
+2025-01-05T14:00:00Z,FL1,Racing Club de Lens,Toulouse FC,0,1
+2025-01-05T14:00:00Z,FL1,Angers SCO,Stade Brestois 29,2,0
+2025-01-05T14:00:00Z,FL1,RC Strasbourg Alsace,AJ Auxerre,3,1
+2025-01-05T19:45:00Z,FL1,Olympique de Marseille,Le Havre AC,5,1
+2025-01-10T18:00:00Z,FL1,FC Nantes,AS Monaco FC,2,2
+2025-01-10T20:05:00Z,FL1,AJ Auxerre,Lille OSC,0,0
+2025-01-11T16:00:00Z,FL1,Stade Brestois 29,Olympique Lyonnais,2,1
+2025-01-11T18:00:00Z,FL1,Stade de Reims,OGC Nice,2,4
+2025-01-11T20:05:00Z,FL1,Stade Rennais FC 1901,Olympique de Marseille,1,2
+2025-01-12T14:00:00Z,FL1,Le Havre AC,Racing Club de Lens,1,2
+2025-01-12T16:15:00Z,FL1,Toulouse FC,RC Strasbourg Alsace,1,2
+2025-01-12T16:15:00Z,FL1,Montpellier HSC,Angers SCO,1,3
+2025-01-12T19:45:00Z,FL1,Paris Saint-Germain FC,AS Saint-Étienne,2,1
+2025-01-17T18:00:00Z,FL1,Montpellier HSC,AS Monaco FC,2,1
+2025-01-17T20:05:00Z,FL1,Lille OSC,OGC Nice,2,1
+2025-01-18T16:00:00Z,FL1,Racing Club de Lens,Paris Saint-Germain FC,1,2
+2025-01-18T18:00:00Z,FL1,Stade Rennais FC 1901,Stade Brestois 29,1,2
+2025-01-18T20:05:00Z,FL1,Olympique Lyonnais,Toulouse FC,0,0
+2025-01-19T14:00:00Z,FL1,AS Saint-Étienne,FC Nantes,1,1
+2025-01-19T16:15:00Z,FL1,Stade de Reims,Le Havre AC,1,1
+2025-01-19T16:15:00Z,FL1,Angers SCO,AJ Auxerre,2,0
+2025-01-19T19:45:00Z,FL1,Olympique de Marseille,RC Strasbourg Alsace,1,1
+2025-01-24T19:45:00Z,FL1,AJ Auxerre,AS Saint-Étienne,1,1
+2025-01-25T16:00:00Z,FL1,AS Monaco FC,Stade Rennais FC 1901,3,2
+2025-01-25T18:00:00Z,FL1,RC Strasbourg Alsace,Lille OSC,2,1
+2025-01-25T20:05:00Z,FL1,Paris Saint-Germain FC,Stade de Reims,1,1
+2025-01-26T14:00:00Z,FL1,Le Havre AC,Stade Brestois 29,0,1
+2025-01-26T16:15:00Z,FL1,FC Nantes,Olympique Lyonnais,1,1
+2025-01-26T16:15:00Z,FL1,Toulouse FC,Montpellier HSC,1,2
+2025-01-26T16:15:00Z,FL1,Racing Club de Lens,Angers SCO,1,0
+2025-01-26T19:45:00Z,FL1,OGC Nice,Olympique de Marseille,2,0
+2025-01-31T19:45:00Z,FL1,Montpellier HSC,Racing Club de Lens,0,2
+2025-02-01T16:00:00Z,FL1,Stade Brestois 29,Paris Saint-Germain FC,2,5
+2025-02-01T18:00:00Z,FL1,AS Monaco FC,AJ Auxerre,4,2
+2025-02-01T20:05:00Z,FL1,Lille OSC,AS Saint-Étienne,4,1
+2025-02-02T14:00:00Z,FL1,Toulouse FC,OGC Nice,1,1
+2025-02-02T16:15:00Z,FL1,Stade de Reims,FC Nantes,1,2
+2025-02-02T16:15:00Z,FL1,Angers SCO,Le Havre AC,1,1
+2025-02-02T16:15:00Z,FL1,Stade Rennais FC 1901,RC Strasbourg Alsace,1,0
+2025-02-02T19:45:00Z,FL1,Olympique de Marseille,Olympique Lyonnais,3,2
+2025-02-07T18:00:00Z,FL1,FC Nantes,Stade Brestois 29,0,2
+2025-02-07T20:05:00Z,FL1,Paris Saint-Germain FC,AS Monaco FC,4,1
+2025-02-08T16:00:00Z,FL1,OGC Nice,Racing Club de Lens,2,0
+2025-02-08T18:00:00Z,FL1,Lille OSC,Le Havre AC,1,2
+2025-02-08T20:05:00Z,FL1,AS Saint-Étienne,Stade Rennais FC 1901,0,2
+2025-02-09T14:00:00Z,FL1,Olympique Lyonnais,Stade de Reims,4,0
+2025-02-09T16:15:00Z,FL1,AJ Auxerre,Toulouse FC,2,2
+2025-02-09T16:15:00Z,FL1,RC Strasbourg Alsace,Montpellier HSC,2,0
+2025-02-09T19:45:00Z,FL1,Angers SCO,Olympique de Marseille,0,2
+2025-02-14T19:45:00Z,FL1,Stade Brestois 29,AJ Auxerre,2,2
+2025-02-15T16:00:00Z,FL1,Olympique de Marseille,AS Saint-Étienne,5,1
+2025-02-15T18:00:00Z,FL1,AS Monaco FC,FC Nantes,7,1
+2025-02-15T20:05:00Z,FL1,Toulouse FC,Paris Saint-Germain FC,0,1
+2025-02-16T14:00:00Z,FL1,Montpellier HSC,Olympique Lyonnais,1,4
+2025-02-16T16:15:00Z,FL1,Racing Club de Lens,RC Strasbourg Alsace,0,2
+2025-02-16T16:15:00Z,FL1,Stade de Reims,Angers SCO,0,1
+2025-02-16T16:15:00Z,FL1,Le Havre AC,OGC Nice,1,3
+2025-02-16T19:45:00Z,FL1,Stade Rennais FC 1901,Lille OSC,0,2
+2025-02-21T19:45:00Z,FL1,Stade Rennais FC 1901,Stade de Reims,1,0
+2025-02-22T16:00:00Z,FL1,Lille OSC,AS Monaco FC,2,1
+2025-02-22T18:00:00Z,FL1,AS Saint-Étienne,Angers SCO,3,3
+2025-02-22T20:05:00Z,FL1,AJ Auxerre,Olympique de Marseille,3,0
+2025-02-23T14:00:00Z,FL1,FC Nantes,Racing Club de Lens,3,1
+2025-02-23T16:15:00Z,FL1,Le Havre AC,Toulouse FC,1,4
+2025-02-23T16:15:00Z,FL1,RC Strasbourg Alsace,Stade Brestois 29,0,0
+2025-02-23T16:15:00Z,FL1,OGC Nice,Montpellier HSC,2,0
+2025-02-23T19:45:00Z,FL1,Olympique Lyonnais,Paris Saint-Germain FC,2,3
+2025-02-28T19:45:00Z,FL1,AS Monaco FC,Stade de Reims,3,0
+2025-03-01T16:00:00Z,FL1,AS Saint-Étienne,OGC Nice,1,3
+2025-03-01T18:00:00Z,FL1,Racing Club de Lens,Le Havre AC,3,4
+2025-03-01T20:05:00Z,FL1,Paris Saint-Germain FC,Lille OSC,4,1
+2025-03-02T14:00:00Z,FL1,Olympique Lyonnais,Stade Brestois 29,2,1
+2025-03-02T16:15:00Z,FL1,Montpellier HSC,Stade Rennais FC 1901,0,4
+2025-03-02T16:15:00Z,FL1,AJ Auxerre,RC Strasbourg Alsace,0,1
+2025-03-02T16:15:00Z,FL1,Angers SCO,Toulouse FC,0,4
+2025-03-02T19:45:00Z,FL1,Olympique de Marseille,FC Nantes,2,0
+2025-03-07T19:45:00Z,FL1,Toulouse FC,AS Monaco FC,1,1
+2025-03-08T16:00:00Z,FL1,Stade Rennais FC 1901,Paris Saint-Germain FC,1,4
+2025-03-08T18:00:00Z,FL1,Lille OSC,Montpellier HSC,1,0
+2025-03-08T20:05:00Z,FL1,Olympique de Marseille,Racing Club de Lens,0,1
+2025-03-09T14:00:00Z,FL1,Stade Brestois 29,Angers SCO,2,0
+2025-03-09T16:15:00Z,FL1,Le Havre AC,AS Saint-Étienne,1,1
+2025-03-09T16:15:00Z,FL1,Stade de Reims,AJ Auxerre,0,2
+2025-03-09T16:15:00Z,FL1,FC Nantes,RC Strasbourg Alsace,0,1
+2025-03-09T19:45:00Z,FL1,OGC Nice,Olympique Lyonnais,0,2
+2025-03-14T19:45:00Z,FL1,OGC Nice,AJ Auxerre,1,1
+2025-03-15T16:00:00Z,FL1,FC Nantes,Lille OSC,1,0
+2025-03-15T18:00:00Z,FL1,Angers SCO,AS Monaco FC,0,2
+2025-03-15T20:05:00Z,FL1,Racing Club de Lens,Stade Rennais FC 1901,1,0
+2025-03-16T14:00:00Z,FL1,Olympique Lyonnais,Le Havre AC,4,2
+2025-03-16T16:15:00Z,FL1,Stade Brestois 29,Stade de Reims,0,0
+2025-03-16T16:15:00Z,FL1,RC Strasbourg Alsace,Toulouse FC,2,1
+2025-03-16T19:45:00Z,FL1,Paris Saint-Germain FC,Olympique de Marseille,3,1
+2025-03-28T19:45:00Z,FL1,RC Strasbourg Alsace,Olympique Lyonnais,4,2
+2025-03-29T16:00:00Z,FL1,Stade de Reims,Olympique de Marseille,3,1
+2025-03-29T18:00:00Z,FL1,AS Saint-Étienne,Paris Saint-Germain FC,1,6
+2025-03-29T20:05:00Z,FL1,AS Monaco FC,OGC Nice,2,1
+2025-03-30T13:00:00Z,FL1,Toulouse FC,Stade Brestois 29,2,4
+2025-03-30T15:15:00Z,FL1,Angers SCO,Stade Rennais FC 1901,0,3
+2025-03-30T15:15:00Z,FL1,AJ Auxerre,Montpellier HSC,1,0
+2025-03-30T15:15:00Z,FL1,Le Havre AC,FC Nantes,3,2
+2025-03-30T18:45:00Z,FL1,Lille OSC,Racing Club de Lens,1,0
+2025-04-04T18:45:00Z,FL1,OGC Nice,FC Nantes,1,2
+2025-04-05T15:00:00Z,FL1,Paris Saint-Germain FC,Angers SCO,1,0
+2025-04-05T17:00:00Z,FL1,Stade Brestois 29,AS Monaco FC,2,1
+2025-04-05T19:05:00Z,FL1,Olympique Lyonnais,Lille OSC,2,1
+2025-04-06T13:00:00Z,FL1,Racing Club de Lens,AS Saint-Étienne,1,0
+2025-04-06T15:15:00Z,FL1,Montpellier HSC,Le Havre AC,0,2
+2025-04-06T15:15:00Z,FL1,Stade de Reims,RC Strasbourg Alsace,0,1
+2025-04-06T15:15:00Z,FL1,Stade Rennais FC 1901,AJ Auxerre,0,1
+2025-04-06T18:45:00Z,FL1,Olympique de Marseille,Toulouse FC,3,2
+2025-04-11T18:45:00Z,FL1,Racing Club de Lens,Stade de Reims,0,2
+2025-04-12T15:00:00Z,FL1,AS Monaco FC,Olympique de Marseille,3,0
+2025-04-12T17:00:00Z,FL1,Toulouse FC,Lille OSC,1,2
+2025-04-12T19:05:00Z,FL1,RC Strasbourg Alsace,OGC Nice,2,2
+2025-04-13T13:00:00Z,FL1,AS Saint-Étienne,Stade Brestois 29,3,3
+2025-04-13T15:15:00Z,FL1,Le Havre AC,Stade Rennais FC 1901,1,5
+2025-04-13T15:15:00Z,FL1,Angers SCO,Montpellier HSC,2,0
+2025-04-13T18:45:00Z,FL1,AJ Auxerre,Olympique Lyonnais,1,3
+2025-04-18T18:45:00Z,FL1,Stade Rennais FC 1901,FC Nantes,2,1
+2025-04-19T15:00:00Z,FL1,Paris Saint-Germain FC,Le Havre AC,2,1
+2025-04-19T17:00:00Z,FL1,AS Monaco FC,RC Strasbourg Alsace,0,0
+2025-04-19T19:05:00Z,FL1,Olympique de Marseille,Montpellier HSC,5,1
+2025-04-20T13:00:00Z,FL1,Lille OSC,AJ Auxerre,3,1
+2025-04-20T15:15:00Z,FL1,OGC Nice,Angers SCO,2,1
+2025-04-20T15:15:00Z,FL1,Stade Brestois 29,Racing Club de Lens,1,3
+2025-04-20T15:15:00Z,FL1,Stade de Reims,Toulouse FC,1,0
+2025-04-20T18:45:00Z,FL1,AS Saint-Étienne,Olympique Lyonnais,2,1
+2025-04-22T18:45:00Z,FL1,FC Nantes,Paris Saint-Germain FC,1,1
+2025-04-25T18:45:00Z,FL1,Paris Saint-Germain FC,OGC Nice,1,3
+2025-04-26T15:00:00Z,FL1,RC Strasbourg Alsace,AS Saint-Étienne,3,1
+2025-04-26T17:00:00Z,FL1,Le Havre AC,AS Monaco FC,1,1
+2025-04-26T19:05:00Z,FL1,Olympique Lyonnais,Stade Rennais FC 1901,4,1
+2025-04-27T13:00:00Z,FL1,Angers SCO,Lille OSC,0,2
+2025-04-27T15:15:00Z,FL1,FC Nantes,Toulouse FC,0,0
+2025-04-27T15:15:00Z,FL1,Montpellier HSC,Stade de Reims,0,0
+2025-04-27T15:15:00Z,FL1,Racing Club de Lens,AJ Auxerre,0,4
+2025-04-27T18:45:00Z,FL1,Olympique de Marseille,Stade Brestois 29,4,1
+2025-05-02T18:45:00Z,FL1,OGC Nice,Stade de Reims,1,0
+2025-05-03T15:00:00Z,FL1,RC Strasbourg Alsace,Paris Saint-Germain FC,2,1
+2025-05-03T17:00:00Z,FL1,Toulouse FC,Stade Rennais FC 1901,2,1
+2025-05-03T19:05:00Z,FL1,AS Saint-Étienne,AS Monaco FC,1,3
+2025-05-04T13:00:00Z,FL1,FC Nantes,Angers SCO,0,1
+2025-05-04T15:15:00Z,FL1,Olympique Lyonnais,Racing Club de Lens,1,2
+2025-05-04T15:15:00Z,FL1,Stade Brestois 29,Montpellier HSC,1,0
+2025-05-04T15:15:00Z,FL1,AJ Auxerre,Le Havre AC,1,2
+2025-05-04T18:45:00Z,FL1,Lille OSC,Olympique de Marseille,1,1
+2025-05-10T19:00:00Z,FL1,Stade de Reims,AS Saint-Étienne,0,2
+2025-05-10T19:00:00Z,FL1,AJ Auxerre,FC Nantes,1,1
+2025-05-10T19:00:00Z,FL1,Angers SCO,RC Strasbourg Alsace,2,1
+2025-05-10T19:00:00Z,FL1,Le Havre AC,Olympique de Marseille,1,3
+2025-05-10T19:00:00Z,FL1,Stade Rennais FC 1901,OGC Nice,2,0
+2025-05-10T19:00:00Z,FL1,Montpellier HSC,Paris Saint-Germain FC,1,4
+2025-05-10T19:00:00Z,FL1,Toulouse FC,Racing Club de Lens,1,1
+2025-05-10T19:00:00Z,FL1,Stade Brestois 29,Lille OSC,2,0
+2025-05-10T19:00:00Z,FL1,AS Monaco FC,Olympique Lyonnais,2,0
+2025-05-17T19:00:00Z,FL1,Olympique de Marseille,Stade Rennais FC 1901,4,2
+2025-05-17T19:00:00Z,FL1,Olympique Lyonnais,Angers SCO,2,0
+2025-05-17T19:00:00Z,FL1,OGC Nice,Stade Brestois 29,6,0
+2025-05-17T19:00:00Z,FL1,AS Saint-Étienne,Toulouse FC,2,3
+2025-05-17T19:00:00Z,FL1,Lille OSC,Stade de Reims,2,1
+2025-05-17T19:00:00Z,FL1,RC Strasbourg Alsace,Le Havre AC,2,3
+2025-05-17T19:00:00Z,FL1,FC Nantes,Montpellier HSC,3,0
+2025-05-17T19:00:00Z,FL1,Racing Club de Lens,AS Monaco FC,4,0
+2025-05-17T19:00:00Z,FL1,Paris Saint-Germain FC,AJ Auxerre,3,1
+2024-08-23T18:30:00Z,BL1,Borussia Mönchengladbach,Bayer 04 Leverkusen,2,3
+2024-08-24T13:30:00Z,BL1,RB Leipzig,VfL Bochum 1848,1,0
+2024-08-24T13:30:00Z,BL1,TSG 1899 Hoffenheim,Holstein Kiel,3,2
+2024-08-24T13:30:00Z,BL1,SC Freiburg,VfB Stuttgart,3,1
+2024-08-24T13:30:00Z,BL1,FC Augsburg,SV Werder Bremen,2,2
+2024-08-24T13:30:00Z,BL1,1. FSV Mainz 05,1. FC Union Berlin,1,1
+2024-08-24T16:30:00Z,BL1,Borussia Dortmund,Eintracht Frankfurt,2,0
+2024-08-25T13:30:00Z,BL1,VfL Wolfsburg,FC Bayern München,2,3
+2024-08-25T15:30:00Z,BL1,FC St. Pauli 1910,1. FC Heidenheim 1846,0,2
+2024-08-30T18:30:00Z,BL1,1. FC Union Berlin,FC St. Pauli 1910,1,0
+2024-08-31T13:30:00Z,BL1,VfB Stuttgart,1. FSV Mainz 05,3,3
+2024-08-31T13:30:00Z,BL1,Eintracht Frankfurt,TSG 1899 Hoffenheim,3,1
+2024-08-31T13:30:00Z,BL1,SV Werder Bremen,Borussia Dortmund,0,0
+2024-08-31T13:30:00Z,BL1,VfL Bochum 1848,Borussia Mönchengladbach,0,2
+2024-08-31T13:30:00Z,BL1,Holstein Kiel,VfL Wolfsburg,0,2
+2024-08-31T16:30:00Z,BL1,Bayer 04 Leverkusen,RB Leipzig,2,3
+2024-09-01T13:30:00Z,BL1,1. FC Heidenheim 1846,FC Augsburg,4,0
+2024-09-01T15:30:00Z,BL1,FC Bayern München,SC Freiburg,2,0
+2024-09-13T18:30:00Z,BL1,Borussia Dortmund,1. FC Heidenheim 1846,4,2
+2024-09-14T13:30:00Z,BL1,RB Leipzig,1. FC Union Berlin,0,0
+2024-09-14T13:30:00Z,BL1,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,1,4
+2024-09-14T13:30:00Z,BL1,SC Freiburg,VfL Bochum 1848,2,1
+2024-09-14T13:30:00Z,BL1,VfL Wolfsburg,Eintracht Frankfurt,1,2
+2024-09-14T13:30:00Z,BL1,Borussia Mönchengladbach,VfB Stuttgart,1,3
+2024-09-14T16:30:00Z,BL1,Holstein Kiel,FC Bayern München,1,6
+2024-09-15T13:30:00Z,BL1,FC Augsburg,FC St. Pauli 1910,3,1
+2024-09-15T15:30:00Z,BL1,1. FSV Mainz 05,SV Werder Bremen,1,2
+2024-09-20T18:30:00Z,BL1,FC Augsburg,1. FSV Mainz 05,2,3
+2024-09-21T13:30:00Z,BL1,1. FC Heidenheim 1846,SC Freiburg,0,3
+2024-09-21T13:30:00Z,BL1,SV Werder Bremen,FC Bayern München,0,5
+2024-09-21T13:30:00Z,BL1,1. FC Union Berlin,TSG 1899 Hoffenheim,2,1
+2024-09-21T13:30:00Z,BL1,VfL Bochum 1848,Holstein Kiel,2,2
+2024-09-21T16:30:00Z,BL1,Eintracht Frankfurt,Borussia Mönchengladbach,2,0
+2024-09-22T13:30:00Z,BL1,Bayer 04 Leverkusen,VfL Wolfsburg,4,3
+2024-09-22T15:30:00Z,BL1,VfB Stuttgart,Borussia Dortmund,5,1
+2024-09-22T17:30:00Z,BL1,FC St. Pauli 1910,RB Leipzig,0,0
+2024-09-27T18:30:00Z,BL1,Borussia Dortmund,VfL Bochum 1848,4,2
+2024-09-28T13:30:00Z,BL1,RB Leipzig,FC Augsburg,4,0
+2024-09-28T13:30:00Z,BL1,SC Freiburg,FC St. Pauli 1910,0,3
+2024-09-28T13:30:00Z,BL1,VfL Wolfsburg,VfB Stuttgart,2,2
+2024-09-28T13:30:00Z,BL1,1. FSV Mainz 05,1. FC Heidenheim 1846,0,2
+2024-09-28T13:30:00Z,BL1,Borussia Mönchengladbach,1. FC Union Berlin,1,0
+2024-09-28T16:30:00Z,BL1,FC Bayern München,Bayer 04 Leverkusen,1,1
+2024-09-29T13:30:00Z,BL1,Holstein Kiel,Eintracht Frankfurt,2,4
+2024-09-29T15:30:00Z,BL1,TSG 1899 Hoffenheim,SV Werder Bremen,3,4
+2024-10-04T18:30:00Z,BL1,FC Augsburg,Borussia Mönchengladbach,2,1
+2024-10-05T13:30:00Z,BL1,Bayer 04 Leverkusen,Holstein Kiel,2,2
+2024-10-05T13:30:00Z,BL1,SV Werder Bremen,SC Freiburg,0,1
+2024-10-05T13:30:00Z,BL1,1. FC Union Berlin,Borussia Dortmund,2,1
+2024-10-05T13:30:00Z,BL1,VfL Bochum 1848,VfL Wolfsburg,1,3
+2024-10-05T16:30:00Z,BL1,FC St. Pauli 1910,1. FSV Mainz 05,0,3
+2024-10-06T13:30:00Z,BL1,1. FC Heidenheim 1846,RB Leipzig,0,1
+2024-10-06T15:30:00Z,BL1,Eintracht Frankfurt,FC Bayern München,3,3
+2024-10-06T17:30:00Z,BL1,VfB Stuttgart,TSG 1899 Hoffenheim,1,1
+2024-10-18T18:30:00Z,BL1,Borussia Dortmund,FC St. Pauli 1910,2,1
+2024-10-19T13:30:00Z,BL1,Bayer 04 Leverkusen,Eintracht Frankfurt,2,1
+2024-10-19T13:30:00Z,BL1,TSG 1899 Hoffenheim,VfL Bochum 1848,3,1
+2024-10-19T13:30:00Z,BL1,SC Freiburg,FC Augsburg,3,1
+2024-10-19T13:30:00Z,BL1,1. FSV Mainz 05,RB Leipzig,0,2
+2024-10-19T13:30:00Z,BL1,Borussia Mönchengladbach,1. FC Heidenheim 1846,3,2
+2024-10-19T16:30:00Z,BL1,FC Bayern München,VfB Stuttgart,4,0
+2024-10-20T13:30:00Z,BL1,Holstein Kiel,1. FC Union Berlin,0,2
+2024-10-20T15:30:00Z,BL1,VfL Wolfsburg,SV Werder Bremen,2,4
+2024-10-25T18:30:00Z,BL1,1. FSV Mainz 05,Borussia Mönchengladbach,1,1
+2024-10-26T13:30:00Z,BL1,VfB Stuttgart,Holstein Kiel,2,1
+2024-10-26T13:30:00Z,BL1,RB Leipzig,SC Freiburg,3,1
+2024-10-26T13:30:00Z,BL1,FC Augsburg,Borussia Dortmund,2,1
+2024-10-26T13:30:00Z,BL1,FC St. Pauli 1910,VfL Wolfsburg,0,0
+2024-10-26T16:30:00Z,BL1,SV Werder Bremen,Bayer 04 Leverkusen,2,2
+2024-10-27T14:30:00Z,BL1,VfL Bochum 1848,FC Bayern München,0,5
+2024-10-27T16:30:00Z,BL1,1. FC Union Berlin,Eintracht Frankfurt,1,1
+2024-10-27T18:30:00Z,BL1,1. FC Heidenheim 1846,TSG 1899 Hoffenheim,0,0
+2024-11-01T19:30:00Z,BL1,Bayer 04 Leverkusen,VfB Stuttgart,0,0
+2024-11-02T14:30:00Z,BL1,FC Bayern München,1. FC Union Berlin,3,0
+2024-11-02T14:30:00Z,BL1,Eintracht Frankfurt,VfL Bochum 1848,7,2
+2024-11-02T14:30:00Z,BL1,TSG 1899 Hoffenheim,FC St. Pauli 1910,0,2
+2024-11-02T14:30:00Z,BL1,VfL Wolfsburg,FC Augsburg,1,1
+2024-11-02T14:30:00Z,BL1,Holstein Kiel,1. FC Heidenheim 1846,1,0
+2024-11-02T17:30:00Z,BL1,Borussia Dortmund,RB Leipzig,2,1
+2024-11-03T14:30:00Z,BL1,SC Freiburg,1. FSV Mainz 05,0,0
+2024-11-03T16:30:00Z,BL1,Borussia Mönchengladbach,SV Werder Bremen,4,1
+2024-11-08T19:30:00Z,BL1,1. FC Union Berlin,SC Freiburg,0,0
+2024-11-09T14:30:00Z,BL1,SV Werder Bremen,Holstein Kiel,2,1
+2024-11-09T14:30:00Z,BL1,1. FSV Mainz 05,Borussia Dortmund,3,1
+2024-11-09T14:30:00Z,BL1,VfL Bochum 1848,Bayer 04 Leverkusen,1,1
+2024-11-09T14:30:00Z,BL1,FC St. Pauli 1910,FC Bayern München,0,1
+2024-11-09T17:30:00Z,BL1,RB Leipzig,Borussia Mönchengladbach,0,0
+2024-11-10T14:30:00Z,BL1,FC Augsburg,TSG 1899 Hoffenheim,0,0
+2024-11-10T16:30:00Z,BL1,VfB Stuttgart,Eintracht Frankfurt,2,3
+2024-11-10T18:30:00Z,BL1,1. FC Heidenheim 1846,VfL Wolfsburg,1,3
+2024-11-22T19:30:00Z,BL1,FC Bayern München,FC Augsburg,3,0
+2024-11-23T14:30:00Z,BL1,Bayer 04 Leverkusen,1. FC Heidenheim 1846,5,2
+2024-11-23T14:30:00Z,BL1,VfB Stuttgart,VfL Bochum 1848,2,0
+2024-11-23T14:30:00Z,BL1,Borussia Dortmund,SC Freiburg,4,0
+2024-11-23T14:30:00Z,BL1,TSG 1899 Hoffenheim,RB Leipzig,4,3
+2024-11-23T14:30:00Z,BL1,VfL Wolfsburg,1. FC Union Berlin,1,0
+2024-11-23T17:30:00Z,BL1,Eintracht Frankfurt,SV Werder Bremen,1,0
+2024-11-24T14:30:00Z,BL1,Holstein Kiel,1. FSV Mainz 05,0,3
+2024-11-24T16:30:00Z,BL1,Borussia Mönchengladbach,FC St. Pauli 1910,2,0
+2024-11-29T19:30:00Z,BL1,FC St. Pauli 1910,Holstein Kiel,3,1
+2024-11-30T14:30:00Z,BL1,RB Leipzig,VfL Wolfsburg,1,5
+2024-11-30T14:30:00Z,BL1,SV Werder Bremen,VfB Stuttgart,2,2
+2024-11-30T14:30:00Z,BL1,SC Freiburg,Borussia Mönchengladbach,3,1
+2024-11-30T14:30:00Z,BL1,FC Augsburg,VfL Bochum 1848,1,0
+2024-11-30T14:30:00Z,BL1,1. FC Union Berlin,Bayer 04 Leverkusen,1,2
+2024-11-30T17:30:00Z,BL1,Borussia Dortmund,FC Bayern München,1,1
+2024-12-01T14:30:00Z,BL1,1. FSV Mainz 05,TSG 1899 Hoffenheim,2,0
+2024-12-01T16:30:00Z,BL1,1. FC Heidenheim 1846,Eintracht Frankfurt,0,4
+2024-12-06T19:30:00Z,BL1,VfB Stuttgart,1. FC Union Berlin,3,2
+2024-12-07T14:30:00Z,BL1,Bayer 04 Leverkusen,FC St. Pauli 1910,2,1
+2024-12-07T14:30:00Z,BL1,FC Bayern München,1. FC Heidenheim 1846,4,2
+2024-12-07T14:30:00Z,BL1,Eintracht Frankfurt,FC Augsburg,2,2
+2024-12-07T14:30:00Z,BL1,VfL Bochum 1848,SV Werder Bremen,0,1
+2024-12-07T14:30:00Z,BL1,Holstein Kiel,RB Leipzig,0,2
+2024-12-07T17:30:00Z,BL1,Borussia Mönchengladbach,Borussia Dortmund,1,1
+2024-12-08T14:30:00Z,BL1,VfL Wolfsburg,1. FSV Mainz 05,4,3
+2024-12-08T16:30:00Z,BL1,TSG 1899 Hoffenheim,SC Freiburg,1,1
+2024-12-13T19:30:00Z,BL1,SC Freiburg,VfL Wolfsburg,3,2
+2024-12-14T14:30:00Z,BL1,1. FSV Mainz 05,FC Bayern München,2,1
+2024-12-14T14:30:00Z,BL1,Borussia Mönchengladbach,Holstein Kiel,4,1
+2024-12-14T14:30:00Z,BL1,FC Augsburg,Bayer 04 Leverkusen,0,2
+2024-12-14T17:30:00Z,BL1,FC St. Pauli 1910,SV Werder Bremen,0,2
+2024-12-15T14:30:00Z,BL1,1. FC Heidenheim 1846,VfB Stuttgart,1,3
+2024-12-15T16:30:00Z,BL1,Borussia Dortmund,TSG 1899 Hoffenheim,1,1
+2024-12-15T18:30:00Z,BL1,RB Leipzig,Eintracht Frankfurt,2,1
+2024-12-20T19:30:00Z,BL1,FC Bayern München,RB Leipzig,5,1
+2024-12-21T14:30:00Z,BL1,VfB Stuttgart,FC St. Pauli 1910,0,1
+2024-12-21T14:30:00Z,BL1,Eintracht Frankfurt,1. FSV Mainz 05,1,3
+2024-12-21T14:30:00Z,BL1,TSG 1899 Hoffenheim,Borussia Mönchengladbach,1,2
+2024-12-21T14:30:00Z,BL1,SV Werder Bremen,1. FC Union Berlin,4,1
+2024-12-21T14:30:00Z,BL1,Holstein Kiel,FC Augsburg,5,1
+2024-12-21T17:30:00Z,BL1,Bayer 04 Leverkusen,SC Freiburg,5,1
+2024-12-22T14:30:00Z,BL1,VfL Bochum 1848,1. FC Heidenheim 1846,2,0
+2024-12-22T16:30:00Z,BL1,VfL Wolfsburg,Borussia Dortmund,1,3
+2025-01-10T19:45:00Z,BL1,Borussia Dortmund,Bayer 04 Leverkusen,2,3
+2025-01-11T14:30:00Z,BL1,TSG 1899 Hoffenheim,VfL Wolfsburg,0,1
+2025-01-11T14:30:00Z,BL1,1. FC Heidenheim 1846,1. FC Union Berlin,2,0
+2025-01-11T14:30:00Z,BL1,SC Freiburg,Holstein Kiel,3,2
+2025-01-11T14:30:00Z,BL1,1. FSV Mainz 05,VfL Bochum 1848,2,0
+2025-01-11T14:30:00Z,BL1,FC St. Pauli 1910,Eintracht Frankfurt,0,1
+2025-01-11T17:30:00Z,BL1,Borussia Mönchengladbach,FC Bayern München,0,1
+2025-01-12T14:30:00Z,BL1,RB Leipzig,SV Werder Bremen,4,2
+2025-01-12T16:30:00Z,BL1,FC Augsburg,VfB Stuttgart,0,1
+2025-01-14T17:30:00Z,BL1,Holstein Kiel,Borussia Dortmund,4,2
+2025-01-14T19:30:00Z,BL1,Bayer 04 Leverkusen,1. FSV Mainz 05,1,0
+2025-01-14T19:30:00Z,BL1,Eintracht Frankfurt,SC Freiburg,4,1
+2025-01-14T19:30:00Z,BL1,VfL Wolfsburg,Borussia Mönchengladbach,5,1
+2025-01-15T17:30:00Z,BL1,VfL Bochum 1848,FC St. Pauli 1910,1,0
+2025-01-15T19:30:00Z,BL1,VfB Stuttgart,RB Leipzig,2,1
+2025-01-15T19:30:00Z,BL1,FC Bayern München,TSG 1899 Hoffenheim,5,0
+2025-01-15T19:30:00Z,BL1,SV Werder Bremen,1. FC Heidenheim 1846,3,3
+2025-01-15T19:30:00Z,BL1,1. FC Union Berlin,FC Augsburg,0,2
+2025-01-17T19:30:00Z,BL1,Eintracht Frankfurt,Borussia Dortmund,2,0
+2025-01-18T14:30:00Z,BL1,VfB Stuttgart,SC Freiburg,4,0
+2025-01-18T14:30:00Z,BL1,FC Bayern München,VfL Wolfsburg,3,2
+2025-01-18T14:30:00Z,BL1,1. FC Heidenheim 1846,FC St. Pauli 1910,0,2
+2025-01-18T14:30:00Z,BL1,VfL Bochum 1848,RB Leipzig,3,3
+2025-01-18T14:30:00Z,BL1,Holstein Kiel,TSG 1899 Hoffenheim,1,3
+2025-01-18T17:30:00Z,BL1,Bayer 04 Leverkusen,Borussia Mönchengladbach,3,1
+2025-01-19T14:30:00Z,BL1,1. FC Union Berlin,1. FSV Mainz 05,2,1
+2025-01-19T16:30:00Z,BL1,SV Werder Bremen,FC Augsburg,0,2
+2025-01-24T19:30:00Z,BL1,VfL Wolfsburg,Holstein Kiel,2,2
+2025-01-25T14:30:00Z,BL1,RB Leipzig,Bayer 04 Leverkusen,2,2
+2025-01-25T14:30:00Z,BL1,1. FSV Mainz 05,VfB Stuttgart,2,0
+2025-01-25T14:30:00Z,BL1,SC Freiburg,FC Bayern München,1,2
+2025-01-25T14:30:00Z,BL1,FC Augsburg,1. FC Heidenheim 1846,2,1
+2025-01-25T14:30:00Z,BL1,Borussia Dortmund,SV Werder Bremen,2,2
+2025-01-25T17:30:00Z,BL1,Borussia Mönchengladbach,VfL Bochum 1848,3,0
+2025-01-26T14:30:00Z,BL1,TSG 1899 Hoffenheim,Eintracht Frankfurt,2,2
+2025-01-26T16:30:00Z,BL1,FC St. Pauli 1910,1. FC Union Berlin,3,0
+2025-01-31T19:30:00Z,BL1,SV Werder Bremen,1. FSV Mainz 05,1,0
+2025-02-01T14:30:00Z,BL1,1. FC Heidenheim 1846,Borussia Dortmund,1,2
+2025-02-01T14:30:00Z,BL1,VfL Bochum 1848,SC Freiburg,0,1
+2025-02-01T14:30:00Z,BL1,FC St. Pauli 1910,FC Augsburg,1,1
+2025-02-01T14:30:00Z,BL1,VfB Stuttgart,Borussia Mönchengladbach,1,2
+2025-02-01T14:30:00Z,BL1,FC Bayern München,Holstein Kiel,4,3
+2025-02-01T17:30:00Z,BL1,1. FC Union Berlin,RB Leipzig,0,0
+2025-02-02T14:30:00Z,BL1,Eintracht Frankfurt,VfL Wolfsburg,1,1
+2025-02-02T16:30:00Z,BL1,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,3,1
+2025-02-07T19:30:00Z,BL1,FC Bayern München,SV Werder Bremen,3,0
+2025-02-08T14:30:00Z,BL1,VfL Wolfsburg,Bayer 04 Leverkusen,0,0
+2025-02-08T14:30:00Z,BL1,Borussia Dortmund,VfB Stuttgart,1,2
+2025-02-08T14:30:00Z,BL1,SC Freiburg,1. FC Heidenheim 1846,1,0
+2025-02-08T14:30:00Z,BL1,1. FSV Mainz 05,FC Augsburg,0,0
+2025-02-08T14:30:00Z,BL1,TSG 1899 Hoffenheim,1. FC Union Berlin,0,4
+2025-02-08T17:30:00Z,BL1,Borussia Mönchengladbach,Eintracht Frankfurt,1,1
+2025-02-09T14:30:00Z,BL1,Holstein Kiel,VfL Bochum 1848,2,2
+2025-02-09T16:30:00Z,BL1,RB Leipzig,FC St. Pauli 1910,2,0
+2025-02-14T19:30:00Z,BL1,FC Augsburg,RB Leipzig,0,0
+2025-02-15T14:30:00Z,BL1,VfL Bochum 1848,Borussia Dortmund,2,0
+2025-02-15T14:30:00Z,BL1,FC St. Pauli 1910,SC Freiburg,0,1
+2025-02-15T14:30:00Z,BL1,VfB Stuttgart,VfL Wolfsburg,1,2
+2025-02-15T14:30:00Z,BL1,1. FC Union Berlin,Borussia Mönchengladbach,1,2
+2025-02-15T17:30:00Z,BL1,Bayer 04 Leverkusen,FC Bayern München,0,0
+2025-02-16T14:30:00Z,BL1,SV Werder Bremen,TSG 1899 Hoffenheim,1,3
+2025-02-16T16:30:00Z,BL1,Eintracht Frankfurt,Holstein Kiel,3,1
+2025-02-16T18:30:00Z,BL1,1. FC Heidenheim 1846,1. FSV Mainz 05,0,2
+2025-02-21T19:30:00Z,BL1,SC Freiburg,SV Werder Bremen,5,0
+2025-02-22T14:30:00Z,BL1,Holstein Kiel,Bayer 04 Leverkusen,0,2
+2025-02-22T14:30:00Z,BL1,Borussia Mönchengladbach,FC Augsburg,0,3
+2025-02-22T14:30:00Z,BL1,VfL Wolfsburg,VfL Bochum 1848,1,1
+2025-02-22T14:30:00Z,BL1,1. FSV Mainz 05,FC St. Pauli 1910,2,0
+2025-02-22T17:30:00Z,BL1,Borussia Dortmund,1. FC Union Berlin,6,0
+2025-02-23T14:30:00Z,BL1,RB Leipzig,1. FC Heidenheim 1846,2,2
+2025-02-23T16:30:00Z,BL1,FC Bayern München,Eintracht Frankfurt,4,0
+2025-02-23T18:30:00Z,BL1,TSG 1899 Hoffenheim,VfB Stuttgart,1,1
+2025-02-28T19:30:00Z,BL1,VfB Stuttgart,FC Bayern München,1,3
+2025-03-01T14:30:00Z,BL1,FC St. Pauli 1910,Borussia Dortmund,0,2
+2025-03-01T14:30:00Z,BL1,VfL Bochum 1848,TSG 1899 Hoffenheim,0,1
+2025-03-01T14:30:00Z,BL1,SV Werder Bremen,VfL Wolfsburg,1,2
+2025-03-01T14:30:00Z,BL1,RB Leipzig,1. FSV Mainz 05,1,2
+2025-03-01T14:30:00Z,BL1,1. FC Heidenheim 1846,Borussia Mönchengladbach,0,3
+2025-03-01T17:30:00Z,BL1,Eintracht Frankfurt,Bayer 04 Leverkusen,1,4
+2025-03-02T14:30:00Z,BL1,1. FC Union Berlin,Holstein Kiel,0,1
+2025-03-02T16:30:00Z,BL1,FC Augsburg,SC Freiburg,0,0
+2025-03-07T19:30:00Z,BL1,Borussia Mönchengladbach,1. FSV Mainz 05,1,3
+2025-03-08T14:30:00Z,BL1,Holstein Kiel,VfB Stuttgart,2,2
+2025-03-08T14:30:00Z,BL1,Bayer 04 Leverkusen,SV Werder Bremen,0,2
+2025-03-08T14:30:00Z,BL1,Borussia Dortmund,FC Augsburg,0,1
+2025-03-08T14:30:00Z,BL1,FC Bayern München,VfL Bochum 1848,2,3
+2025-03-08T14:30:00Z,BL1,VfL Wolfsburg,FC St. Pauli 1910,1,1
+2025-03-08T17:30:00Z,BL1,SC Freiburg,RB Leipzig,0,0
+2025-03-09T14:30:00Z,BL1,Eintracht Frankfurt,1. FC Union Berlin,1,2
+2025-03-09T16:30:00Z,BL1,TSG 1899 Hoffenheim,1. FC Heidenheim 1846,1,1
+2025-03-14T19:30:00Z,BL1,FC St. Pauli 1910,TSG 1899 Hoffenheim,1,0
+2025-03-15T14:30:00Z,BL1,1. FC Union Berlin,FC Bayern München,1,1
+2025-03-15T14:30:00Z,BL1,1. FSV Mainz 05,SC Freiburg,2,2
+2025-03-15T14:30:00Z,BL1,FC Augsburg,VfL Wolfsburg,1,0
+2025-03-15T14:30:00Z,BL1,SV Werder Bremen,Borussia Mönchengladbach,2,4
+2025-03-15T17:30:00Z,BL1,RB Leipzig,Borussia Dortmund,2,0
+2025-03-16T15:20:00Z,BL1,VfL Bochum 1848,Eintracht Frankfurt,1,3
+2025-03-16T16:30:00Z,BL1,1. FC Heidenheim 1846,Holstein Kiel,3,1
+2025-03-16T18:30:00Z,BL1,VfB Stuttgart,Bayer 04 Leverkusen,3,4
+2025-03-28T19:30:00Z,BL1,Bayer 04 Leverkusen,VfL Bochum 1848,3,1
+2025-03-29T14:30:00Z,BL1,Borussia Mönchengladbach,RB Leipzig,1,0
+2025-03-29T14:30:00Z,BL1,VfL Wolfsburg,1. FC Heidenheim 1846,0,1
+2025-03-29T14:30:00Z,BL1,Holstein Kiel,SV Werder Bremen,0,3
+2025-03-29T14:30:00Z,BL1,TSG 1899 Hoffenheim,FC Augsburg,1,1
+2025-03-29T14:30:00Z,BL1,FC Bayern München,FC St. Pauli 1910,3,2
+2025-03-29T17:30:00Z,BL1,Eintracht Frankfurt,VfB Stuttgart,1,0
+2025-03-30T13:30:00Z,BL1,SC Freiburg,1. FC Union Berlin,1,2
+2025-03-30T15:30:00Z,BL1,Borussia Dortmund,1. FSV Mainz 05,3,1
+2025-04-04T18:30:00Z,BL1,FC Augsburg,FC Bayern München,1,3
+2025-04-05T13:30:00Z,BL1,1. FC Heidenheim 1846,Bayer 04 Leverkusen,0,1
+2025-04-05T13:30:00Z,BL1,VfL Bochum 1848,VfB Stuttgart,0,4
+2025-04-05T13:30:00Z,BL1,SC Freiburg,Borussia Dortmund,1,4
+2025-04-05T13:30:00Z,BL1,RB Leipzig,TSG 1899 Hoffenheim,3,1
+2025-04-05T13:30:00Z,BL1,1. FSV Mainz 05,Holstein Kiel,1,1
+2025-04-05T16:30:00Z,BL1,SV Werder Bremen,Eintracht Frankfurt,2,0
+2025-04-06T13:30:00Z,BL1,FC St. Pauli 1910,Borussia Mönchengladbach,1,1
+2025-04-06T15:30:00Z,BL1,1. FC Union Berlin,VfL Wolfsburg,1,0
+2025-04-11T18:30:00Z,BL1,VfL Wolfsburg,RB Leipzig,2,3
+2025-04-12T13:30:00Z,BL1,Borussia Mönchengladbach,SC Freiburg,1,2
+2025-04-12T13:30:00Z,BL1,VfL Bochum 1848,FC Augsburg,1,2
+2025-04-12T13:30:00Z,BL1,TSG 1899 Hoffenheim,1. FSV Mainz 05,2,0
+2025-04-12T13:30:00Z,BL1,Bayer 04 Leverkusen,1. FC Union Berlin,0,0
+2025-04-12T13:30:00Z,BL1,Holstein Kiel,FC St. Pauli 1910,1,2
+2025-04-12T16:30:00Z,BL1,FC Bayern München,Borussia Dortmund,2,2
+2025-04-13T13:30:00Z,BL1,VfB Stuttgart,SV Werder Bremen,1,2
+2025-04-13T15:30:00Z,BL1,Eintracht Frankfurt,1. FC Heidenheim 1846,3,0
+2025-04-19T13:30:00Z,BL1,1. FC Heidenheim 1846,FC Bayern München,0,4
+2025-04-19T13:30:00Z,BL1,SC Freiburg,TSG 1899 Hoffenheim,3,2
+2025-04-19T13:30:00Z,BL1,1. FSV Mainz 05,VfL Wolfsburg,2,2
+2025-04-19T13:30:00Z,BL1,SV Werder Bremen,VfL Bochum 1848,1,0
+2025-04-19T13:30:00Z,BL1,RB Leipzig,Holstein Kiel,1,1
+2025-04-19T16:30:00Z,BL1,1. FC Union Berlin,VfB Stuttgart,4,4
+2025-04-20T13:30:00Z,BL1,FC Augsburg,Eintracht Frankfurt,0,0
+2025-04-20T15:30:00Z,BL1,Borussia Dortmund,Borussia Mönchengladbach,3,2
+2025-04-20T17:30:00Z,BL1,FC St. Pauli 1910,Bayer 04 Leverkusen,1,1
+2025-04-25T18:30:00Z,BL1,VfB Stuttgart,1. FC Heidenheim 1846,0,1
+2025-04-26T13:30:00Z,BL1,TSG 1899 Hoffenheim,Borussia Dortmund,2,3
+2025-04-26T13:30:00Z,BL1,VfL Wolfsburg,SC Freiburg,0,1
+2025-04-26T13:30:00Z,BL1,FC Bayern München,1. FSV Mainz 05,3,0
+2025-04-26T13:30:00Z,BL1,Holstein Kiel,Borussia Mönchengladbach,4,3
+2025-04-26T13:30:00Z,BL1,Bayer 04 Leverkusen,FC Augsburg,2,0
+2025-04-26T16:30:00Z,BL1,Eintracht Frankfurt,RB Leipzig,4,0
+2025-04-27T13:30:00Z,BL1,VfL Bochum 1848,1. FC Union Berlin,1,1
+2025-04-27T15:30:00Z,BL1,SV Werder Bremen,FC St. Pauli 1910,0,0
+2025-05-02T18:30:00Z,BL1,1. FC Heidenheim 1846,VfL Bochum 1848,0,0
+2025-05-03T13:30:00Z,BL1,FC St. Pauli 1910,VfB Stuttgart,0,1
+2025-05-03T13:30:00Z,BL1,RB Leipzig,FC Bayern München,3,3
+2025-05-03T13:30:00Z,BL1,Borussia Mönchengladbach,TSG 1899 Hoffenheim,4,4
+2025-05-03T13:30:00Z,BL1,1. FC Union Berlin,SV Werder Bremen,2,2
+2025-05-03T16:30:00Z,BL1,Borussia Dortmund,VfL Wolfsburg,4,0
+2025-05-04T13:30:00Z,BL1,FC Augsburg,Holstein Kiel,1,3
+2025-05-04T15:30:00Z,BL1,SC Freiburg,Bayer 04 Leverkusen,2,2
+2025-05-04T17:30:00Z,BL1,1. FSV Mainz 05,Eintracht Frankfurt,1,1
+2025-05-09T18:30:00Z,BL1,VfL Wolfsburg,TSG 1899 Hoffenheim,2,2
+2025-05-10T13:30:00Z,BL1,SV Werder Bremen,RB Leipzig,0,0
+2025-05-10T13:30:00Z,BL1,1. FC Union Berlin,1. FC Heidenheim 1846,0,3
+2025-05-10T13:30:00Z,BL1,Holstein Kiel,SC Freiburg,1,2
+2025-05-10T13:30:00Z,BL1,VfL Bochum 1848,1. FSV Mainz 05,1,4
+2025-05-10T16:30:00Z,BL1,FC Bayern München,Borussia Mönchengladbach,2,0
+2025-05-11T13:30:00Z,BL1,Bayer 04 Leverkusen,Borussia Dortmund,2,4
+2025-05-11T15:30:00Z,BL1,Eintracht Frankfurt,FC St. Pauli 1910,2,2
+2025-05-11T17:30:00Z,BL1,VfB Stuttgart,FC Augsburg,4,0
+2025-05-17T13:30:00Z,BL1,1. FSV Mainz 05,Bayer 04 Leverkusen,2,2
+2025-05-17T13:30:00Z,BL1,RB Leipzig,VfB Stuttgart,2,3
+2025-05-17T13:30:00Z,BL1,TSG 1899 Hoffenheim,FC Bayern München,0,4
+2025-05-17T13:30:00Z,BL1,SC Freiburg,Eintracht Frankfurt,1,3
+2025-05-17T13:30:00Z,BL1,1. FC Heidenheim 1846,SV Werder Bremen,1,4
+2025-05-17T13:30:00Z,BL1,Borussia Mönchengladbach,VfL Wolfsburg,0,1
+2025-05-17T13:30:00Z,BL1,FC Augsburg,1. FC Union Berlin,1,2
+2025-05-17T13:30:00Z,BL1,FC St. Pauli 1910,VfL Bochum 1848,0,2
+2025-05-17T13:30:00Z,BL1,Borussia Dortmund,Holstein Kiel,3,0
+2024-08-17T16:30:00Z,SA,Genoa CFC,FC Internazionale Milano,2,2
+2024-08-17T16:30:00Z,SA,Parma Calcio 1913,ACF Fiorentina,1,1
+2024-08-17T18:45:00Z,SA,Empoli FC,AC Monza,0,0
+2024-08-17T18:45:00Z,SA,AC Milan,Torino FC,2,2
+2024-08-18T16:30:00Z,SA,Bologna FC 1909,Udinese Calcio,1,1
+2024-08-18T16:30:00Z,SA,Hellas Verona FC,SSC Napoli,3,0
+2024-08-18T18:45:00Z,SA,Cagliari Calcio,AS Roma,0,0
+2024-08-18T18:45:00Z,SA,SS Lazio,Venezia FC,3,1
+2024-08-19T16:30:00Z,SA,US Lecce,Atalanta BC,0,4
+2024-08-19T18:45:00Z,SA,Juventus FC,Como 1907,3,0
+2024-08-24T16:30:00Z,SA,Parma Calcio 1913,AC Milan,2,1
+2024-08-24T16:30:00Z,SA,Udinese Calcio,SS Lazio,2,1
+2024-08-24T18:45:00Z,SA,FC Internazionale Milano,US Lecce,2,0
+2024-08-24T18:45:00Z,SA,AC Monza,Genoa CFC,0,1
+2024-08-25T16:30:00Z,SA,ACF Fiorentina,Venezia FC,0,0
+2024-08-25T16:30:00Z,SA,Torino FC,Atalanta BC,2,1
+2024-08-25T18:45:00Z,SA,SSC Napoli,Bologna FC 1909,3,0
+2024-08-25T18:45:00Z,SA,AS Roma,Empoli FC,1,2
+2024-08-26T16:30:00Z,SA,Cagliari Calcio,Como 1907,1,1
+2024-08-26T18:45:00Z,SA,Hellas Verona FC,Juventus FC,0,3
+2024-08-30T16:30:00Z,SA,Venezia FC,Torino FC,0,1
+2024-08-30T18:45:00Z,SA,FC Internazionale Milano,Atalanta BC,4,0
+2024-08-31T16:30:00Z,SA,Bologna FC 1909,Empoli FC,1,1
+2024-08-31T16:30:00Z,SA,US Lecce,Cagliari Calcio,1,0
+2024-08-31T18:45:00Z,SA,SS Lazio,AC Milan,2,2
+2024-08-31T18:45:00Z,SA,SSC Napoli,Parma Calcio 1913,2,1
+2024-09-01T16:30:00Z,SA,ACF Fiorentina,AC Monza,2,2
+2024-09-01T16:30:00Z,SA,Genoa CFC,Hellas Verona FC,0,2
+2024-09-01T18:45:00Z,SA,Juventus FC,AS Roma,0,0
+2024-09-01T18:45:00Z,SA,Udinese Calcio,Como 1907,1,0
+2024-09-14T13:00:00Z,SA,Como 1907,Bologna FC 1909,2,2
+2024-09-14T16:00:00Z,SA,Empoli FC,Juventus FC,0,0
+2024-09-14T18:45:00Z,SA,AC Milan,Venezia FC,4,0
+2024-09-15T10:30:00Z,SA,Genoa CFC,AS Roma,1,1
+2024-09-15T13:00:00Z,SA,Atalanta BC,ACF Fiorentina,3,2
+2024-09-15T13:00:00Z,SA,Torino FC,US Lecce,0,0
+2024-09-15T16:00:00Z,SA,Cagliari Calcio,SSC Napoli,0,4
+2024-09-15T18:45:00Z,SA,AC Monza,FC Internazionale Milano,1,1
+2024-09-16T16:30:00Z,SA,Parma Calcio 1913,Udinese Calcio,2,3
+2024-09-16T18:45:00Z,SA,SS Lazio,Hellas Verona FC,2,1
+2024-09-20T16:30:00Z,SA,Cagliari Calcio,Empoli FC,0,2
+2024-09-20T18:45:00Z,SA,Hellas Verona FC,Torino FC,2,3
+2024-09-21T13:00:00Z,SA,Venezia FC,Genoa CFC,2,0
+2024-09-21T16:00:00Z,SA,Juventus FC,SSC Napoli,0,0
+2024-09-21T18:45:00Z,SA,US Lecce,Parma Calcio 1913,2,2
+2024-09-22T10:30:00Z,SA,ACF Fiorentina,SS Lazio,2,1
+2024-09-22T13:00:00Z,SA,AC Monza,Bologna FC 1909,1,2
+2024-09-22T16:00:00Z,SA,AS Roma,Udinese Calcio,3,0
+2024-09-22T18:45:00Z,SA,FC Internazionale Milano,AC Milan,1,2
+2024-09-24T18:45:00Z,SA,Atalanta BC,Como 1907,2,3
+2024-09-27T18:45:00Z,SA,AC Milan,US Lecce,3,0
+2024-09-28T13:00:00Z,SA,Udinese Calcio,FC Internazionale Milano,2,3
+2024-09-28T16:00:00Z,SA,Genoa CFC,Juventus FC,0,3
+2024-09-28T18:45:00Z,SA,Bologna FC 1909,Atalanta BC,1,1
+2024-09-29T10:30:00Z,SA,Torino FC,SS Lazio,2,3
+2024-09-29T13:00:00Z,SA,Como 1907,Hellas Verona FC,3,2
+2024-09-29T13:00:00Z,SA,AS Roma,Venezia FC,2,1
+2024-09-29T16:00:00Z,SA,Empoli FC,ACF Fiorentina,0,0
+2024-09-29T18:45:00Z,SA,SSC Napoli,AC Monza,2,0
+2024-09-30T18:45:00Z,SA,Parma Calcio 1913,Cagliari Calcio,2,3
+2024-10-04T16:30:00Z,SA,SSC Napoli,Como 1907,3,1
+2024-10-04T18:45:00Z,SA,Hellas Verona FC,Venezia FC,2,1
+2024-10-05T13:00:00Z,SA,Udinese Calcio,US Lecce,1,0
+2024-10-05T16:00:00Z,SA,Atalanta BC,Genoa CFC,5,1
+2024-10-05T18:45:00Z,SA,FC Internazionale Milano,Torino FC,3,2
+2024-10-06T10:30:00Z,SA,Juventus FC,Cagliari Calcio,1,1
+2024-10-06T13:00:00Z,SA,Bologna FC 1909,Parma Calcio 1913,0,0
+2024-10-06T13:00:00Z,SA,SS Lazio,Empoli FC,2,1
+2024-10-06T16:00:00Z,SA,AC Monza,AS Roma,1,1
+2024-10-06T18:45:00Z,SA,ACF Fiorentina,AC Milan,2,1
+2024-10-19T13:00:00Z,SA,Como 1907,Parma Calcio 1913,1,1
+2024-10-19T13:00:00Z,SA,Genoa CFC,Bologna FC 1909,2,2
+2024-10-19T16:00:00Z,SA,AC Milan,Udinese Calcio,1,0
+2024-10-19T18:45:00Z,SA,Juventus FC,SS Lazio,1,0
+2024-10-20T10:30:00Z,SA,Empoli FC,SSC Napoli,0,1
+2024-10-20T13:00:00Z,SA,US Lecce,ACF Fiorentina,0,6
+2024-10-20T13:00:00Z,SA,Venezia FC,Atalanta BC,0,2
+2024-10-20T16:00:00Z,SA,Cagliari Calcio,Torino FC,3,2
+2024-10-20T18:45:00Z,SA,AS Roma,FC Internazionale Milano,0,1
+2024-10-21T18:45:00Z,SA,Hellas Verona FC,AC Monza,0,3
+2024-10-25T16:30:00Z,SA,Udinese Calcio,Cagliari Calcio,2,0
+2024-10-25T18:45:00Z,SA,Torino FC,Como 1907,1,0
+2024-10-26T13:00:00Z,SA,SSC Napoli,US Lecce,1,0
+2024-10-26T18:45:00Z,SA,Atalanta BC,Hellas Verona FC,6,1
+2024-10-27T11:30:00Z,SA,Parma Calcio 1913,Empoli FC,1,1
+2024-10-27T14:00:00Z,SA,SS Lazio,Genoa CFC,3,0
+2024-10-27T14:00:00Z,SA,AC Monza,Venezia FC,2,2
+2024-10-27T17:00:00Z,SA,FC Internazionale Milano,Juventus FC,4,4
+2024-10-27T19:45:00Z,SA,ACF Fiorentina,AS Roma,5,1
+2024-10-29T17:30:00Z,SA,Cagliari Calcio,Bologna FC 1909,0,2
+2024-10-29T17:30:00Z,SA,US Lecce,Hellas Verona FC,1,0
+2024-10-29T19:45:00Z,SA,AC Milan,SSC Napoli,0,2
+2024-10-30T17:30:00Z,SA,Empoli FC,FC Internazionale Milano,0,3
+2024-10-30T17:30:00Z,SA,Venezia FC,Udinese Calcio,3,2
+2024-10-30T19:45:00Z,SA,Atalanta BC,AC Monza,2,0
+2024-10-30T19:45:00Z,SA,Juventus FC,Parma Calcio 1913,2,2
+2024-10-31T17:30:00Z,SA,Genoa CFC,ACF Fiorentina,0,1
+2024-10-31T19:45:00Z,SA,Como 1907,SS Lazio,1,5
+2024-10-31T19:45:00Z,SA,AS Roma,Torino FC,1,0
+2024-11-02T14:00:00Z,SA,Bologna FC 1909,US Lecce,1,0
+2024-11-02T17:00:00Z,SA,Udinese Calcio,Juventus FC,0,2
+2024-11-02T19:45:00Z,SA,AC Monza,AC Milan,0,1
+2024-11-03T11:30:00Z,SA,SSC Napoli,Atalanta BC,0,3
+2024-11-03T14:00:00Z,SA,Torino FC,ACF Fiorentina,0,1
+2024-11-03T17:00:00Z,SA,Hellas Verona FC,AS Roma,3,2
+2024-11-03T19:45:00Z,SA,FC Internazionale Milano,Venezia FC,1,0
+2024-11-04T17:30:00Z,SA,Empoli FC,Como 1907,1,0
+2024-11-04T17:30:00Z,SA,Parma Calcio 1913,Genoa CFC,0,1
+2024-11-04T19:45:00Z,SA,SS Lazio,Cagliari Calcio,2,1
+2024-11-07T19:45:00Z,SA,Genoa CFC,Como 1907,1,1
+2024-11-08T19:45:00Z,SA,US Lecce,Empoli FC,1,1
+2024-11-09T14:00:00Z,SA,Venezia FC,Parma Calcio 1913,1,2
+2024-11-09T17:00:00Z,SA,Cagliari Calcio,AC Milan,3,3
+2024-11-09T19:45:00Z,SA,Juventus FC,Torino FC,2,0
+2024-11-10T11:30:00Z,SA,Atalanta BC,Udinese Calcio,2,1
+2024-11-10T14:00:00Z,SA,ACF Fiorentina,Hellas Verona FC,3,1
+2024-11-10T14:00:00Z,SA,AS Roma,Bologna FC 1909,2,3
+2024-11-10T17:00:00Z,SA,AC Monza,SS Lazio,0,1
+2024-11-10T19:45:00Z,SA,FC Internazionale Milano,SSC Napoli,1,1
+2024-11-23T14:00:00Z,SA,Hellas Verona FC,FC Internazionale Milano,0,5
+2024-11-23T17:00:00Z,SA,AC Milan,Juventus FC,0,0
+2024-11-23T19:45:00Z,SA,Parma Calcio 1913,Atalanta BC,1,3
+2024-11-24T11:30:00Z,SA,Genoa CFC,Cagliari Calcio,2,2
+2024-11-24T14:00:00Z,SA,Como 1907,ACF Fiorentina,0,2
+2024-11-24T14:00:00Z,SA,Torino FC,AC Monza,1,1
+2024-11-24T17:00:00Z,SA,SSC Napoli,AS Roma,1,0
+2024-11-24T19:45:00Z,SA,SS Lazio,Bologna FC 1909,3,0
+2024-11-25T17:30:00Z,SA,Empoli FC,Udinese Calcio,1,1
+2024-11-25T19:45:00Z,SA,Venezia FC,US Lecce,0,1
+2024-11-29T19:45:00Z,SA,Cagliari Calcio,Hellas Verona FC,1,0
+2024-11-30T14:00:00Z,SA,Como 1907,AC Monza,1,1
+2024-11-30T17:00:00Z,SA,AC Milan,Empoli FC,3,0
+2024-11-30T19:45:00Z,SA,Bologna FC 1909,Venezia FC,3,0
+2024-12-01T11:30:00Z,SA,Udinese Calcio,Genoa CFC,0,2
+2024-12-01T14:00:00Z,SA,Parma Calcio 1913,SS Lazio,3,1
+2024-12-01T14:00:00Z,SA,Torino FC,SSC Napoli,0,1
+2024-12-01T19:45:00Z,SA,US Lecce,Juventus FC,1,1
+2024-12-02T19:45:00Z,SA,AS Roma,Atalanta BC,0,2
+2024-12-06T17:30:00Z,SA,FC Internazionale Milano,Parma Calcio 1913,3,1
+2024-12-06T19:45:00Z,SA,Atalanta BC,AC Milan,2,1
+2024-12-07T14:00:00Z,SA,Genoa CFC,Torino FC,0,0
+2024-12-07T17:00:00Z,SA,Juventus FC,Bologna FC 1909,2,2
+2024-12-07T19:45:00Z,SA,AS Roma,US Lecce,4,1
+2024-12-08T11:30:00Z,SA,ACF Fiorentina,Cagliari Calcio,1,0
+2024-12-08T14:00:00Z,SA,Hellas Verona FC,Empoli FC,1,4
+2024-12-08T17:00:00Z,SA,Venezia FC,Como 1907,2,2
+2024-12-08T19:45:00Z,SA,SSC Napoli,SS Lazio,0,1
+2024-12-09T19:45:00Z,SA,AC Monza,Udinese Calcio,1,2
+2024-12-13T19:45:00Z,SA,Empoli FC,Torino FC,0,1
+2024-12-14T14:00:00Z,SA,Cagliari Calcio,Atalanta BC,0,1
+2024-12-14T17:00:00Z,SA,Udinese Calcio,SSC Napoli,1,3
+2024-12-14T19:45:00Z,SA,Juventus FC,Venezia FC,2,2
+2024-12-15T11:30:00Z,SA,US Lecce,AC Monza,2,1
+2024-12-15T14:00:00Z,SA,Bologna FC 1909,ACF Fiorentina,1,0
+2024-12-15T14:00:00Z,SA,Parma Calcio 1913,Hellas Verona FC,2,3
+2024-12-15T17:00:00Z,SA,Como 1907,AS Roma,2,0
+2024-12-15T19:45:00Z,SA,AC Milan,Genoa CFC,0,0
+2024-12-16T19:45:00Z,SA,SS Lazio,FC Internazionale Milano,0,6
+2024-12-20T19:45:00Z,SA,Hellas Verona FC,AC Milan,0,1
+2024-12-21T14:00:00Z,SA,Torino FC,Bologna FC 1909,0,2
+2024-12-21T17:00:00Z,SA,Genoa CFC,SSC Napoli,1,2
+2024-12-21T19:45:00Z,SA,US Lecce,SS Lazio,1,2
+2024-12-22T11:30:00Z,SA,AS Roma,Parma Calcio 1913,5,0
+2024-12-22T14:00:00Z,SA,Venezia FC,Cagliari Calcio,2,1
+2024-12-22T17:00:00Z,SA,Atalanta BC,Empoli FC,3,2
+2024-12-22T19:45:00Z,SA,AC Monza,Juventus FC,1,2
+2024-12-23T17:30:00Z,SA,ACF Fiorentina,Udinese Calcio,1,2
+2024-12-23T19:45:00Z,SA,FC Internazionale Milano,Como 1907,2,0
+2024-12-28T14:00:00Z,SA,Empoli FC,Genoa CFC,1,2
+2024-12-28T14:00:00Z,SA,Parma Calcio 1913,AC Monza,2,1
+2024-12-28T17:00:00Z,SA,Cagliari Calcio,FC Internazionale Milano,0,3
+2024-12-28T19:45:00Z,SA,SS Lazio,Atalanta BC,1,1
+2024-12-29T11:30:00Z,SA,Udinese Calcio,Torino FC,2,2
+2024-12-29T14:00:00Z,SA,SSC Napoli,Venezia FC,1,0
+2024-12-29T17:00:00Z,SA,Juventus FC,ACF Fiorentina,2,2
+2024-12-29T19:45:00Z,SA,AC Milan,AS Roma,1,1
+2024-12-30T17:30:00Z,SA,Como 1907,US Lecce,2,0
+2024-12-30T19:45:00Z,SA,Bologna FC 1909,Hellas Verona FC,2,3
+2025-01-04T14:00:00Z,SA,Venezia FC,Empoli FC,1,1
+2025-01-04T17:00:00Z,SA,ACF Fiorentina,SSC Napoli,0,3
+2025-01-04T19:45:00Z,SA,Hellas Verona FC,Udinese Calcio,0,0
+2025-01-05T11:30:00Z,SA,AC Monza,Cagliari Calcio,1,2
+2025-01-05T14:00:00Z,SA,US Lecce,Genoa CFC,0,0
+2025-01-05T17:00:00Z,SA,Torino FC,Parma Calcio 1913,0,0
+2025-01-05T19:45:00Z,SA,AS Roma,SS Lazio,2,0
+2025-01-10T19:45:00Z,SA,SS Lazio,Como 1907,1,1
+2025-01-11T14:00:00Z,SA,Empoli FC,US Lecce,1,3
+2025-01-11T14:00:00Z,SA,Udinese Calcio,Atalanta BC,0,0
+2025-01-11T17:00:00Z,SA,Torino FC,Juventus FC,1,1
+2025-01-11T19:45:00Z,SA,AC Milan,Cagliari Calcio,1,1
+2025-01-12T11:30:00Z,SA,Genoa CFC,Parma Calcio 1913,1,0
+2025-01-12T14:00:00Z,SA,Venezia FC,FC Internazionale Milano,0,1
+2025-01-12T17:00:00Z,SA,Bologna FC 1909,AS Roma,2,2
+2025-01-12T19:45:00Z,SA,SSC Napoli,Hellas Verona FC,2,0
+2025-01-13T19:45:00Z,SA,AC Monza,ACF Fiorentina,2,1
+2025-01-14T17:30:00Z,SA,Como 1907,AC Milan,1,2
+2025-01-14T19:45:00Z,SA,Atalanta BC,Juventus FC,1,1
+2025-01-15T19:45:00Z,SA,FC Internazionale Milano,Bologna FC 1909,2,2
+2025-01-17T19:45:00Z,SA,AS Roma,Genoa CFC,3,1
+2025-01-18T14:00:00Z,SA,Bologna FC 1909,AC Monza,3,1
+2025-01-18T17:00:00Z,SA,Juventus FC,AC Milan,2,0
+2025-01-18T19:45:00Z,SA,Atalanta BC,SSC Napoli,2,3
+2025-01-19T11:30:00Z,SA,ACF Fiorentina,Torino FC,1,1
+2025-01-19T14:00:00Z,SA,Cagliari Calcio,US Lecce,4,1
+2025-01-19T14:00:00Z,SA,Parma Calcio 1913,Venezia FC,1,1
+2025-01-19T17:00:00Z,SA,Hellas Verona FC,SS Lazio,0,3
+2025-01-19T19:45:00Z,SA,FC Internazionale Milano,Empoli FC,3,1
+2025-01-20T19:45:00Z,SA,Como 1907,Udinese Calcio,4,1
+2025-01-24T19:45:00Z,SA,Torino FC,Cagliari Calcio,2,0
+2025-01-25T14:00:00Z,SA,Como 1907,Atalanta BC,1,2
+2025-01-25T17:00:00Z,SA,SSC Napoli,Juventus FC,2,1
+2025-01-25T19:45:00Z,SA,Empoli FC,Bologna FC 1909,1,1
+2025-01-26T11:30:00Z,SA,AC Milan,Parma Calcio 1913,3,2
+2025-01-26T14:00:00Z,SA,Udinese Calcio,AS Roma,1,2
+2025-01-26T17:00:00Z,SA,US Lecce,FC Internazionale Milano,0,4
+2025-01-26T19:45:00Z,SA,SS Lazio,ACF Fiorentina,1,2
+2025-01-27T17:30:00Z,SA,Venezia FC,Hellas Verona FC,1,1
+2025-01-27T19:45:00Z,SA,Genoa CFC,AC Monza,2,0
+2025-01-31T19:45:00Z,SA,Parma Calcio 1913,US Lecce,1,3
+2025-02-01T14:00:00Z,SA,AC Monza,Hellas Verona FC,0,1
+2025-02-01T14:00:00Z,SA,Udinese Calcio,Venezia FC,3,2
+2025-02-01T17:00:00Z,SA,Atalanta BC,Torino FC,1,1
+2025-02-01T19:45:00Z,SA,Bologna FC 1909,Como 1907,2,0
+2025-02-02T11:30:00Z,SA,Juventus FC,Empoli FC,4,1
+2025-02-02T14:00:00Z,SA,ACF Fiorentina,Genoa CFC,2,1
+2025-02-02T17:00:00Z,SA,AC Milan,FC Internazionale Milano,1,1
+2025-02-02T19:45:00Z,SA,AS Roma,SSC Napoli,1,1
+2025-02-03T19:45:00Z,SA,Cagliari Calcio,SS Lazio,1,2
+2025-02-06T19:45:00Z,SA,ACF Fiorentina,FC Internazionale Milano,3,0
+2025-02-07T19:45:00Z,SA,Como 1907,Juventus FC,1,2
+2025-02-08T14:00:00Z,SA,Hellas Verona FC,Atalanta BC,0,5
+2025-02-08T17:00:00Z,SA,Empoli FC,AC Milan,0,2
+2025-02-08T19:45:00Z,SA,Torino FC,Genoa CFC,1,1
+2025-02-09T11:30:00Z,SA,Venezia FC,AS Roma,0,1
+2025-02-09T14:00:00Z,SA,Cagliari Calcio,Parma Calcio 1913,2,1
+2025-02-09T14:00:00Z,SA,SS Lazio,AC Monza,5,1
+2025-02-09T17:00:00Z,SA,US Lecce,Bologna FC 1909,0,0
+2025-02-09T19:45:00Z,SA,SSC Napoli,Udinese Calcio,1,1
+2025-02-10T19:45:00Z,SA,FC Internazionale Milano,ACF Fiorentina,2,1
+2025-02-14T19:45:00Z,SA,Bologna FC 1909,Torino FC,3,2
+2025-02-15T14:00:00Z,SA,Atalanta BC,Cagliari Calcio,0,0
+2025-02-15T17:00:00Z,SA,SS Lazio,SSC Napoli,2,2
+2025-02-15T19:45:00Z,SA,AC Milan,Hellas Verona FC,1,0
+2025-02-16T11:30:00Z,SA,ACF Fiorentina,Como 1907,0,2
+2025-02-16T14:00:00Z,SA,AC Monza,US Lecce,0,0
+2025-02-16T14:00:00Z,SA,Udinese Calcio,Empoli FC,3,0
+2025-02-16T17:00:00Z,SA,Parma Calcio 1913,AS Roma,0,1
+2025-02-16T19:45:00Z,SA,Juventus FC,FC Internazionale Milano,1,0
+2025-02-17T19:45:00Z,SA,Genoa CFC,Venezia FC,2,0
+2025-02-21T19:45:00Z,SA,US Lecce,Udinese Calcio,0,1
+2025-02-22T14:00:00Z,SA,Parma Calcio 1913,Bologna FC 1909,2,0
+2025-02-22T14:00:00Z,SA,Venezia FC,SS Lazio,0,0
+2025-02-22T17:00:00Z,SA,Torino FC,AC Milan,2,1
+2025-02-22T19:45:00Z,SA,FC Internazionale Milano,Genoa CFC,1,0
+2025-02-23T11:30:00Z,SA,Como 1907,SSC Napoli,2,1
+2025-02-23T14:00:00Z,SA,Hellas Verona FC,ACF Fiorentina,1,0
+2025-02-23T17:00:00Z,SA,Empoli FC,Atalanta BC,0,5
+2025-02-23T19:45:00Z,SA,Cagliari Calcio,Juventus FC,0,1
+2025-02-24T19:45:00Z,SA,AS Roma,AC Monza,4,0
+2025-02-27T19:45:00Z,SA,Bologna FC 1909,AC Milan,2,1
+2025-02-28T19:45:00Z,SA,ACF Fiorentina,US Lecce,1,0
+2025-03-01T14:00:00Z,SA,Atalanta BC,Venezia FC,0,0
+2025-03-01T17:00:00Z,SA,SSC Napoli,FC Internazionale Milano,1,1
+2025-03-01T19:45:00Z,SA,Udinese Calcio,Parma Calcio 1913,1,0
+2025-03-02T11:30:00Z,SA,AC Monza,Torino FC,0,2
+2025-03-02T14:00:00Z,SA,Bologna FC 1909,Cagliari Calcio,2,1
+2025-03-02T14:00:00Z,SA,Genoa CFC,Empoli FC,1,1
+2025-03-02T17:00:00Z,SA,AS Roma,Como 1907,2,1
+2025-03-02T19:45:00Z,SA,AC Milan,SS Lazio,1,2
+2025-03-03T19:45:00Z,SA,Juventus FC,Hellas Verona FC,2,0
+2025-03-07T19:45:00Z,SA,Cagliari Calcio,Genoa CFC,1,1
+2025-03-08T14:00:00Z,SA,Como 1907,Venezia FC,1,1
+2025-03-08T14:00:00Z,SA,Parma Calcio 1913,Torino FC,2,2
+2025-03-08T17:00:00Z,SA,US Lecce,AC Milan,2,3
+2025-03-08T19:45:00Z,SA,FC Internazionale Milano,AC Monza,3,2
+2025-03-09T11:30:00Z,SA,Hellas Verona FC,Bologna FC 1909,1,2
+2025-03-09T14:00:00Z,SA,SSC Napoli,ACF Fiorentina,2,1
+2025-03-09T17:00:00Z,SA,Empoli FC,AS Roma,0,1
+2025-03-09T19:45:00Z,SA,Juventus FC,Atalanta BC,0,4
+2025-03-10T19:45:00Z,SA,SS Lazio,Udinese Calcio,1,1
+2025-03-14T19:45:00Z,SA,Genoa CFC,US Lecce,2,1
+2025-03-15T14:00:00Z,SA,AC Monza,Parma Calcio 1913,1,1
+2025-03-15T14:00:00Z,SA,Udinese Calcio,Hellas Verona FC,0,1
+2025-03-15T17:00:00Z,SA,AC Milan,Como 1907,2,1
+2025-03-15T19:45:00Z,SA,Torino FC,Empoli FC,1,0
+2025-03-16T11:30:00Z,SA,Venezia FC,SSC Napoli,0,0
+2025-03-16T14:00:00Z,SA,Bologna FC 1909,SS Lazio,5,0
+2025-03-16T15:00:00Z,SA,AS Roma,Cagliari Calcio,1,0
+2025-03-16T17:00:00Z,SA,ACF Fiorentina,Juventus FC,3,0
+2025-03-16T19:45:00Z,SA,Atalanta BC,FC Internazionale Milano,0,2
+2025-03-29T14:00:00Z,SA,Como 1907,Empoli FC,1,1
+2025-03-29T14:00:00Z,SA,Venezia FC,Bologna FC 1909,0,1
+2025-03-29T17:00:00Z,SA,Juventus FC,Genoa CFC,1,0
+2025-03-29T19:45:00Z,SA,US Lecce,AS Roma,0,1
+2025-03-30T10:30:00Z,SA,Cagliari Calcio,AC Monza,3,0
+2025-03-30T13:00:00Z,SA,ACF Fiorentina,Atalanta BC,1,0
+2025-03-30T16:00:00Z,SA,FC Internazionale Milano,Udinese Calcio,2,1
+2025-03-30T18:45:00Z,SA,SSC Napoli,AC Milan,2,1
+2025-03-31T16:30:00Z,SA,Hellas Verona FC,Parma Calcio 1913,0,0
+2025-03-31T18:45:00Z,SA,SS Lazio,Torino FC,1,1
+2025-04-04T18:45:00Z,SA,Genoa CFC,Udinese Calcio,1,0
+2025-04-05T13:00:00Z,SA,AC Monza,Como 1907,1,3
+2025-04-05T16:00:00Z,SA,Parma Calcio 1913,FC Internazionale Milano,2,2
+2025-04-05T18:45:00Z,SA,AC Milan,ACF Fiorentina,2,2
+2025-04-06T10:30:00Z,SA,US Lecce,Venezia FC,1,1
+2025-04-06T13:00:00Z,SA,Empoli FC,Cagliari Calcio,0,0
+2025-04-06T13:00:00Z,SA,Torino FC,Hellas Verona FC,1,1
+2025-04-06T16:00:00Z,SA,Atalanta BC,SS Lazio,0,1
+2025-04-06T18:45:00Z,SA,AS Roma,Juventus FC,1,1
+2025-04-07T18:45:00Z,SA,Bologna FC 1909,SSC Napoli,1,1
+2025-04-11T18:45:00Z,SA,Udinese Calcio,AC Milan,0,4
+2025-04-12T13:00:00Z,SA,Venezia FC,AC Monza,1,0
+2025-04-12T16:00:00Z,SA,FC Internazionale Milano,Cagliari Calcio,3,1
+2025-04-12T18:45:00Z,SA,Juventus FC,US Lecce,2,1
+2025-04-13T10:30:00Z,SA,Atalanta BC,Bologna FC 1909,2,0
+2025-04-13T13:00:00Z,SA,ACF Fiorentina,Parma Calcio 1913,0,0
+2025-04-13T13:00:00Z,SA,Hellas Verona FC,Genoa CFC,0,0
+2025-04-13T16:00:00Z,SA,Como 1907,Torino FC,1,0
+2025-04-13T18:45:00Z,SA,SS Lazio,AS Roma,1,1
+2025-04-14T18:45:00Z,SA,SSC Napoli,Empoli FC,3,0
+2025-04-19T13:00:00Z,SA,US Lecce,Como 1907,0,3
+2025-04-19T16:00:00Z,SA,AC Monza,SSC Napoli,0,1
+2025-04-19T18:45:00Z,SA,AS Roma,Hellas Verona FC,1,0
+2025-04-20T13:00:00Z,SA,Empoli FC,Venezia FC,2,2
+2025-04-20T16:00:00Z,SA,Bologna FC 1909,FC Internazionale Milano,1,0
+2025-04-20T18:45:00Z,SA,AC Milan,Atalanta BC,0,1
+2025-04-23T16:30:00Z,SA,Cagliari Calcio,ACF Fiorentina,1,2
+2025-04-23T16:30:00Z,SA,Genoa CFC,SS Lazio,0,2
+2025-04-23T16:30:00Z,SA,Parma Calcio 1913,Juventus FC,1,0
+2025-04-23T16:30:00Z,SA,Torino FC,Udinese Calcio,2,0
+2025-04-27T10:30:00Z,SA,Como 1907,Genoa CFC,1,0
+2025-04-27T10:30:00Z,SA,Venezia FC,AC Milan,0,2
+2025-04-27T13:00:00Z,SA,ACF Fiorentina,Empoli FC,2,1
+2025-04-27T13:00:00Z,SA,FC Internazionale Milano,AS Roma,0,1
+2025-04-27T16:00:00Z,SA,Juventus FC,AC Monza,2,0
+2025-04-27T18:45:00Z,SA,Atalanta BC,US Lecce,1,1
+2025-04-27T18:45:00Z,SA,SSC Napoli,Torino FC,2,0
+2025-04-28T16:30:00Z,SA,Udinese Calcio,Bologna FC 1909,0,0
+2025-04-28T18:45:00Z,SA,Hellas Verona FC,Cagliari Calcio,0,2
+2025-04-28T18:45:00Z,SA,SS Lazio,Parma Calcio 1913,2,2
+2025-05-02T18:45:00Z,SA,Torino FC,Venezia FC,1,1
+2025-05-03T13:00:00Z,SA,Cagliari Calcio,Udinese Calcio,1,2
+2025-05-03T13:00:00Z,SA,Parma Calcio 1913,Como 1907,0,1
+2025-05-03T16:00:00Z,SA,US Lecce,SSC Napoli,0,1
+2025-05-03T18:45:00Z,SA,FC Internazionale Milano,Hellas Verona FC,1,0
+2025-05-04T10:30:00Z,SA,Empoli FC,SS Lazio,0,1
+2025-05-04T13:00:00Z,SA,AC Monza,Atalanta BC,0,4
+2025-05-04T16:00:00Z,SA,AS Roma,ACF Fiorentina,1,0
+2025-05-04T18:45:00Z,SA,Bologna FC 1909,Juventus FC,1,1
+2025-05-05T18:45:00Z,SA,Genoa CFC,AC Milan,1,2
+2025-05-09T18:45:00Z,SA,AC Milan,Bologna FC 1909,3,1
+2025-05-10T13:00:00Z,SA,Como 1907,Cagliari Calcio,3,1
+2025-05-10T16:00:00Z,SA,SS Lazio,Juventus FC,1,1
+2025-05-10T18:45:00Z,SA,Empoli FC,Parma Calcio 1913,2,1
+2025-05-11T10:30:00Z,SA,Udinese Calcio,AC Monza,1,2
+2025-05-11T13:00:00Z,SA,Hellas Verona FC,US Lecce,1,1
+2025-05-11T16:00:00Z,SA,Torino FC,FC Internazionale Milano,0,2
+2025-05-11T18:45:00Z,SA,SSC Napoli,Genoa CFC,2,2
+2025-05-12T16:30:00Z,SA,Venezia FC,ACF Fiorentina,2,1
+2025-05-12T18:45:00Z,SA,Atalanta BC,AS Roma,2,1
+2025-05-17T18:45:00Z,SA,Genoa CFC,Atalanta BC,2,3
+2025-05-18T18:45:00Z,SA,Cagliari Calcio,Venezia FC,3,0
+2025-05-18T18:45:00Z,SA,ACF Fiorentina,Bologna FC 1909,3,2
+2025-05-18T18:45:00Z,SA,Hellas Verona FC,Como 1907,1,1
+2025-05-18T18:45:00Z,SA,FC Internazionale Milano,SS Lazio,2,2
+2025-05-18T18:45:00Z,SA,Juventus FC,Udinese Calcio,2,0
+2025-05-18T18:45:00Z,SA,US Lecce,Torino FC,1,0
+2025-05-18T18:45:00Z,SA,AC Monza,Empoli FC,1,3
+2025-05-18T18:45:00Z,SA,Parma Calcio 1913,SSC Napoli,0,0
+2025-05-18T18:45:00Z,SA,AS Roma,AC Milan,3,1
+2024-08-09T18:00:00Z,DED,FC Groningen,NAC Breda,4,1
+2024-08-10T14:30:00Z,DED,Feyenoord Rotterdam,Willem II Tilburg,1,1
+2024-08-10T16:45:00Z,DED,NEC,FC Twente '65,1,2
+2024-08-10T18:00:00Z,DED,Almere City FC,AZ,0,1
+2024-08-10T19:00:00Z,DED,PSV,RKC Waalwijk,5,1
+2024-08-11T10:15:00Z,DED,Sparta Rotterdam,Heracles Almelo,0,0
+2024-08-11T12:30:00Z,DED,FC Utrecht,PEC Zwolle,1,0
+2024-08-11T12:30:00Z,DED,Go Ahead Eagles,Fortuna Sittard,0,2
+2024-08-11T14:45:00Z,DED,AFC Ajax,SC Heerenveen,1,0
+2024-08-16T18:00:00Z,DED,Fortuna Sittard,Almere City FC,3,0
+2024-08-17T14:30:00Z,DED,SC Heerenveen,FC Utrecht,1,1
+2024-08-17T16:45:00Z,DED,FC Twente '65,Sparta Rotterdam,1,1
+2024-08-17T18:00:00Z,DED,AZ,NEC,1,0
+2024-08-17T19:00:00Z,DED,RKC Waalwijk,FC Groningen,1,2
+2024-08-18T10:15:00Z,DED,Heracles Almelo,PSV,1,3
+2024-08-18T12:30:00Z,DED,PEC Zwolle,Feyenoord Rotterdam,1,5
+2024-08-18T12:30:00Z,DED,Willem II Tilburg,Go Ahead Eagles,2,0
+2024-08-18T14:45:00Z,DED,NAC Breda,AFC Ajax,2,1
+2024-08-24T16:45:00Z,DED,NEC,PEC Zwolle,1,0
+2024-08-24T18:00:00Z,DED,Almere City FC,PSV,1,7
+2024-08-24T19:00:00Z,DED,NAC Breda,FC Utrecht,1,2
+2024-08-25T10:15:00Z,DED,FC Groningen,AZ,0,0
+2024-08-25T12:30:00Z,DED,Heracles Almelo,Willem II Tilburg,1,1
+2024-08-25T12:30:00Z,DED,Sparta Rotterdam,Feyenoord Rotterdam,1,1
+2024-08-25T14:45:00Z,DED,Go Ahead Eagles,RKC Waalwijk,2,0
+2024-08-30T18:00:00Z,DED,RKC Waalwijk,AZ,0,3
+2024-08-31T14:30:00Z,DED,Almere City FC,FC Groningen,1,1
+2024-08-31T16:45:00Z,DED,Fortuna Sittard,NEC,0,3
+2024-08-31T18:00:00Z,DED,SC Heerenveen,NAC Breda,4,0
+2024-08-31T19:00:00Z,DED,Willem II Tilburg,Sparta Rotterdam,1,2
+2024-09-01T10:15:00Z,DED,FC Utrecht,FC Twente '65,2,1
+2024-09-01T12:30:00Z,DED,PEC Zwolle,Heracles Almelo,3,0
+2024-09-01T14:45:00Z,DED,PSV,Go Ahead Eagles,3,0
+2024-09-14T14:30:00Z,DED,FC Twente '65,PEC Zwolle,1,1
+2024-09-14T14:30:00Z,DED,PSV,NEC,2,0
+2024-09-14T16:45:00Z,DED,FC Groningen,Feyenoord Rotterdam,2,2
+2024-09-14T18:00:00Z,DED,NAC Breda,Fortuna Sittard,1,0
+2024-09-14T19:00:00Z,DED,AZ,SC Heerenveen,9,1
+2024-09-15T10:15:00Z,DED,Sparta Rotterdam,Go Ahead Eagles,1,2
+2024-09-15T12:30:00Z,DED,Willem II Tilburg,RKC Waalwijk,3,0
+2024-09-15T14:45:00Z,DED,Heracles Almelo,Almere City FC,0,0
+2024-09-17T18:00:00Z,DED,FC Twente '65,SC Heerenveen,2,0
+2024-09-18T18:00:00Z,DED,AFC Ajax,Fortuna Sittard,5,0
+2024-09-20T18:00:00Z,DED,PEC Zwolle,AZ,1,2
+2024-09-21T14:30:00Z,DED,FC Utrecht,Willem II Tilburg,3,2
+2024-09-21T16:45:00Z,DED,RKC Waalwijk,Sparta Rotterdam,1,2
+2024-09-21T18:00:00Z,DED,Go Ahead Eagles,AFC Ajax,1,1
+2024-09-21T19:00:00Z,DED,NEC,Heracles Almelo,1,2
+2024-09-22T10:15:00Z,DED,SC Heerenveen,FC Groningen,2,1
+2024-09-22T12:30:00Z,DED,Almere City FC,FC Twente '65,0,5
+2024-09-22T12:30:00Z,DED,Feyenoord Rotterdam,NAC Breda,2,0
+2024-09-22T14:45:00Z,DED,Fortuna Sittard,PSV,1,3
+2024-09-27T18:00:00Z,DED,Heracles Almelo,SC Heerenveen,2,1
+2024-09-28T14:30:00Z,DED,Willem II Tilburg,PSV,0,2
+2024-09-28T16:45:00Z,DED,NEC,Feyenoord Rotterdam,1,1
+2024-09-28T19:00:00Z,DED,Sparta Rotterdam,Fortuna Sittard,1,1
+2024-09-29T10:15:00Z,DED,PEC Zwolle,Almere City FC,1,0
+2024-09-29T12:30:00Z,DED,FC Twente '65,NAC Breda,1,0
+2024-09-29T12:30:00Z,DED,FC Groningen,Go Ahead Eagles,0,1
+2024-09-29T14:45:00Z,DED,RKC Waalwijk,AFC Ajax,0,2
+2024-09-29T18:00:00Z,DED,AZ,FC Utrecht,1,2
+2024-10-04T18:00:00Z,DED,Almere City FC,Willem II Tilburg,0,1
+2024-10-05T16:45:00Z,DED,NAC Breda,NEC,1,0
+2024-10-05T18:00:00Z,DED,PSV,Sparta Rotterdam,2,1
+2024-10-05T19:00:00Z,DED,FC Utrecht,RKC Waalwijk,3,2
+2024-10-06T10:15:00Z,DED,Go Ahead Eagles,Heracles Almelo,4,1
+2024-10-06T12:30:00Z,DED,SC Heerenveen,PEC Zwolle,1,1
+2024-10-06T12:30:00Z,DED,Feyenoord Rotterdam,FC Twente '65,2,1
+2024-10-06T14:45:00Z,DED,AFC Ajax,FC Groningen,3,1
+2024-10-06T18:00:00Z,DED,Fortuna Sittard,AZ,1,0
+2024-10-19T14:30:00Z,DED,Sparta Rotterdam,Almere City FC,2,2
+2024-10-19T16:45:00Z,DED,AZ,PSV,1,2
+2024-10-19T18:00:00Z,DED,NEC,SC Heerenveen,3,0
+2024-10-19T18:00:00Z,DED,RKC Waalwijk,FC Twente '65,2,2
+2024-10-19T19:00:00Z,DED,Go Ahead Eagles,Feyenoord Rotterdam,1,5
+2024-10-20T10:15:00Z,DED,Willem II Tilburg,Fortuna Sittard,0,0
+2024-10-20T12:30:00Z,DED,FC Groningen,FC Utrecht,0,1
+2024-10-20T12:30:00Z,DED,Heracles Almelo,AFC Ajax,3,4
+2024-10-20T14:45:00Z,DED,PEC Zwolle,NAC Breda,1,2
+2024-10-25T18:00:00Z,DED,Almere City FC,NEC,1,0
+2024-10-26T14:30:00Z,DED,Fortuna Sittard,FC Groningen,1,0
+2024-10-26T16:45:00Z,DED,PSV,PEC Zwolle,6,0
+2024-10-26T18:00:00Z,DED,NAC Breda,RKC Waalwijk,4,1
+2024-10-26T19:00:00Z,DED,SC Heerenveen,Sparta Rotterdam,2,0
+2024-10-27T11:15:00Z,DED,FC Utrecht,Feyenoord Rotterdam,0,2
+2024-10-27T13:30:00Z,DED,FC Twente '65,Heracles Almelo,5,0
+2024-10-27T15:45:00Z,DED,AFC Ajax,Willem II Tilburg,1,0
+2024-10-27T19:00:00Z,DED,AZ,Go Ahead Eagles,2,2
+2024-10-30T17:00:00Z,DED,Feyenoord Rotterdam,AFC Ajax,0,2
+2024-11-02T15:30:00Z,DED,Willem II Tilburg,FC Twente '65,0,1
+2024-11-02T17:45:00Z,DED,Heracles Almelo,NAC Breda,2,0
+2024-11-02T17:45:00Z,DED,AFC Ajax,PSV,3,2
+2024-11-02T20:00:00Z,DED,Feyenoord Rotterdam,AZ,3,2
+2024-11-02T20:00:00Z,DED,Fortuna Sittard,SC Heerenveen,3,0
+2024-11-03T11:15:00Z,DED,Go Ahead Eagles,PEC Zwolle,2,2
+2024-11-03T13:30:00Z,DED,NEC,FC Groningen,6,0
+2024-11-03T13:30:00Z,DED,Sparta Rotterdam,FC Utrecht,1,4
+2024-11-03T15:45:00Z,DED,RKC Waalwijk,Almere City FC,2,0
+2024-11-08T19:00:00Z,DED,FC Utrecht,Heracles Almelo,1,0
+2024-11-09T15:30:00Z,DED,FC Groningen,Sparta Rotterdam,1,0
+2024-11-09T17:45:00Z,DED,PEC Zwolle,Fortuna Sittard,3,1
+2024-11-09T19:00:00Z,DED,NAC Breda,PSV,0,3
+2024-11-09T20:00:00Z,DED,RKC Waalwijk,NEC,0,3
+2024-11-10T11:15:00Z,DED,Almere City FC,Feyenoord Rotterdam,1,4
+2024-11-10T13:30:00Z,DED,SC Heerenveen,Go Ahead Eagles,1,0
+2024-11-10T13:30:00Z,DED,FC Twente '65,AFC Ajax,2,2
+2024-11-10T15:45:00Z,DED,AZ,Willem II Tilburg,1,2
+2024-11-23T15:30:00Z,DED,Go Ahead Eagles,Almere City FC,3,0
+2024-11-23T17:45:00Z,DED,Feyenoord Rotterdam,SC Heerenveen,3,0
+2024-11-23T17:45:00Z,DED,Heracles Almelo,RKC Waalwijk,2,2
+2024-11-23T20:00:00Z,DED,PSV,FC Groningen,5,0
+2024-11-23T20:00:00Z,DED,Fortuna Sittard,FC Twente '65,1,2
+2024-11-24T11:15:00Z,DED,NEC,FC Utrecht,1,2
+2024-11-24T13:30:00Z,DED,Sparta Rotterdam,AZ,1,2
+2024-11-24T13:30:00Z,DED,Willem II Tilburg,NAC Breda,2,2
+2024-11-24T15:45:00Z,DED,AFC Ajax,PEC Zwolle,2,0
+2024-11-29T19:00:00Z,DED,SC Heerenveen,RKC Waalwijk,1,1
+2024-11-30T15:30:00Z,DED,NAC Breda,Almere City FC,1,0
+2024-11-30T17:45:00Z,DED,FC Groningen,Willem II Tilburg,2,0
+2024-11-30T19:00:00Z,DED,Feyenoord Rotterdam,Fortuna Sittard,1,1
+2024-11-30T20:00:00Z,DED,PEC Zwolle,Sparta Rotterdam,1,0
+2024-12-01T11:15:00Z,DED,FC Utrecht,PSV,2,5
+2024-12-01T13:30:00Z,DED,AZ,Heracles Almelo,1,0
+2024-12-01T13:30:00Z,DED,FC Twente '65,Go Ahead Eagles,3,2
+2024-12-01T15:45:00Z,DED,NEC,AFC Ajax,1,2
+2024-12-04T19:00:00Z,DED,AFC Ajax,FC Utrecht,2,2
+2024-12-06T19:00:00Z,DED,PSV,FC Twente '65,6,1
+2024-12-07T15:30:00Z,DED,Go Ahead Eagles,NEC,5,0
+2024-12-07T17:45:00Z,DED,Sparta Rotterdam,NAC Breda,0,2
+2024-12-07T19:00:00Z,DED,RKC Waalwijk,Feyenoord Rotterdam,2,3
+2024-12-07T20:00:00Z,DED,Heracles Almelo,Fortuna Sittard,2,2
+2024-12-08T11:15:00Z,DED,FC Groningen,PEC Zwolle,0,0
+2024-12-08T13:30:00Z,DED,AZ,AFC Ajax,2,1
+2024-12-08T13:30:00Z,DED,Willem II Tilburg,SC Heerenveen,1,2
+2024-12-08T15:45:00Z,DED,Almere City FC,FC Utrecht,1,3
+2024-12-13T19:00:00Z,DED,PEC Zwolle,Willem II Tilburg,0,1
+2024-12-14T17:45:00Z,DED,SC Heerenveen,PSV,1,0
+2024-12-14T19:00:00Z,DED,Fortuna Sittard,RKC Waalwijk,3,2
+2024-12-14T20:00:00Z,DED,Feyenoord Rotterdam,Heracles Almelo,5,2
+2024-12-15T11:15:00Z,DED,FC Utrecht,Go Ahead Eagles,3,3
+2024-12-15T13:30:00Z,DED,NEC,Sparta Rotterdam,1,1
+2024-12-15T13:30:00Z,DED,FC Twente '65,FC Groningen,2,0
+2024-12-15T15:45:00Z,DED,AFC Ajax,Almere City FC,3,0
+2024-12-15T19:00:00Z,DED,NAC Breda,AZ,1,2
+2024-12-20T19:00:00Z,DED,RKC Waalwijk,PEC Zwolle,1,1
+2024-12-21T15:30:00Z,DED,Go Ahead Eagles,NAC Breda,2,1
+2024-12-21T17:45:00Z,DED,Almere City FC,SC Heerenveen,3,0
+2024-12-21T19:00:00Z,DED,AZ,FC Twente '65,1,0
+2024-12-22T11:15:00Z,DED,Sparta Rotterdam,AFC Ajax,0,2
+2024-12-22T13:30:00Z,DED,FC Utrecht,Fortuna Sittard,2,5
+2024-12-22T13:30:00Z,DED,PSV,Feyenoord Rotterdam,3,0
+2024-12-22T15:45:00Z,DED,Willem II Tilburg,NEC,4,1
+2025-01-10T19:00:00Z,DED,Fortuna Sittard,Go Ahead Eagles,0,3
+2025-01-11T15:30:00Z,DED,Heracles Almelo,Sparta Rotterdam,1,1
+2025-01-11T17:45:00Z,DED,AFC Ajax,RKC Waalwijk,2,1
+2025-01-11T19:00:00Z,DED,PEC Zwolle,NEC,0,1
+2025-01-11T20:00:00Z,DED,PSV,AZ,2,2
+2025-01-12T11:15:00Z,DED,FC Twente '65,Willem II Tilburg,6,2
+2025-01-12T13:30:00Z,DED,FC Groningen,Almere City FC,0,0
+2025-01-12T13:30:00Z,DED,Feyenoord Rotterdam,FC Utrecht,1,2
+2025-01-12T15:45:00Z,DED,NAC Breda,SC Heerenveen,2,4
+2025-01-18T15:30:00Z,DED,PEC Zwolle,PSV,3,1
+2025-01-18T17:45:00Z,DED,FC Utrecht,AZ,0,0
+2025-01-18T19:00:00Z,DED,Willem II Tilburg,Feyenoord Rotterdam,1,1
+2025-01-18T20:00:00Z,DED,Go Ahead Eagles,FC Groningen,2,1
+2025-01-19T11:15:00Z,DED,NAC Breda,FC Twente '65,2,1
+2025-01-19T13:30:00Z,DED,Almere City FC,Heracles Almelo,0,2
+2025-01-19T13:30:00Z,DED,SC Heerenveen,AFC Ajax,0,2
+2025-01-19T15:45:00Z,DED,NEC,Fortuna Sittard,4,1
+2025-01-19T19:00:00Z,DED,Sparta Rotterdam,RKC Waalwijk,1,1
+2025-01-24T19:00:00Z,DED,Heracles Almelo,FC Utrecht,1,1
+2025-01-25T17:45:00Z,DED,PSV,NAC Breda,3,2
+2025-01-25T20:15:00Z,DED,FC Groningen,SC Heerenveen,1,0
+2025-01-26T11:15:00Z,DED,Fortuna Sittard,PEC Zwolle,1,4
+2025-01-26T13:30:00Z,DED,RKC Waalwijk,Willem II Tilburg,2,0
+2025-01-26T15:45:00Z,DED,AZ,Sparta Rotterdam,1,2
+2025-01-28T19:00:00Z,DED,Heracles Almelo,FC Groningen,1,1
+2025-01-31T19:00:00Z,DED,NAC Breda,Heracles Almelo,1,1
+2025-02-01T17:45:00Z,DED,PEC Zwolle,FC Utrecht,3,3
+2025-02-01T19:00:00Z,DED,SC Heerenveen,Fortuna Sittard,2,2
+2025-02-01T20:00:00Z,DED,NEC,PSV,3,3
+2025-02-02T11:15:00Z,DED,Almere City FC,RKC Waalwijk,1,4
+2025-02-02T13:30:00Z,DED,AFC Ajax,Feyenoord Rotterdam,2,1
+2025-02-02T13:30:00Z,DED,Go Ahead Eagles,FC Twente '65,2,2
+2025-02-02T15:45:00Z,DED,Sparta Rotterdam,FC Groningen,1,0
+2025-02-02T19:00:00Z,DED,Willem II Tilburg,AZ,0,2
+2025-02-08T15:30:00Z,DED,Heracles Almelo,Go Ahead Eagles,4,2
+2025-02-08T17:45:00Z,DED,PSV,Willem II Tilburg,1,1
+2025-02-08T19:00:00Z,DED,FC Groningen,NEC,2,1
+2025-02-08T20:00:00Z,DED,Feyenoord Rotterdam,Sparta Rotterdam,3,0
+2025-02-09T11:15:00Z,DED,FC Utrecht,Almere City FC,0,1
+2025-02-09T13:30:00Z,DED,Fortuna Sittard,AFC Ajax,0,2
+2025-02-09T13:30:00Z,DED,RKC Waalwijk,NAC Breda,5,0
+2025-02-09T15:45:00Z,DED,AZ,PEC Zwolle,2,0
+2025-02-09T15:45:00Z,DED,SC Heerenveen,FC Twente '65,3,3
+2025-02-14T19:00:00Z,DED,Go Ahead Eagles,Sparta Rotterdam,1,0
+2025-02-15T15:30:00Z,DED,PSV,FC Utrecht,2,2
+2025-02-15T17:45:00Z,DED,NAC Breda,Feyenoord Rotterdam,0,0
+2025-02-15T20:00:00Z,DED,Willem II Tilburg,FC Groningen,1,3
+2025-02-16T11:15:00Z,DED,NEC,Almere City FC,2,2
+2025-02-16T13:30:00Z,DED,PEC Zwolle,SC Heerenveen,1,1
+2025-02-16T13:30:00Z,DED,FC Twente '65,RKC Waalwijk,2,0
+2025-02-16T15:45:00Z,DED,AFC Ajax,Heracles Almelo,4,0
+2025-02-22T19:00:00Z,DED,Feyenoord Rotterdam,Almere City FC,2,1
+2025-02-23T13:30:00Z,DED,AFC Ajax,Go Ahead Eagles,2,0
+2025-02-23T13:30:00Z,DED,FC Twente '65,NEC,2,0
+2025-02-23T15:45:00Z,DED,AZ,Fortuna Sittard,1,0
+2025-02-28T19:00:00Z,DED,RKC Waalwijk,Fortuna Sittard,1,2
+2025-03-01T15:30:00Z,DED,FC Utrecht,NAC Breda,1,0
+2025-03-01T17:45:00Z,DED,Go Ahead Eagles,PSV,3,2
+2025-03-01T19:00:00Z,DED,FC Groningen,FC Twente '65,1,1
+2025-03-01T20:00:00Z,DED,Feyenoord Rotterdam,NEC,0,0
+2025-03-02T11:15:00Z,DED,SC Heerenveen,AZ,3,1
+2025-03-02T13:30:00Z,DED,Almere City FC,AFC Ajax,0,1
+2025-03-02T13:30:00Z,DED,Heracles Almelo,PEC Zwolle,4,2
+2025-03-02T15:45:00Z,DED,Sparta Rotterdam,Willem II Tilburg,4,0
+2025-03-07T19:00:00Z,DED,NAC Breda,Sparta Rotterdam,1,1
+2025-03-08T15:30:00Z,DED,Fortuna Sittard,Heracles Almelo,1,0
+2025-03-08T19:00:00Z,DED,PSV,SC Heerenveen,2,1
+2025-03-09T11:15:00Z,DED,Willem II Tilburg,FC Utrecht,2,3
+2025-03-09T13:30:00Z,DED,NEC,Go Ahead Eagles,2,3
+2025-03-09T13:30:00Z,DED,PEC Zwolle,AFC Ajax,0,1
+2025-03-09T15:45:00Z,DED,FC Twente '65,Almere City FC,1,0
+2025-03-14T19:00:00Z,DED,Almere City FC,NAC Breda,1,1
+2025-03-15T15:30:00Z,DED,FC Utrecht,NEC,0,1
+2025-03-15T17:45:00Z,DED,Sparta Rotterdam,PEC Zwolle,1,1
+2025-03-15T19:00:00Z,DED,RKC Waalwijk,PSV,0,3
+2025-03-15T20:00:00Z,DED,SC Heerenveen,Heracles Almelo,1,1
+2025-03-16T11:15:00Z,DED,Go Ahead Eagles,Willem II Tilburg,1,0
+2025-03-16T13:30:00Z,DED,FC Groningen,Fortuna Sittard,1,0
+2025-03-16T13:30:00Z,DED,FC Twente '65,Feyenoord Rotterdam,2,6
+2025-03-16T15:45:00Z,DED,AFC Ajax,AZ,2,2
+2025-03-29T15:30:00Z,DED,NAC Breda,FC Groningen,1,1
+2025-03-29T17:45:00Z,DED,Fortuna Sittard,Sparta Rotterdam,0,3
+2025-03-29T17:45:00Z,DED,Willem II Tilburg,Almere City FC,0,2
+2025-03-29T20:00:00Z,DED,NEC,AZ,3,3
+2025-03-29T20:00:00Z,DED,PEC Zwolle,RKC Waalwijk,2,0
+2025-03-30T10:15:00Z,DED,FC Utrecht,SC Heerenveen,2,0
+2025-03-30T12:30:00Z,DED,Heracles Almelo,FC Twente '65,2,1
+2025-03-30T12:30:00Z,DED,PSV,AFC Ajax,0,2
+2025-03-30T14:45:00Z,DED,Feyenoord Rotterdam,Go Ahead Eagles,3,2
+2025-04-01T18:00:00Z,DED,AZ,RKC Waalwijk,2,2
+2025-04-02T18:00:00Z,DED,Feyenoord Rotterdam,FC Groningen,4,1
+2025-04-04T18:00:00Z,DED,SC Heerenveen,Willem II Tilburg,3,1
+2025-04-05T14:30:00Z,DED,AZ,Feyenoord Rotterdam,0,1
+2025-04-05T16:45:00Z,DED,FC Twente '65,Fortuna Sittard,1,1
+2025-04-05T18:00:00Z,DED,FC Groningen,PSV,1,3
+2025-04-05T19:00:00Z,DED,Almere City FC,PEC Zwolle,2,2
+2025-04-06T10:15:00Z,DED,RKC Waalwijk,Heracles Almelo,0,0
+2025-04-06T12:30:00Z,DED,Go Ahead Eagles,FC Utrecht,2,2
+2025-04-06T12:30:00Z,DED,Sparta Rotterdam,NEC,2,0
+2025-04-06T14:45:00Z,DED,AFC Ajax,NAC Breda,3,1
+2025-04-11T18:00:00Z,DED,NEC,RKC Waalwijk,2,1
+2025-04-12T14:30:00Z,DED,Fortuna Sittard,Feyenoord Rotterdam,0,2
+2025-04-12T16:45:00Z,DED,Sparta Rotterdam,SC Heerenveen,3,1
+2025-04-12T18:00:00Z,DED,PSV,Almere City FC,5,0
+2025-04-12T19:00:00Z,DED,NAC Breda,Go Ahead Eagles,1,1
+2025-04-13T10:15:00Z,DED,FC Utrecht,FC Groningen,3,1
+2025-04-13T12:30:00Z,DED,Heracles Almelo,AZ,1,0
+2025-04-13T12:30:00Z,DED,PEC Zwolle,FC Twente '65,1,1
+2025-04-13T14:45:00Z,DED,Willem II Tilburg,AFC Ajax,1,2
+2025-04-19T18:00:00Z,DED,SC Heerenveen,Almere City FC,2,1
+2025-04-20T10:15:00Z,DED,FC Utrecht,AFC Ajax,4,0
+2025-04-23T18:00:00Z,DED,FC Groningen,Heracles Almelo,4,1
+2025-04-24T16:45:00Z,DED,AZ,NAC Breda,1,1
+2025-04-24T19:00:00Z,DED,FC Twente '65,PSV,1,3
+2025-04-25T16:45:00Z,DED,RKC Waalwijk,FC Utrecht,0,4
+2025-04-25T19:00:00Z,DED,Feyenoord Rotterdam,PEC Zwolle,4,0
+2025-04-27T10:15:00Z,DED,Fortuna Sittard,Willem II Tilburg,1,0
+2025-04-27T12:30:00Z,DED,AFC Ajax,Sparta Rotterdam,1,1
+2025-04-27T12:30:00Z,DED,SC Heerenveen,NEC,1,0
+2025-04-27T14:45:00Z,DED,Almere City FC,Go Ahead Eagles,0,0
+2025-05-03T14:30:00Z,DED,NEC,Willem II Tilburg,1,1
+2025-05-03T16:45:00Z,DED,Heracles Almelo,Feyenoord Rotterdam,1,4
+2025-05-03T18:00:00Z,DED,FC Groningen,RKC Waalwijk,6,1
+2025-05-03T19:00:00Z,DED,PSV,Fortuna Sittard,4,1
+2025-05-04T10:15:00Z,DED,NAC Breda,PEC Zwolle,1,3
+2025-05-04T12:30:00Z,DED,Go Ahead Eagles,AZ,0,3
+2025-05-04T12:30:00Z,DED,Sparta Rotterdam,FC Twente '65,0,2
+2025-05-09T18:00:00Z,DED,Willem II Tilburg,Heracles Almelo,1,2
+2025-05-10T14:30:00Z,DED,RKC Waalwijk,SC Heerenveen,3,1
+2025-05-10T16:45:00Z,DED,Fortuna Sittard,NAC Breda,1,0
+2025-05-10T19:00:00Z,DED,Almere City FC,Sparta Rotterdam,0,3
+2025-05-11T10:15:00Z,DED,PEC Zwolle,Go Ahead Eagles,1,1
+2025-05-11T12:30:00Z,DED,Feyenoord Rotterdam,PSV,2,3
+2025-05-11T12:30:00Z,DED,FC Twente '65,FC Utrecht,2,0
+2025-05-11T14:45:00Z,DED,AFC Ajax,NEC,0,3
+2025-05-11T14:45:00Z,DED,AZ,FC Groningen,3,0
+2025-05-14T18:00:00Z,DED,Almere City FC,Fortuna Sittard,1,1
+2025-05-14T18:00:00Z,DED,FC Groningen,AFC Ajax,2,2
+2025-05-14T18:00:00Z,DED,FC Utrecht,Sparta Rotterdam,1,1
+2025-05-14T18:00:00Z,DED,Feyenoord Rotterdam,RKC Waalwijk,2,0
+2025-05-14T18:00:00Z,DED,Go Ahead Eagles,SC Heerenveen,1,0
+2025-05-14T18:00:00Z,DED,NEC,NAC Breda,3,0
+2025-05-14T18:00:00Z,DED,PSV,Heracles Almelo,4,1
+2025-05-14T18:00:00Z,DED,FC Twente '65,AZ,2,3
+2025-05-14T18:00:00Z,DED,Willem II Tilburg,PEC Zwolle,1,2
+2025-05-18T12:30:00Z,DED,AFC Ajax,FC Twente '65,2,0
+2025-05-18T12:30:00Z,DED,AZ,Almere City FC,1,1
+2025-05-18T12:30:00Z,DED,Fortuna Sittard,FC Utrecht,0,0
+2025-05-18T12:30:00Z,DED,Heracles Almelo,NEC,1,2
+2025-05-18T12:30:00Z,DED,NAC Breda,Willem II Tilburg,1,1
+2025-05-18T12:30:00Z,DED,PEC Zwolle,FC Groningen,2,0
+2025-05-18T12:30:00Z,DED,RKC Waalwijk,Go Ahead Eagles,5,3
+2025-05-18T12:30:00Z,DED,SC Heerenveen,Feyenoord Rotterdam,2,0
+2025-05-18T12:30:00Z,DED,Sparta Rotterdam,PSV,1,3
+2024-08-09T19:15:00Z,PPL,Sporting Clube de Portugal,Rio Ave FC,3,1
+2024-08-10T14:30:00Z,PPL,AVS,CD Nacional,1,1
+2024-08-10T17:00:00Z,PPL,Casa Pia AC,Boavista FC,0,1
+2024-08-10T19:30:00Z,PPL,FC Porto,Gil Vicente FC,3,0
+2024-08-11T14:30:00Z,PPL,GD Estoril Praia,CD Santa Clara,1,4
+2024-08-11T17:00:00Z,PPL,SC Farense,Moreirense FC,1,2
+2024-08-11T17:00:00Z,PPL,FC Famalicão,Sport Lisboa e Benfica,2,0
+2024-08-11T19:30:00Z,PPL,Sporting Clube de Braga,CF Estrela da Amadora,1,1
+2024-08-12T19:15:00Z,PPL,FC Arouca,Vitória SC,0,1
+2024-08-16T16:00:00Z,PPL,CD Santa Clara,FC Porto,0,2
+2024-08-16T19:15:00Z,PPL,Gil Vicente FC,AVS,4,2
+2024-08-17T14:30:00Z,PPL,Rio Ave FC,SC Farense,1,0
+2024-08-17T17:00:00Z,PPL,CD Nacional,Sporting Clube de Portugal,1,6
+2024-08-17T19:30:00Z,PPL,Sport Lisboa e Benfica,Casa Pia AC,3,0
+2024-08-18T14:30:00Z,PPL,Moreirense FC,FC Arouca,3,1
+2024-08-18T17:00:00Z,PPL,Vitória SC,GD Estoril Praia,1,0
+2024-08-18T19:30:00Z,PPL,Boavista FC,Sporting Clube de Braga,0,1
+2024-08-19T19:15:00Z,PPL,CF Estrela da Amadora,FC Famalicão,0,3
+2024-08-23T19:15:00Z,PPL,SC Farense,Sporting Clube de Portugal,0,5
+2024-08-24T14:30:00Z,PPL,Casa Pia AC,CD Santa Clara,0,2
+2024-08-24T17:00:00Z,PPL,FC Porto,Rio Ave FC,2,0
+2024-08-24T19:30:00Z,PPL,Sport Lisboa e Benfica,CF Estrela da Amadora,1,0
+2024-08-24T19:30:00Z,PPL,FC Famalicão,Boavista FC,1,0
+2024-08-25T14:30:00Z,PPL,FC Arouca,CD Nacional,1,0
+2024-08-25T17:00:00Z,PPL,GD Estoril Praia,Gil Vicente FC,0,0
+2024-08-25T19:30:00Z,PPL,Sporting Clube de Braga,Moreirense FC,3,1
+2024-08-25T19:30:00Z,PPL,AVS,Vitória SC,1,0
+2024-08-30T19:15:00Z,PPL,Moreirense FC,Sport Lisboa e Benfica,1,1
+2024-08-31T14:30:00Z,PPL,CD Santa Clara,AVS,2,1
+2024-08-31T17:00:00Z,PPL,Boavista FC,GD Estoril Praia,0,0
+2024-08-31T17:00:00Z,PPL,CF Estrela da Amadora,Casa Pia AC,0,1
+2024-08-31T19:30:00Z,PPL,Sporting Clube de Portugal,FC Porto,2,0
+2024-09-01T14:30:00Z,PPL,CD Nacional,SC Farense,2,0
+2024-09-01T17:00:00Z,PPL,Rio Ave FC,FC Arouca,1,0
+2024-09-01T19:30:00Z,PPL,Gil Vicente FC,Sporting Clube de Braga,0,0
+2024-09-01T19:30:00Z,PPL,Vitória SC,FC Famalicão,2,1
+2024-09-13T19:15:00Z,PPL,FC Arouca,Sporting Clube de Portugal,0,3
+2024-09-14T14:30:00Z,PPL,Casa Pia AC,Moreirense FC,3,1
+2024-09-14T17:00:00Z,PPL,AVS,Rio Ave FC,1,0
+2024-09-14T19:30:00Z,PPL,Sport Lisboa e Benfica,CD Santa Clara,4,1
+2024-09-14T19:30:00Z,PPL,FC Famalicão,Gil Vicente FC,1,1
+2024-09-15T14:30:00Z,PPL,FC Porto,SC Farense,2,1
+2024-09-15T17:00:00Z,PPL,GD Estoril Praia,CD Nacional,1,0
+2024-09-15T19:30:00Z,PPL,Sporting Clube de Braga,Vitória SC,0,2
+2024-09-16T19:15:00Z,PPL,CF Estrela da Amadora,Boavista FC,2,2
+2024-09-20T19:15:00Z,PPL,CD Nacional,Sporting Clube de Braga,0,3
+2024-09-21T14:30:00Z,PPL,CD Santa Clara,CF Estrela da Amadora,1,0
+2024-09-21T14:30:00Z,PPL,Rio Ave FC,GD Estoril Praia,2,2
+2024-09-21T17:00:00Z,PPL,Vitória SC,FC Porto,0,3
+2024-09-21T19:30:00Z,PPL,Moreirense FC,FC Famalicão,0,0
+2024-09-22T14:30:00Z,PPL,Gil Vicente FC,Casa Pia AC,1,1
+2024-09-22T17:00:00Z,PPL,SC Farense,FC Arouca,0,1
+2024-09-22T19:30:00Z,PPL,Sporting Clube de Portugal,AVS,3,0
+2024-09-23T19:15:00Z,PPL,Boavista FC,Sport Lisboa e Benfica,0,3
+2024-09-27T19:15:00Z,PPL,GD Estoril Praia,Sporting Clube de Portugal,0,3
+2024-09-28T14:30:00Z,PPL,CF Estrela da Amadora,Moreirense FC,2,1
+2024-09-28T17:00:00Z,PPL,Casa Pia AC,Vitória SC,1,1
+2024-09-28T19:30:00Z,PPL,Sport Lisboa e Benfica,Gil Vicente FC,5,1
+2024-09-29T14:30:00Z,PPL,FC Famalicão,CD Nacional,0,0
+2024-09-29T17:00:00Z,PPL,FC Porto,FC Arouca,4,0
+2024-09-29T19:30:00Z,PPL,Sporting Clube de Braga,Rio Ave FC,4,0
+2024-09-29T19:30:00Z,PPL,CD Santa Clara,Boavista FC,1,0
+2024-09-30T19:15:00Z,PPL,AVS,SC Farense,0,0
+2024-10-04T19:15:00Z,PPL,Rio Ave FC,FC Famalicão,1,1
+2024-10-05T14:30:00Z,PPL,Moreirense FC,CD Santa Clara,1,0
+2024-10-05T14:30:00Z,PPL,Gil Vicente FC,CF Estrela da Amadora,3,0
+2024-10-05T17:00:00Z,PPL,FC Arouca,AVS,1,1
+2024-10-05T19:30:00Z,PPL,Sporting Clube de Portugal,Casa Pia AC,2,0
+2024-10-06T14:30:00Z,PPL,Vitória SC,Boavista FC,2,2
+2024-10-06T14:30:00Z,PPL,SC Farense,GD Estoril Praia,1,0
+2024-10-06T19:30:00Z,PPL,FC Porto,Sporting Clube de Braga,2,1
+2024-10-25T17:45:00Z,PPL,Casa Pia AC,CD Nacional,1,0
+2024-10-25T19:45:00Z,PPL,CD Santa Clara,Gil Vicente FC,2,1
+2024-10-26T14:30:00Z,PPL,GD Estoril Praia,FC Arouca,4,1
+2024-10-26T17:00:00Z,PPL,Boavista FC,Moreirense FC,0,2
+2024-10-26T19:30:00Z,PPL,FC Famalicão,Sporting Clube de Portugal,0,3
+2024-10-27T15:30:00Z,PPL,Sporting Clube de Braga,SC Farense,2,0
+2024-10-27T18:00:00Z,PPL,Sport Lisboa e Benfica,Rio Ave FC,5,0
+2024-10-27T20:30:00Z,PPL,CF Estrela da Amadora,Vitória SC,2,2
+2024-10-28T20:15:00Z,PPL,AVS,FC Porto,0,5
+2024-11-01T20:15:00Z,PPL,Sporting Clube de Portugal,CF Estrela da Amadora,5,1
+2024-11-02T15:30:00Z,PPL,Rio Ave FC,Casa Pia AC,2,2
+2024-11-02T18:00:00Z,PPL,SC Farense,Sport Lisboa e Benfica,1,2
+2024-11-02T20:30:00Z,PPL,Gil Vicente FC,Boavista FC,1,2
+2024-11-03T15:30:00Z,PPL,AVS,FC Famalicão,2,3
+2024-11-03T18:00:00Z,PPL,FC Arouca,Sporting Clube de Braga,1,2
+2024-11-03T18:00:00Z,PPL,Vitória SC,Moreirense FC,1,0
+2024-11-03T20:30:00Z,PPL,FC Porto,GD Estoril Praia,4,0
+2024-11-04T20:15:00Z,PPL,CD Nacional,CD Santa Clara,2,0
+2024-11-08T20:15:00Z,PPL,Moreirense FC,Gil Vicente FC,3,2
+2024-11-09T15:30:00Z,PPL,Casa Pia AC,SC Farense,1,1
+2024-11-09T15:30:00Z,PPL,GD Estoril Praia,AVS,0,0
+2024-11-09T18:00:00Z,PPL,FC Famalicão,FC Arouca,0,0
+2024-11-09T20:30:00Z,PPL,Boavista FC,Rio Ave FC,0,2
+2024-11-10T15:30:00Z,PPL,CF Estrela da Amadora,CD Nacional,2,0
+2024-11-10T16:30:00Z,PPL,CD Santa Clara,Vitória SC,1,0
+2024-11-10T18:45:00Z,PPL,Sporting Clube de Braga,Sporting Clube de Portugal,2,4
+2024-11-10T20:45:00Z,PPL,Sport Lisboa e Benfica,FC Porto,4,1
+2024-11-29T20:15:00Z,PPL,SC Farense,CF Estrela da Amadora,1,0
+2024-11-30T15:30:00Z,PPL,Rio Ave FC,Moreirense FC,3,2
+2024-11-30T18:00:00Z,PPL,CD Nacional,Boavista FC,0,0
+2024-11-30T20:30:00Z,PPL,Sporting Clube de Portugal,CD Santa Clara,0,1
+2024-12-01T15:30:00Z,PPL,GD Estoril Praia,FC Famalicão,2,1
+2024-12-01T18:00:00Z,PPL,FC Arouca,Sport Lisboa e Benfica,0,2
+2024-12-01T20:30:00Z,PPL,AVS,Sporting Clube de Braga,0,1
+2024-12-02T18:45:00Z,PPL,Vitória SC,Gil Vicente FC,4,0
+2024-12-02T20:45:00Z,PPL,FC Porto,Casa Pia AC,2,0
+2024-12-05T20:15:00Z,PPL,Moreirense FC,Sporting Clube de Portugal,2,1
+2024-12-06T20:15:00Z,PPL,Sporting Clube de Braga,GD Estoril Praia,2,2
+2024-12-07T15:30:00Z,PPL,Gil Vicente FC,CD Nacional,2,1
+2024-12-07T18:00:00Z,PPL,Sport Lisboa e Benfica,Vitória SC,1,0
+2024-12-07T18:00:00Z,PPL,CD Santa Clara,Rio Ave FC,1,0
+2024-12-07T20:30:00Z,PPL,FC Famalicão,FC Porto,1,1
+2024-12-08T15:30:00Z,PPL,Boavista FC,SC Farense,1,1
+2024-12-08T18:00:00Z,PPL,Casa Pia AC,AVS,1,1
+2024-12-09T20:15:00Z,PPL,CF Estrela da Amadora,FC Arouca,2,1
+2024-12-14T15:30:00Z,PPL,SC Farense,Gil Vicente FC,0,1
+2024-12-14T18:00:00Z,PPL,CD Nacional,Moreirense FC,1,0
+2024-12-14T20:30:00Z,PPL,Sporting Clube de Portugal,Boavista FC,3,2
+2024-12-15T15:30:00Z,PPL,FC Arouca,CD Santa Clara,1,0
+2024-12-15T18:00:00Z,PPL,AVS,Sport Lisboa e Benfica,1,1
+2024-12-15T20:30:00Z,PPL,GD Estoril Praia,Casa Pia AC,0,2
+2024-12-16T18:45:00Z,PPL,Sporting Clube de Braga,FC Famalicão,3,3
+2024-12-16T20:15:00Z,PPL,FC Porto,CF Estrela da Amadora,2,0
+2024-12-16T20:45:00Z,PPL,Rio Ave FC,Vitória SC,2,2
+2024-12-19T17:00:00Z,PPL,CD Nacional,Sport Lisboa e Benfica,0,2
+2024-12-20T20:15:00Z,PPL,Casa Pia AC,FC Arouca,3,1
+2024-12-21T15:30:00Z,PPL,FC Famalicão,SC Farense,1,2
+2024-12-21T18:00:00Z,PPL,Boavista FC,AVS,0,0
+2024-12-21T20:30:00Z,PPL,Moreirense FC,FC Porto,0,3
+2024-12-22T17:00:00Z,PPL,CD Santa Clara,Sporting Clube de Braga,0,2
+2024-12-22T20:30:00Z,PPL,Gil Vicente FC,Sporting Clube de Portugal,0,0
+2024-12-23T18:45:00Z,PPL,Sport Lisboa e Benfica,GD Estoril Praia,3,0
+2024-12-23T18:45:00Z,PPL,Vitória SC,CD Nacional,2,2
+2024-12-23T20:45:00Z,PPL,CF Estrela da Amadora,Rio Ave FC,1,0
+2024-12-27T20:15:00Z,PPL,FC Arouca,Gil Vicente FC,1,1
+2024-12-28T15:30:00Z,PPL,AVS,CF Estrela da Amadora,1,1
+2024-12-28T18:00:00Z,PPL,GD Estoril Praia,Moreirense FC,2,2
+2024-12-28T20:30:00Z,PPL,FC Porto,Boavista FC,4,0
+2024-12-29T15:30:00Z,PPL,SC Farense,Vitória SC,2,2
+2024-12-29T15:30:00Z,PPL,Rio Ave FC,CD Nacional,2,1
+2024-12-29T18:00:00Z,PPL,Sporting Clube de Braga,Casa Pia AC,1,2
+2024-12-29T20:30:00Z,PPL,Sporting Clube de Portugal,Sport Lisboa e Benfica,1,0
+2024-12-30T20:15:00Z,PPL,FC Famalicão,CD Santa Clara,1,2
+2025-01-03T20:15:00Z,PPL,Vitória SC,Sporting Clube de Portugal,4,4
+2025-01-04T15:30:00Z,PPL,Moreirense FC,AVS,1,1
+2025-01-04T18:00:00Z,PPL,Sport Lisboa e Benfica,Sporting Clube de Braga,1,2
+2025-01-04T20:30:00Z,PPL,Boavista FC,FC Arouca,1,3
+2025-01-05T15:30:00Z,PPL,CD Santa Clara,SC Farense,0,0
+2025-01-05T18:00:00Z,PPL,Casa Pia AC,FC Famalicão,1,1
+2025-01-05T20:30:00Z,PPL,CF Estrela da Amadora,GD Estoril Praia,2,4
+2025-01-06T20:15:00Z,PPL,Gil Vicente FC,Rio Ave FC,1,1
+2025-01-12T15:30:00Z,PPL,CD Nacional,FC Porto,2,0
+2025-01-17T20:15:00Z,PPL,Sport Lisboa e Benfica,FC Famalicão,4,0
+2025-01-18T15:30:00Z,PPL,CD Santa Clara,GD Estoril Praia,2,3
+2025-01-18T18:00:00Z,PPL,Rio Ave FC,Sporting Clube de Portugal,0,3
+2025-01-18T20:30:00Z,PPL,Vitória SC,FC Arouca,2,2
+2025-01-19T15:30:00Z,PPL,CD Nacional,AVS,3,1
+2025-01-19T15:30:00Z,PPL,Moreirense FC,SC Farense,0,0
+2025-01-19T18:00:00Z,PPL,CF Estrela da Amadora,Sporting Clube de Braga,0,1
+2025-01-19T20:30:00Z,PPL,Gil Vicente FC,FC Porto,3,1
+2025-01-20T20:15:00Z,PPL,Boavista FC,Casa Pia AC,2,3
+2025-01-24T20:15:00Z,PPL,FC Arouca,Moreirense FC,1,0
+2025-01-25T15:30:00Z,PPL,FC Famalicão,CF Estrela da Amadora,0,0
+2025-01-25T15:30:00Z,PPL,SC Farense,Rio Ave FC,1,2
+2025-01-25T18:00:00Z,PPL,Casa Pia AC,Sport Lisboa e Benfica,3,1
+2025-01-25T20:30:00Z,PPL,Sporting Clube de Portugal,CD Nacional,2,0
+2025-01-26T15:30:00Z,PPL,GD Estoril Praia,Vitória SC,1,0
+2025-01-26T18:00:00Z,PPL,FC Porto,CD Santa Clara,1,1
+2025-01-26T20:30:00Z,PPL,Sporting Clube de Braga,Boavista FC,3,0
+2025-01-27T20:15:00Z,PPL,AVS,Gil Vicente FC,1,0
+2025-01-31T20:15:00Z,PPL,Boavista FC,FC Famalicão,0,2
+2025-02-01T15:30:00Z,PPL,CD Nacional,FC Arouca,1,2
+2025-02-01T15:30:00Z,PPL,CD Santa Clara,Casa Pia AC,2,1
+2025-02-01T18:00:00Z,PPL,Gil Vicente FC,GD Estoril Praia,1,2
+2025-02-01T20:30:00Z,PPL,Vitória SC,AVS,2,0
+2025-02-02T18:00:00Z,PPL,Sporting Clube de Portugal,SC Farense,3,1
+2025-02-02T20:30:00Z,PPL,CF Estrela da Amadora,Sport Lisboa e Benfica,2,3
+2025-02-03T18:45:00Z,PPL,Moreirense FC,Sporting Clube de Braga,1,2
+2025-02-03T20:45:00Z,PPL,Rio Ave FC,FC Porto,2,2
+2025-02-07T20:15:00Z,PPL,FC Porto,Sporting Clube de Portugal,1,1
+2025-02-08T15:30:00Z,PPL,AVS,CD Santa Clara,1,2
+2025-02-08T18:00:00Z,PPL,Sport Lisboa e Benfica,Moreirense FC,3,2
+2025-02-08T20:30:00Z,PPL,FC Famalicão,Vitória SC,0,0
+2025-02-09T15:30:00Z,PPL,GD Estoril Praia,Boavista FC,2,1
+2025-02-09T15:30:00Z,PPL,SC Farense,CD Nacional,0,2
+2025-02-09T18:00:00Z,PPL,Sporting Clube de Braga,Gil Vicente FC,2,0
+2025-02-09T20:30:00Z,PPL,Casa Pia AC,CF Estrela da Amadora,1,0
+2025-02-10T20:15:00Z,PPL,FC Arouca,Rio Ave FC,1,1
+2025-02-14T20:15:00Z,PPL,Boavista FC,CF Estrela da Amadora,0,1
+2025-02-15T15:30:00Z,PPL,Moreirense FC,Casa Pia AC,3,2
+2025-02-15T17:00:00Z,PPL,CD Nacional,GD Estoril Praia,2,2
+2025-02-15T18:00:00Z,PPL,CD Santa Clara,Sport Lisboa e Benfica,0,1
+2025-02-15T20:30:00Z,PPL,Sporting Clube de Portugal,FC Arouca,2,2
+2025-02-16T15:30:00Z,PPL,Rio Ave FC,AVS,1,1
+2025-02-16T18:00:00Z,PPL,SC Farense,FC Porto,0,1
+2025-02-16T20:30:00Z,PPL,Vitória SC,Sporting Clube de Braga,0,0
+2025-02-17T20:15:00Z,PPL,Gil Vicente FC,FC Famalicão,0,2
+2025-02-21T20:15:00Z,PPL,Sporting Clube de Braga,CD Nacional,1,0
+2025-02-22T15:30:00Z,PPL,Casa Pia AC,Gil Vicente FC,1,0
+2025-02-22T18:00:00Z,PPL,Sport Lisboa e Benfica,Boavista FC,3,0
+2025-02-22T20:30:00Z,PPL,GD Estoril Praia,Rio Ave FC,2,1
+2025-02-23T15:30:00Z,PPL,CF Estrela da Amadora,CD Santa Clara,0,0
+2025-02-23T15:30:00Z,PPL,FC Arouca,SC Farense,2,2
+2025-02-23T18:00:00Z,PPL,AVS,Sporting Clube de Portugal,2,2
+2025-02-23T20:30:00Z,PPL,FC Famalicão,Moreirense FC,2,0
+2025-02-24T20:15:00Z,PPL,FC Porto,Vitória SC,1,1
+2025-03-01T15:30:00Z,PPL,CD Nacional,FC Famalicão,2,1
+2025-03-01T18:00:00Z,PPL,FC Arouca,FC Porto,0,2
+2025-03-01T20:30:00Z,PPL,Vitória SC,Casa Pia AC,1,0
+2025-03-02T15:30:00Z,PPL,Boavista FC,CD Santa Clara,1,0
+2025-03-02T15:30:00Z,PPL,Moreirense FC,CF Estrela da Amadora,1,1
+2025-03-02T18:00:00Z,PPL,SC Farense,AVS,0,1
+2025-03-02T20:30:00Z,PPL,Rio Ave FC,Sporting Clube de Braga,2,1
+2025-03-03T20:15:00Z,PPL,Sporting Clube de Portugal,GD Estoril Praia,3,1
+2025-03-07T20:15:00Z,PPL,CF Estrela da Amadora,Gil Vicente FC,1,1
+2025-03-08T15:30:00Z,PPL,AVS,FC Arouca,0,1
+2025-03-08T18:00:00Z,PPL,GD Estoril Praia,SC Farense,2,2
+2025-03-08T18:00:00Z,PPL,Sport Lisboa e Benfica,CD Nacional,3,0
+2025-03-08T20:30:00Z,PPL,Sporting Clube de Braga,FC Porto,1,0
+2025-03-09T15:30:00Z,PPL,CD Santa Clara,Moreirense FC,1,1
+2025-03-09T18:00:00Z,PPL,Casa Pia AC,Sporting Clube de Portugal,1,3
+2025-03-09T20:30:00Z,PPL,Boavista FC,Vitória SC,1,2
+2025-03-10T20:15:00Z,PPL,FC Famalicão,Rio Ave FC,1,0
+2025-03-15T15:30:00Z,PPL,SC Farense,Sporting Clube de Braga,0,1
+2025-03-15T15:30:00Z,PPL,Gil Vicente FC,CD Santa Clara,0,1
+2025-03-15T18:00:00Z,PPL,FC Porto,AVS,2,0
+2025-03-15T20:30:00Z,PPL,Sporting Clube de Portugal,FC Famalicão,3,1
+2025-03-16T15:30:00Z,PPL,CD Nacional,Casa Pia AC,3,1
+2025-03-16T15:30:00Z,PPL,FC Arouca,GD Estoril Praia,1,1
+2025-03-16T18:00:00Z,PPL,Rio Ave FC,Sport Lisboa e Benfica,2,3
+2025-03-16T20:30:00Z,PPL,Vitória SC,CF Estrela da Amadora,2,0
+2025-03-16T20:30:00Z,PPL,Moreirense FC,Boavista FC,1,0
+2025-03-28T20:15:00Z,PPL,Gil Vicente FC,Sport Lisboa e Benfica,0,3
+2025-03-29T15:30:00Z,PPL,Casa Pia AC,Rio Ave FC,2,1
+2025-03-29T18:00:00Z,PPL,CF Estrela da Amadora,Sporting Clube de Portugal,0,3
+2025-03-29T20:30:00Z,PPL,Sporting Clube de Braga,FC Arouca,2,1
+2025-03-30T14:30:00Z,PPL,FC Famalicão,AVS,4,1
+2025-03-30T14:30:00Z,PPL,CD Santa Clara,CD Nacional,1,0
+2025-03-30T17:00:00Z,PPL,GD Estoril Praia,FC Porto,1,2
+2025-03-30T19:30:00Z,PPL,Moreirense FC,Vitória SC,2,2
+2025-04-01T19:15:00Z,PPL,Boavista FC,Gil Vicente FC,1,3
+2025-04-02T19:15:00Z,PPL,Sport Lisboa e Benfica,SC Farense,3,2
+2025-04-04T19:15:00Z,PPL,AVS,GD Estoril Praia,0,3
+2025-04-05T17:00:00Z,PPL,FC Arouca,FC Famalicão,1,2
+2025-04-05T19:30:00Z,PPL,Vitória SC,CD Santa Clara,2,0
+2025-04-06T14:30:00Z,PPL,Gil Vicente FC,Moreirense FC,0,1
+2025-04-06T17:00:00Z,PPL,CD Nacional,CF Estrela da Amadora,0,1
+2025-04-06T19:30:00Z,PPL,FC Porto,Sport Lisboa e Benfica,1,4
+2025-04-07T17:45:00Z,PPL,SC Farense,Casa Pia AC,0,0
+2025-04-07T19:15:00Z,PPL,Rio Ave FC,Boavista FC,0,2
+2025-04-07T19:45:00Z,PPL,Sporting Clube de Portugal,Sporting Clube de Braga,1,1
+2025-04-11T19:15:00Z,PPL,Gil Vicente FC,Vitória SC,0,1
+2025-04-12T14:30:00Z,PPL,FC Famalicão,GD Estoril Praia,3,0
+2025-04-12T14:30:00Z,PPL,Boavista FC,CD Nacional,0,1
+2025-04-12T17:00:00Z,PPL,CD Santa Clara,Sporting Clube de Portugal,0,1
+2025-04-12T19:30:00Z,PPL,Casa Pia AC,FC Porto,0,1
+2025-04-13T14:30:00Z,PPL,CF Estrela da Amadora,SC Farense,0,1
+2025-04-13T17:00:00Z,PPL,Sporting Clube de Braga,AVS,4,1
+2025-04-13T17:00:00Z,PPL,Sport Lisboa e Benfica,FC Arouca,2,2
+2025-04-13T19:30:00Z,PPL,Moreirense FC,Rio Ave FC,0,2
+2025-04-18T14:30:00Z,PPL,SC Farense,Boavista FC,0,1
+2025-04-18T14:30:00Z,PPL,Rio Ave FC,CD Santa Clara,1,1
+2025-04-18T17:00:00Z,PPL,FC Porto,FC Famalicão,2,1
+2025-04-18T19:30:00Z,PPL,Sporting Clube de Portugal,Moreirense FC,3,1
+2025-04-19T14:30:00Z,PPL,CD Nacional,Gil Vicente FC,0,3
+2025-04-19T14:30:00Z,PPL,AVS,Casa Pia AC,1,1
+2025-04-19T17:00:00Z,PPL,GD Estoril Praia,Sporting Clube de Braga,0,2
+2025-04-19T17:00:00Z,PPL,FC Arouca,CF Estrela da Amadora,1,0
+2025-04-19T19:30:00Z,PPL,Vitória SC,Sport Lisboa e Benfica,0,3
+2025-04-25T19:30:00Z,PPL,FC Famalicão,Sporting Clube de Braga,1,1
+2025-04-26T14:30:00Z,PPL,CD Santa Clara,FC Arouca,2,0
+2025-04-26T17:00:00Z,PPL,Gil Vicente FC,SC Farense,1,0
+2025-04-26T19:30:00Z,PPL,CF Estrela da Amadora,FC Porto,2,0
+2025-04-27T14:30:00Z,PPL,Moreirense FC,CD Nacional,1,1
+2025-04-27T17:00:00Z,PPL,Sport Lisboa e Benfica,AVS,6,0
+2025-04-27T17:00:00Z,PPL,Vitória SC,Rio Ave FC,3,0
+2025-04-27T19:30:00Z,PPL,Boavista FC,Sporting Clube de Portugal,0,5
+2025-04-29T19:30:00Z,PPL,Casa Pia AC,GD Estoril Praia,1,3
+2025-05-02T19:15:00Z,PPL,FC Porto,Moreirense FC,3,1
+2025-05-03T14:30:00Z,PPL,CD Nacional,Vitória SC,1,2
+2025-05-03T14:30:00Z,PPL,SC Farense,FC Famalicão,2,1
+2025-05-03T17:00:00Z,PPL,Sporting Clube de Braga,CD Santa Clara,1,1
+2025-05-03T19:30:00Z,PPL,GD Estoril Praia,Sport Lisboa e Benfica,1,2
+2025-05-04T17:00:00Z,PPL,FC Arouca,Casa Pia AC,0,0
+2025-05-04T19:30:00Z,PPL,Sporting Clube de Portugal,Gil Vicente FC,2,1
+2025-05-05T18:30:00Z,PPL,Rio Ave FC,CF Estrela da Amadora,2,0
+2025-05-05T19:15:00Z,PPL,AVS,Boavista FC,1,2
+2025-05-10T14:30:00Z,PPL,CD Santa Clara,FC Famalicão,2,1
+2025-05-10T14:30:00Z,PPL,CD Nacional,Rio Ave FC,3,3
+2025-05-10T17:00:00Z,PPL,Sport Lisboa e Benfica,Sporting Clube de Portugal,1,1
+2025-05-10T19:30:00Z,PPL,Casa Pia AC,Sporting Clube de Braga,2,1
+2025-05-10T19:30:00Z,PPL,Gil Vicente FC,FC Arouca,1,1
+2025-05-11T14:30:00Z,PPL,CF Estrela da Amadora,AVS,0,1
+2025-05-11T17:00:00Z,PPL,Moreirense FC,GD Estoril Praia,2,2
+2025-05-11T17:00:00Z,PPL,Vitória SC,SC Farense,1,2
+2025-05-11T19:30:00Z,PPL,Boavista FC,FC Porto,1,2
+2025-05-16T18:00:00Z,PPL,Rio Ave FC,Gil Vicente FC,1,1
+2025-05-16T18:00:00Z,PPL,FC Famalicão,Casa Pia AC,2,1
+2025-05-17T17:00:00Z,PPL,GD Estoril Praia,CF Estrela da Amadora,4,0
+2025-05-17T17:00:00Z,PPL,Sporting Clube de Portugal,Vitória SC,2,0
+2025-05-17T17:00:00Z,PPL,Sporting Clube de Braga,Sport Lisboa e Benfica,1,1
+2025-05-17T17:00:00Z,PPL,FC Porto,CD Nacional,3,0
+2025-05-17T17:00:00Z,PPL,AVS,Moreirense FC,0,3
+2025-05-17T17:00:00Z,PPL,FC Arouca,Boavista FC,4,1
+2025-05-17T17:00:00Z,PPL,SC Farense,CD Santa Clara,1,2
+2024-08-15T17:00:00Z,PD,Athletic Club,Getafe CF,1,1
+2024-08-15T19:30:00Z,PD,Real Betis Balompié,Girona FC,1,1
+2024-08-16T17:00:00Z,PD,RC Celta de Vigo,Deportivo Alavés,2,1
+2024-08-16T19:30:00Z,PD,UD Las Palmas,Sevilla FC,2,2
+2024-08-17T17:00:00Z,PD,CA Osasuna,CD Leganés,1,1
+2024-08-17T19:30:00Z,PD,Valencia CF,FC Barcelona,1,2
+2024-08-18T17:00:00Z,PD,Real Sociedad de Fútbol,Rayo Vallecano de Madrid,1,2
+2024-08-18T19:30:00Z,PD,RCD Mallorca,Real Madrid CF,1,1
+2024-08-19T17:00:00Z,PD,Real Valladolid CF,RCD Espanyol de Barcelona,1,0
+2024-08-19T19:30:00Z,PD,Villarreal CF,Club Atlético de Madrid,2,2
+2024-08-23T17:00:00Z,PD,RC Celta de Vigo,Valencia CF,3,1
+2024-08-23T19:30:00Z,PD,Sevilla FC,Villarreal CF,1,2
+2024-08-24T15:00:00Z,PD,CA Osasuna,RCD Mallorca,1,0
+2024-08-24T17:00:00Z,PD,FC Barcelona,Athletic Club,2,1
+2024-08-24T19:30:00Z,PD,Getafe CF,Rayo Vallecano de Madrid,0,0
+2024-08-24T19:30:00Z,PD,RCD Espanyol de Barcelona,Real Sociedad de Fútbol,0,1
+2024-08-25T15:00:00Z,PD,Real Madrid CF,Real Valladolid CF,3,0
+2024-08-25T17:00:00Z,PD,CD Leganés,UD Las Palmas,2,1
+2024-08-25T17:15:00Z,PD,Deportivo Alavés,Real Betis Balompié,0,0
+2024-08-25T19:30:00Z,PD,Club Atlético de Madrid,Girona FC,3,0
+2024-08-26T19:30:00Z,PD,Villarreal CF,RC Celta de Vigo,4,3
+2024-08-27T17:00:00Z,PD,RCD Mallorca,Sevilla FC,0,0
+2024-08-27T19:30:00Z,PD,Rayo Vallecano de Madrid,FC Barcelona,1,2
+2024-08-28T17:00:00Z,PD,Athletic Club,Valencia CF,1,0
+2024-08-28T17:00:00Z,PD,Real Valladolid CF,CD Leganés,0,0
+2024-08-28T19:30:00Z,PD,Real Sociedad de Fútbol,Deportivo Alavés,1,2
+2024-08-28T19:30:00Z,PD,Club Atlético de Madrid,RCD Espanyol de Barcelona,0,0
+2024-08-29T17:00:00Z,PD,Girona FC,CA Osasuna,4,0
+2024-08-29T19:30:00Z,PD,UD Las Palmas,Real Madrid CF,1,1
+2024-08-31T15:00:00Z,PD,FC Barcelona,Real Valladolid CF,7,0
+2024-08-31T17:00:00Z,PD,Athletic Club,Club Atlético de Madrid,0,1
+2024-08-31T17:15:00Z,PD,RCD Espanyol de Barcelona,Rayo Vallecano de Madrid,2,1
+2024-08-31T19:30:00Z,PD,CD Leganés,RCD Mallorca,0,1
+2024-08-31T19:30:00Z,PD,Valencia CF,Villarreal CF,1,1
+2024-09-01T15:00:00Z,PD,CA Osasuna,RC Celta de Vigo,3,2
+2024-09-01T15:00:00Z,PD,Deportivo Alavés,UD Las Palmas,2,0
+2024-09-01T17:00:00Z,PD,Sevilla FC,Girona FC,0,2
+2024-09-01T17:15:00Z,PD,Getafe CF,Real Sociedad de Fútbol,0,0
+2024-09-01T19:30:00Z,PD,Real Madrid CF,Real Betis Balompié,2,0
+2024-09-13T19:00:00Z,PD,Real Betis Balompié,CD Leganés,2,0
+2024-09-14T12:00:00Z,PD,RCD Mallorca,Villarreal CF,1,2
+2024-09-14T14:15:00Z,PD,RCD Espanyol de Barcelona,Deportivo Alavés,3,2
+2024-09-14T16:30:00Z,PD,Sevilla FC,Getafe CF,1,0
+2024-09-14T19:00:00Z,PD,Real Sociedad de Fútbol,Real Madrid CF,0,2
+2024-09-15T12:00:00Z,PD,RC Celta de Vigo,Real Valladolid CF,3,1
+2024-09-15T14:15:00Z,PD,Girona FC,FC Barcelona,1,4
+2024-09-15T16:30:00Z,PD,UD Las Palmas,Athletic Club,2,3
+2024-09-15T19:00:00Z,PD,Club Atlético de Madrid,Valencia CF,3,0
+2024-09-16T19:00:00Z,PD,Rayo Vallecano de Madrid,CA Osasuna,3,1
+2024-09-17T17:00:00Z,PD,RCD Mallorca,Real Sociedad de Fútbol,1,0
+2024-09-18T17:00:00Z,PD,Real Betis Balompié,Getafe CF,2,1
+2024-09-19T17:00:00Z,PD,CD Leganés,Athletic Club,0,2
+2024-09-20T19:00:00Z,PD,Deportivo Alavés,Sevilla FC,2,1
+2024-09-21T12:00:00Z,PD,Real Valladolid CF,Real Sociedad de Fútbol,0,0
+2024-09-21T14:15:00Z,PD,CA Osasuna,UD Las Palmas,2,1
+2024-09-21T16:30:00Z,PD,Valencia CF,Girona FC,2,0
+2024-09-21T19:00:00Z,PD,Real Madrid CF,RCD Espanyol de Barcelona,4,1
+2024-09-22T12:00:00Z,PD,Getafe CF,CD Leganés,1,1
+2024-09-22T14:15:00Z,PD,Athletic Club,RC Celta de Vigo,3,1
+2024-09-22T16:30:00Z,PD,Villarreal CF,FC Barcelona,1,5
+2024-09-22T19:00:00Z,PD,Rayo Vallecano de Madrid,Club Atlético de Madrid,1,1
+2024-09-23T19:00:00Z,PD,Real Betis Balompié,RCD Mallorca,1,2
+2024-09-24T17:00:00Z,PD,Sevilla FC,Real Valladolid CF,2,1
+2024-09-24T17:00:00Z,PD,Valencia CF,CA Osasuna,0,0
+2024-09-24T19:00:00Z,PD,Real Madrid CF,Deportivo Alavés,3,2
+2024-09-25T17:00:00Z,PD,Girona FC,Rayo Vallecano de Madrid,0,0
+2024-09-25T19:00:00Z,PD,FC Barcelona,Getafe CF,1,0
+2024-09-26T17:00:00Z,PD,UD Las Palmas,Real Betis Balompié,1,1
+2024-09-26T17:00:00Z,PD,RCD Espanyol de Barcelona,Villarreal CF,1,2
+2024-09-26T19:00:00Z,PD,RC Celta de Vigo,Club Atlético de Madrid,0,1
+2024-09-27T19:00:00Z,PD,Real Valladolid CF,RCD Mallorca,1,2
+2024-09-28T12:00:00Z,PD,Getafe CF,Deportivo Alavés,2,0
+2024-09-28T14:15:00Z,PD,Rayo Vallecano de Madrid,CD Leganés,1,1
+2024-09-28T16:30:00Z,PD,Real Sociedad de Fútbol,Valencia CF,3,0
+2024-09-28T19:00:00Z,PD,CA Osasuna,FC Barcelona,4,2
+2024-09-29T12:00:00Z,PD,RC Celta de Vigo,Girona FC,1,1
+2024-09-29T14:15:00Z,PD,Athletic Club,Sevilla FC,1,1
+2024-09-29T16:30:00Z,PD,Real Betis Balompié,RCD Espanyol de Barcelona,1,0
+2024-09-29T19:00:00Z,PD,Club Atlético de Madrid,Real Madrid CF,1,1
+2024-09-30T19:00:00Z,PD,Villarreal CF,UD Las Palmas,3,1
+2024-10-04T19:00:00Z,PD,CD Leganés,Valencia CF,0,0
+2024-10-05T12:00:00Z,PD,RCD Espanyol de Barcelona,RCD Mallorca,2,1
+2024-10-05T14:15:00Z,PD,Getafe CF,CA Osasuna,1,1
+2024-10-05T16:30:00Z,PD,Real Valladolid CF,Rayo Vallecano de Madrid,1,2
+2024-10-05T16:30:00Z,PD,UD Las Palmas,RC Celta de Vigo,0,1
+2024-10-05T19:00:00Z,PD,Real Madrid CF,Villarreal CF,2,0
+2024-10-06T12:00:00Z,PD,Girona FC,Athletic Club,2,1
+2024-10-06T14:15:00Z,PD,Deportivo Alavés,FC Barcelona,0,3
+2024-10-06T16:30:00Z,PD,Sevilla FC,Real Betis Balompié,1,0
+2024-10-06T19:00:00Z,PD,Real Sociedad de Fútbol,Club Atlético de Madrid,1,1
+2024-10-18T19:00:00Z,PD,Deportivo Alavés,Real Valladolid CF,2,3
+2024-10-19T12:00:00Z,PD,Athletic Club,RCD Espanyol de Barcelona,4,1
+2024-10-19T14:15:00Z,PD,CA Osasuna,Real Betis Balompié,1,2
+2024-10-19T16:30:00Z,PD,Girona FC,Real Sociedad de Fútbol,0,1
+2024-10-19T19:00:00Z,PD,RC Celta de Vigo,Real Madrid CF,1,2
+2024-10-20T12:00:00Z,PD,RCD Mallorca,Rayo Vallecano de Madrid,1,0
+2024-10-20T14:15:00Z,PD,Club Atlético de Madrid,CD Leganés,3,1
+2024-10-20T16:30:00Z,PD,Villarreal CF,Getafe CF,1,1
+2024-10-20T19:00:00Z,PD,FC Barcelona,Sevilla FC,5,1
+2024-10-21T19:00:00Z,PD,Valencia CF,UD Las Palmas,2,3
+2024-10-25T19:00:00Z,PD,RCD Espanyol de Barcelona,Sevilla FC,0,2
+2024-10-26T12:00:00Z,PD,Real Valladolid CF,Villarreal CF,1,2
+2024-10-26T14:15:00Z,PD,Rayo Vallecano de Madrid,Deportivo Alavés,1,0
+2024-10-26T16:30:00Z,PD,UD Las Palmas,Girona FC,1,0
+2024-10-26T19:00:00Z,PD,Real Madrid CF,FC Barcelona,0,4
+2024-10-27T13:00:00Z,PD,CD Leganés,RC Celta de Vigo,3,0
+2024-10-27T15:15:00Z,PD,Getafe CF,Valencia CF,1,1
+2024-10-27T17:30:00Z,PD,Real Betis Balompié,Club Atlético de Madrid,1,0
+2024-10-27T20:00:00Z,PD,Real Sociedad de Fútbol,CA Osasuna,0,2
+2024-10-28T20:00:00Z,PD,RCD Mallorca,Athletic Club,0,0
+2024-11-01T20:00:00Z,PD,Deportivo Alavés,RCD Mallorca,1,0
+2024-11-02T13:00:00Z,PD,CA Osasuna,Real Valladolid CF,1,0
+2024-11-02T15:15:00Z,PD,Girona FC,CD Leganés,4,3
+2024-11-03T13:00:00Z,PD,Club Atlético de Madrid,UD Las Palmas,2,0
+2024-11-03T15:15:00Z,PD,FC Barcelona,RCD Espanyol de Barcelona,3,1
+2024-11-03T17:30:00Z,PD,Sevilla FC,Real Sociedad de Fútbol,0,2
+2024-11-03T20:00:00Z,PD,Athletic Club,Real Betis Balompié,1,1
+2024-11-04T20:00:00Z,PD,RC Celta de Vigo,Getafe CF,1,0
+2024-11-08T20:00:00Z,PD,Rayo Vallecano de Madrid,UD Las Palmas,1,3
+2024-11-09T13:00:00Z,PD,Real Madrid CF,CA Osasuna,4,0
+2024-11-09T15:15:00Z,PD,Villarreal CF,Deportivo Alavés,3,0
+2024-11-09T20:00:00Z,PD,CD Leganés,Sevilla FC,1,0
+2024-11-10T13:00:00Z,PD,Real Betis Balompié,RC Celta de Vigo,2,2
+2024-11-10T15:15:00Z,PD,RCD Mallorca,Club Atlético de Madrid,0,1
+2024-11-10T17:30:00Z,PD,Getafe CF,Girona FC,0,1
+2024-11-10T17:30:00Z,PD,Real Valladolid CF,Athletic Club,1,1
+2024-11-10T20:00:00Z,PD,Real Sociedad de Fútbol,FC Barcelona,1,0
+2024-11-22T20:00:00Z,PD,Getafe CF,Real Valladolid CF,2,0
+2024-11-23T13:00:00Z,PD,Valencia CF,Real Betis Balompié,4,2
+2024-11-23T15:15:00Z,PD,Club Atlético de Madrid,Deportivo Alavés,2,1
+2024-11-23T17:30:00Z,PD,UD Las Palmas,RCD Mallorca,2,3
+2024-11-23T17:30:00Z,PD,Girona FC,RCD Espanyol de Barcelona,4,1
+2024-11-23T20:00:00Z,PD,RC Celta de Vigo,FC Barcelona,2,2
+2024-11-24T13:00:00Z,PD,CA Osasuna,Villarreal CF,2,2
+2024-11-24T15:15:00Z,PD,Sevilla FC,Rayo Vallecano de Madrid,1,0
+2024-11-24T17:30:00Z,PD,CD Leganés,Real Madrid CF,0,3
+2024-11-24T20:00:00Z,PD,Athletic Club,Real Sociedad de Fútbol,1,0
+2024-11-29T20:00:00Z,PD,RCD Mallorca,Valencia CF,2,1
+2024-11-30T13:00:00Z,PD,FC Barcelona,UD Las Palmas,1,2
+2024-11-30T15:15:00Z,PD,Deportivo Alavés,CD Leganés,1,1
+2024-11-30T17:30:00Z,PD,RCD Espanyol de Barcelona,RC Celta de Vigo,3,1
+2024-11-30T20:00:00Z,PD,Real Valladolid CF,Club Atlético de Madrid,0,5
+2024-12-01T13:00:00Z,PD,Villarreal CF,Girona FC,2,2
+2024-12-01T15:15:00Z,PD,Real Madrid CF,Getafe CF,2,0
+2024-12-01T17:30:00Z,PD,Rayo Vallecano de Madrid,Athletic Club,1,2
+2024-12-01T20:00:00Z,PD,Real Sociedad de Fútbol,Real Betis Balompié,2,0
+2024-12-02T20:00:00Z,PD,Sevilla FC,CA Osasuna,1,1
+2024-12-03T18:00:00Z,PD,RCD Mallorca,FC Barcelona,1,5
+2024-12-04T20:00:00Z,PD,Athletic Club,Real Madrid CF,2,1
+2024-12-06T20:00:00Z,PD,RC Celta de Vigo,RCD Mallorca,2,0
+2024-12-07T13:00:00Z,PD,UD Las Palmas,Real Valladolid CF,2,1
+2024-12-07T15:15:00Z,PD,Real Betis Balompié,FC Barcelona,2,2
+2024-12-07T17:30:00Z,PD,Valencia CF,Rayo Vallecano de Madrid,0,1
+2024-12-07T20:00:00Z,PD,Girona FC,Real Madrid CF,0,3
+2024-12-08T13:00:00Z,PD,CD Leganés,Real Sociedad de Fútbol,0,3
+2024-12-08T15:15:00Z,PD,Athletic Club,Villarreal CF,2,0
+2024-12-08T17:30:00Z,PD,CA Osasuna,Deportivo Alavés,2,2
+2024-12-08T20:00:00Z,PD,Club Atlético de Madrid,Sevilla FC,4,3
+2024-12-09T20:00:00Z,PD,Getafe CF,RCD Espanyol de Barcelona,1,0
+2024-12-13T20:00:00Z,PD,Real Valladolid CF,Valencia CF,1,0
+2024-12-14T13:00:00Z,PD,RCD Espanyol de Barcelona,CA Osasuna,0,0
+2024-12-14T15:15:00Z,PD,RCD Mallorca,Girona FC,2,1
+2024-12-14T17:30:00Z,PD,Sevilla FC,RC Celta de Vigo,1,0
+2024-12-14T20:00:00Z,PD,Rayo Vallecano de Madrid,Real Madrid CF,3,3
+2024-12-15T13:00:00Z,PD,Club Atlético de Madrid,Getafe CF,1,0
+2024-12-15T15:15:00Z,PD,Deportivo Alavés,Athletic Club,1,1
+2024-12-15T17:30:00Z,PD,Villarreal CF,Real Betis Balompié,1,2
+2024-12-15T17:30:00Z,PD,Real Sociedad de Fútbol,UD Las Palmas,0,0
+2024-12-15T20:00:00Z,PD,FC Barcelona,CD Leganés,0,1
+2024-12-18T20:30:00Z,PD,Villarreal CF,Rayo Vallecano de Madrid,1,1
+2024-12-18T20:30:00Z,PD,RCD Espanyol de Barcelona,Valencia CF,1,1
+2024-12-20T20:00:00Z,PD,Girona FC,Real Valladolid CF,3,0
+2024-12-21T13:00:00Z,PD,Getafe CF,RCD Mallorca,0,1
+2024-12-21T15:15:00Z,PD,RC Celta de Vigo,Real Sociedad de Fútbol,2,0
+2024-12-21T17:30:00Z,PD,CA Osasuna,Athletic Club,1,2
+2024-12-21T20:00:00Z,PD,FC Barcelona,Club Atlético de Madrid,1,2
+2024-12-22T13:00:00Z,PD,Valencia CF,Deportivo Alavés,2,2
+2024-12-22T15:15:00Z,PD,Real Madrid CF,Sevilla FC,4,2
+2024-12-22T17:30:00Z,PD,CD Leganés,Villarreal CF,2,5
+2024-12-22T17:30:00Z,PD,UD Las Palmas,RCD Espanyol de Barcelona,1,0
+2024-12-22T20:00:00Z,PD,Real Betis Balompié,Rayo Vallecano de Madrid,1,1
+2025-01-03T20:00:00Z,PD,Valencia CF,Real Madrid CF,1,2
+2025-01-10T20:00:00Z,PD,Rayo Vallecano de Madrid,RC Celta de Vigo,2,1
+2025-01-11T13:00:00Z,PD,Deportivo Alavés,Girona FC,0,1
+2025-01-11T15:15:00Z,PD,Real Valladolid CF,Real Betis Balompié,1,0
+2025-01-11T17:30:00Z,PD,RCD Espanyol de Barcelona,CD Leganés,1,1
+2025-01-11T20:00:00Z,PD,Sevilla FC,Valencia CF,1,1
+2025-01-12T13:00:00Z,PD,UD Las Palmas,Getafe CF,1,2
+2025-01-12T15:15:00Z,PD,Club Atlético de Madrid,CA Osasuna,1,0
+2025-01-13T20:00:00Z,PD,Real Sociedad de Fútbol,Villarreal CF,1,0
+2025-01-17T20:00:00Z,PD,RCD Espanyol de Barcelona,Real Valladolid CF,2,1
+2025-01-18T13:00:00Z,PD,Girona FC,Sevilla FC,1,2
+2025-01-18T15:15:00Z,PD,CD Leganés,Club Atlético de Madrid,1,0
+2025-01-18T17:30:00Z,PD,Real Betis Balompié,Deportivo Alavés,1,3
+2025-01-18T20:00:00Z,PD,Getafe CF,FC Barcelona,1,1
+2025-01-19T13:00:00Z,PD,RC Celta de Vigo,Athletic Club,1,2
+2025-01-19T15:15:00Z,PD,Real Madrid CF,UD Las Palmas,4,1
+2025-01-19T17:30:00Z,PD,CA Osasuna,Rayo Vallecano de Madrid,1,1
+2025-01-19T20:00:00Z,PD,Valencia CF,Real Sociedad de Fútbol,1,0
+2025-01-20T20:00:00Z,PD,Villarreal CF,RCD Mallorca,4,0
+2025-01-24T20:00:00Z,PD,UD Las Palmas,CA Osasuna,1,1
+2025-01-25T13:00:00Z,PD,RCD Mallorca,Real Betis Balompié,0,1
+2025-01-25T15:15:00Z,PD,Club Atlético de Madrid,Villarreal CF,1,1
+2025-01-25T17:30:00Z,PD,Sevilla FC,RCD Espanyol de Barcelona,1,1
+2025-01-25T20:00:00Z,PD,Real Valladolid CF,Real Madrid CF,0,3
+2025-01-26T13:00:00Z,PD,Rayo Vallecano de Madrid,Girona FC,2,1
+2025-01-26T15:15:00Z,PD,Real Sociedad de Fútbol,Getafe CF,0,3
+2025-01-26T17:30:00Z,PD,Athletic Club,CD Leganés,0,0
+2025-01-26T20:00:00Z,PD,FC Barcelona,Valencia CF,7,1
+2025-01-27T20:00:00Z,PD,Deportivo Alavés,RC Celta de Vigo,1,1
+2025-01-31T20:00:00Z,PD,CD Leganés,Rayo Vallecano de Madrid,0,1
+2025-02-01T13:00:00Z,PD,Getafe CF,Sevilla FC,0,0
+2025-02-01T15:15:00Z,PD,Villarreal CF,Real Valladolid CF,5,1
+2025-02-01T17:30:00Z,PD,Club Atlético de Madrid,RCD Mallorca,2,0
+2025-02-01T20:00:00Z,PD,RCD Espanyol de Barcelona,Real Madrid CF,1,0
+2025-02-02T13:00:00Z,PD,FC Barcelona,Deportivo Alavés,1,0
+2025-02-02T15:15:00Z,PD,Valencia CF,RC Celta de Vigo,2,1
+2025-02-02T17:30:00Z,PD,CA Osasuna,Real Sociedad de Fútbol,2,1
+2025-02-02T20:00:00Z,PD,Real Betis Balompié,Athletic Club,2,2
+2025-02-03T20:00:00Z,PD,Girona FC,UD Las Palmas,2,1
+2025-02-07T20:00:00Z,PD,Rayo Vallecano de Madrid,Real Valladolid CF,1,0
+2025-02-08T13:00:00Z,PD,RC Celta de Vigo,Real Betis Balompié,3,2
+2025-02-08T15:15:00Z,PD,Athletic Club,Girona FC,3,0
+2025-02-08T17:30:00Z,PD,UD Las Palmas,Villarreal CF,1,2
+2025-02-08T20:00:00Z,PD,Real Madrid CF,Club Atlético de Madrid,1,1
+2025-02-09T13:00:00Z,PD,Deportivo Alavés,Getafe CF,0,1
+2025-02-09T15:15:00Z,PD,Valencia CF,CD Leganés,2,0
+2025-02-09T17:30:00Z,PD,Real Sociedad de Fútbol,RCD Espanyol de Barcelona,2,1
+2025-02-09T20:00:00Z,PD,Sevilla FC,FC Barcelona,1,4
+2025-02-10T20:00:00Z,PD,RCD Mallorca,CA Osasuna,1,1
+2025-02-14T20:00:00Z,PD,Girona FC,Getafe CF,1,2
+2025-02-15T13:00:00Z,PD,CD Leganés,Deportivo Alavés,3,3
+2025-02-15T15:15:00Z,PD,CA Osasuna,Real Madrid CF,1,1
+2025-02-15T17:30:00Z,PD,Club Atlético de Madrid,RC Celta de Vigo,1,1
+2025-02-15T20:00:00Z,PD,Villarreal CF,Valencia CF,1,1
+2025-02-16T13:00:00Z,PD,RCD Espanyol de Barcelona,Athletic Club,1,1
+2025-02-16T15:15:00Z,PD,Real Valladolid CF,Sevilla FC,0,4
+2025-02-16T17:30:00Z,PD,RCD Mallorca,UD Las Palmas,3,1
+2025-02-16T20:00:00Z,PD,Real Betis Balompié,Real Sociedad de Fútbol,3,0
+2025-02-17T20:00:00Z,PD,FC Barcelona,Rayo Vallecano de Madrid,1,0
+2025-02-21T20:00:00Z,PD,RC Celta de Vigo,CA Osasuna,1,0
+2025-02-22T13:00:00Z,PD,Deportivo Alavés,RCD Espanyol de Barcelona,0,1
+2025-02-22T15:15:00Z,PD,Rayo Vallecano de Madrid,Villarreal CF,0,1
+2025-02-22T17:30:00Z,PD,Valencia CF,Club Atlético de Madrid,0,3
+2025-02-22T20:00:00Z,PD,UD Las Palmas,FC Barcelona,0,2
+2025-02-23T13:00:00Z,PD,Athletic Club,Real Valladolid CF,7,1
+2025-02-23T15:15:00Z,PD,Real Madrid CF,Girona FC,2,0
+2025-02-23T17:30:00Z,PD,Getafe CF,Real Betis Balompié,1,2
+2025-02-23T20:00:00Z,PD,Real Sociedad de Fútbol,CD Leganés,3,0
+2025-02-24T20:00:00Z,PD,Sevilla FC,RCD Mallorca,1,1
+2025-02-28T20:00:00Z,PD,Real Valladolid CF,UD Las Palmas,1,1
+2025-03-01T13:00:00Z,PD,Girona FC,RC Celta de Vigo,2,2
+2025-03-01T15:15:00Z,PD,Rayo Vallecano de Madrid,Sevilla FC,1,1
+2025-03-01T17:30:00Z,PD,Real Betis Balompié,Real Madrid CF,2,1
+2025-03-01T20:00:00Z,PD,Club Atlético de Madrid,Athletic Club,1,0
+2025-03-02T13:00:00Z,PD,CD Leganés,Getafe CF,1,0
+2025-03-02T15:15:00Z,PD,FC Barcelona,Real Sociedad de Fútbol,4,0
+2025-03-02T17:30:00Z,PD,RCD Mallorca,Deportivo Alavés,1,1
+2025-03-02T20:00:00Z,PD,CA Osasuna,Valencia CF,3,3
+2025-03-08T13:00:00Z,PD,RC Celta de Vigo,CD Leganés,2,1
+2025-03-08T15:15:00Z,PD,Deportivo Alavés,Villarreal CF,1,0
+2025-03-08T17:30:00Z,PD,Valencia CF,Real Valladolid CF,2,1
+2025-03-09T13:00:00Z,PD,Getafe CF,Club Atlético de Madrid,2,1
+2025-03-09T15:15:00Z,PD,Real Madrid CF,Rayo Vallecano de Madrid,2,1
+2025-03-09T17:30:00Z,PD,Athletic Club,RCD Mallorca,1,1
+2025-03-09T17:30:00Z,PD,Real Betis Balompié,UD Las Palmas,1,0
+2025-03-09T20:00:00Z,PD,Real Sociedad de Fútbol,Sevilla FC,0,1
+2025-03-10T20:00:00Z,PD,RCD Espanyol de Barcelona,Girona FC,1,1
+2025-03-14T20:00:00Z,PD,UD Las Palmas,Deportivo Alavés,2,2
+2025-03-15T13:00:00Z,PD,Real Valladolid CF,RC Celta de Vigo,0,1
+2025-03-15T15:15:00Z,PD,RCD Mallorca,RCD Espanyol de Barcelona,2,1
+2025-03-15T17:30:00Z,PD,Villarreal CF,Real Madrid CF,1,2
+2025-03-15T20:00:00Z,PD,Girona FC,Valencia CF,1,1
+2025-03-16T13:00:00Z,PD,CD Leganés,Real Betis Balompié,2,3
+2025-03-16T15:15:00Z,PD,Sevilla FC,Athletic Club,0,1
+2025-03-16T17:30:00Z,PD,CA Osasuna,Getafe CF,1,2
+2025-03-16T17:30:00Z,PD,Rayo Vallecano de Madrid,Real Sociedad de Fútbol,2,2
+2025-03-16T20:00:00Z,PD,Club Atlético de Madrid,FC Barcelona,2,4
+2025-03-27T20:00:00Z,PD,FC Barcelona,CA Osasuna,3,0
+2025-03-29T13:00:00Z,PD,Real Sociedad de Fútbol,Real Valladolid CF,2,1
+2025-03-29T15:15:00Z,PD,RCD Espanyol de Barcelona,Club Atlético de Madrid,1,1
+2025-03-29T17:30:00Z,PD,Deportivo Alavés,Rayo Vallecano de Madrid,0,2
+2025-03-29T20:00:00Z,PD,Real Madrid CF,CD Leganés,3,2
+2025-03-30T12:00:00Z,PD,Getafe CF,Villarreal CF,1,2
+2025-03-30T14:15:00Z,PD,FC Barcelona,Girona FC,4,1
+2025-03-30T16:30:00Z,PD,Athletic Club,CA Osasuna,0,0
+2025-03-30T16:30:00Z,PD,Valencia CF,RCD Mallorca,1,0
+2025-03-30T19:00:00Z,PD,Real Betis Balompié,Sevilla FC,2,1
+2025-03-31T19:00:00Z,PD,RC Celta de Vigo,UD Las Palmas,1,1
+2025-04-04T19:00:00Z,PD,Rayo Vallecano de Madrid,RCD Espanyol de Barcelona,0,4
+2025-04-05T12:00:00Z,PD,Girona FC,Deportivo Alavés,0,1
+2025-04-05T14:15:00Z,PD,Real Madrid CF,Valencia CF,1,2
+2025-04-05T16:30:00Z,PD,RCD Mallorca,RC Celta de Vigo,1,2
+2025-04-05T19:00:00Z,PD,FC Barcelona,Real Betis Balompié,1,1
+2025-04-06T12:00:00Z,PD,UD Las Palmas,Real Sociedad de Fútbol,1,3
+2025-04-06T14:15:00Z,PD,Sevilla FC,Club Atlético de Madrid,1,2
+2025-04-06T16:30:00Z,PD,Real Valladolid CF,Getafe CF,0,4
+2025-04-06T19:00:00Z,PD,Villarreal CF,Athletic Club,0,0
+2025-04-07T19:00:00Z,PD,CD Leganés,CA Osasuna,1,1
+2025-04-11T19:00:00Z,PD,Valencia CF,Sevilla FC,1,0
+2025-04-12T12:00:00Z,PD,Real Sociedad de Fútbol,RCD Mallorca,0,2
+2025-04-12T14:15:00Z,PD,Getafe CF,UD Las Palmas,1,3
+2025-04-12T16:30:00Z,PD,RC Celta de Vigo,RCD Espanyol de Barcelona,0,2
+2025-04-12T19:00:00Z,PD,CD Leganés,FC Barcelona,0,1
+2025-04-13T12:00:00Z,PD,CA Osasuna,Girona FC,2,1
+2025-04-13T14:15:00Z,PD,Deportivo Alavés,Real Madrid CF,0,1
+2025-04-13T16:30:00Z,PD,Real Betis Balompié,Villarreal CF,1,2
+2025-04-13T19:00:00Z,PD,Athletic Club,Rayo Vallecano de Madrid,3,1
+2025-04-14T19:00:00Z,PD,Club Atlético de Madrid,Real Valladolid CF,4,2
+2025-04-18T19:00:00Z,PD,RCD Espanyol de Barcelona,Getafe CF,1,0
+2025-04-19T12:00:00Z,PD,Rayo Vallecano de Madrid,Valencia CF,1,1
+2025-04-19T14:15:00Z,PD,FC Barcelona,RC Celta de Vigo,4,3
+2025-04-19T16:30:00Z,PD,RCD Mallorca,CD Leganés,0,0
+2025-04-19T19:00:00Z,PD,UD Las Palmas,Club Atlético de Madrid,1,0
+2025-04-20T12:00:00Z,PD,Real Valladolid CF,CA Osasuna,2,3
+2025-04-20T14:15:00Z,PD,Villarreal CF,Real Sociedad de Fútbol,2,2
+2025-04-20T16:30:00Z,PD,Sevilla FC,Deportivo Alavés,1,1
+2025-04-20T19:00:00Z,PD,Real Madrid CF,Athletic Club,1,0
+2025-04-21T19:00:00Z,PD,Girona FC,Real Betis Balompié,1,3
+2025-04-22T17:00:00Z,PD,Valencia CF,RCD Espanyol de Barcelona,1,1
+2025-04-22T19:30:00Z,PD,FC Barcelona,RCD Mallorca,1,0
+2025-04-23T17:00:00Z,PD,Athletic Club,UD Las Palmas,1,0
+2025-04-23T17:00:00Z,PD,RC Celta de Vigo,Villarreal CF,3,0
+2025-04-23T19:30:00Z,PD,Deportivo Alavés,Real Sociedad de Fútbol,1,0
+2025-04-23T19:30:00Z,PD,Getafe CF,Real Madrid CF,0,1
+2025-04-24T17:00:00Z,PD,CA Osasuna,Sevilla FC,1,0
+2025-04-24T17:00:00Z,PD,CD Leganés,Girona FC,1,1
+2025-04-24T19:30:00Z,PD,Club Atlético de Madrid,Rayo Vallecano de Madrid,3,0
+2025-04-24T19:30:00Z,PD,Real Betis Balompié,Real Valladolid CF,5,1
+2025-04-27T14:15:00Z,PD,Villarreal CF,RCD Espanyol de Barcelona,1,0
+2025-05-02T19:00:00Z,PD,Rayo Vallecano de Madrid,Getafe CF,1,0
+2025-05-03T12:00:00Z,PD,Deportivo Alavés,Club Atlético de Madrid,0,0
+2025-05-03T14:15:00Z,PD,Villarreal CF,CA Osasuna,4,2
+2025-05-03T16:30:00Z,PD,UD Las Palmas,Valencia CF,2,3
+2025-05-03T19:00:00Z,PD,Real Valladolid CF,FC Barcelona,1,2
+2025-05-04T12:00:00Z,PD,Real Madrid CF,RC Celta de Vigo,3,2
+2025-05-04T14:15:00Z,PD,Sevilla FC,CD Leganés,2,2
+2025-05-04T16:30:00Z,PD,RCD Espanyol de Barcelona,Real Betis Balompié,1,2
+2025-05-04T19:00:00Z,PD,Real Sociedad de Fútbol,Athletic Club,0,0
+2025-05-05T19:00:00Z,PD,Girona FC,RCD Mallorca,1,0
+2025-05-09T19:00:00Z,PD,UD Las Palmas,Rayo Vallecano de Madrid,0,1
+2025-05-10T12:00:00Z,PD,Valencia CF,Getafe CF,3,0
+2025-05-10T14:15:00Z,PD,RC Celta de Vigo,Sevilla FC,3,2
+2025-05-10T16:30:00Z,PD,Girona FC,Villarreal CF,0,1
+2025-05-10T16:30:00Z,PD,RCD Mallorca,Real Valladolid CF,2,1
+2025-05-10T19:00:00Z,PD,Club Atlético de Madrid,Real Sociedad de Fútbol,4,0
+2025-05-11T12:00:00Z,PD,CD Leganés,RCD Espanyol de Barcelona,3,2
+2025-05-11T14:15:00Z,PD,FC Barcelona,Real Madrid CF,4,3
+2025-05-11T16:30:00Z,PD,Athletic Club,Deportivo Alavés,1,0
+2025-05-11T19:00:00Z,PD,Real Betis Balompié,CA Osasuna,1,1
+2025-05-13T17:00:00Z,PD,Real Valladolid CF,Girona FC,0,1
+2025-05-13T18:00:00Z,PD,Real Sociedad de Fútbol,RC Celta de Vigo,0,1
+2025-05-13T19:30:00Z,PD,Sevilla FC,UD Las Palmas,1,0
+2025-05-14T17:00:00Z,PD,Deportivo Alavés,Valencia CF,1,0
+2025-05-14T17:00:00Z,PD,Villarreal CF,CD Leganés,3,0
+2025-05-14T19:30:00Z,PD,Real Madrid CF,RCD Mallorca,2,1
+2025-05-15T17:00:00Z,PD,CA Osasuna,Club Atlético de Madrid,2,0
+2025-05-15T17:00:00Z,PD,Rayo Vallecano de Madrid,Real Betis Balompié,2,2
+2025-05-15T19:30:00Z,PD,Getafe CF,Athletic Club,0,2
+2025-05-15T19:30:00Z,PD,RCD Espanyol de Barcelona,FC Barcelona,0,2
+2025-05-18T17:00:00Z,PD,Club Atlético de Madrid,Real Betis Balompié,4,1
+2025-05-18T17:00:00Z,PD,RC Celta de Vigo,Rayo Vallecano de Madrid,1,2
+2025-05-18T17:00:00Z,PD,FC Barcelona,Villarreal CF,2,3
+2025-05-18T17:00:00Z,PD,Sevilla FC,Real Madrid CF,0,2
+2025-05-18T17:00:00Z,PD,Valencia CF,Athletic Club,0,1
+2025-05-18T17:00:00Z,PD,RCD Mallorca,Getafe CF,1,2
+2025-05-18T17:00:00Z,PD,Real Sociedad de Fútbol,Girona FC,3,2
+2025-05-18T17:00:00Z,PD,Real Valladolid CF,Deportivo Alavés,0,1
+2025-05-18T17:00:00Z,PD,UD Las Palmas,CD Leganés,0,1
+2025-05-18T17:00:00Z,PD,CA Osasuna,RCD Espanyol de Barcelona,2,0
